@@ -1,4 +1,4 @@
-import { useCallback, useMemo, useState } from 'react'
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { AlertCircleIcon, DownloadIcon, InfoIcon } from 'lucide-react'
 import {
   aggregateCommitsByAuthor,
@@ -13,6 +13,10 @@ import {
   downloadCsv,
   sanitizeFilenamePart,
 } from '@/lib/csv'
+import {
+  csvUrlBasename,
+  normalizeGithubCsvUrl,
+} from '@/lib/githubCsvUrl'
 import {
   fetchBranches,
   fetchCommitsForAllBranches,
@@ -49,9 +53,12 @@ export default function App() {
 
   const [loadingBranches, setLoadingBranches] = useState(false)
   const [generating, setGenerating] = useState(false)
+  const [loadingCsvUrl, setLoadingCsvUrl] = useState(false)
+  const [csvUrl, setCsvUrl] = useState('')
   const [progress, setProgress] = useState('')
   const [error, setError] = useState<string | null>(null)
   const [warning, setWarning] = useState<string | null>(null)
+  const csvQueryLoaded = useRef(false)
 
   const [contributors, setContributors] = useState<ContributorCount[]>([])
   const [scannedCommits, setScannedCommits] = useState<GithubCommit[]>([])
@@ -282,6 +289,48 @@ export default function App() {
     }
   }
 
+  const handleLoadCsvUrl = useCallback(async (urlInput: string) => {
+    setError(null)
+    setWarning(null)
+    setLoadingCsvUrl(true)
+    setProgress('Fetching CSV…')
+
+    try {
+      const rawUrl = normalizeGithubCsvUrl(urlInput)
+      const response = await fetch(rawUrl)
+      if (!response.ok) {
+        throw new Error(
+          `Failed to fetch CSV (${response.status} ${response.statusText}).`,
+        )
+      }
+      const text = await response.text()
+      const commits = commitsFromCsv(text)
+      const byAuthor = aggregateCommitsByAuthor(commits)
+      setScannedCommits(commits)
+      setContributors(byAuthor)
+      setExcludedNames([])
+      setReportTitle(`Loaded from ${csvUrlBasename(rawUrl)}`)
+      setCsvUrl(urlInput.trim())
+      setProgress('')
+    } catch (err) {
+      setProgress('')
+      setError(err instanceof Error ? err.message : 'Failed to load CSV.')
+    } finally {
+      setLoadingCsvUrl(false)
+    }
+  }, [])
+
+  useEffect(() => {
+    if (csvQueryLoaded.current) return
+    const params = new URLSearchParams(window.location.search)
+    const csvParam = params.get('csv')
+    if (!csvParam) return
+    csvQueryLoaded.current = true
+    const decoded = csvParam.trim()
+    setCsvUrl(decoded)
+    void handleLoadCsvUrl(decoded)
+  }, [handleLoadCsvUrl])
+
   return (
     <div className="mx-auto w-full max-w-4xl px-4 py-10 sm:px-6">
       <header className="mb-8 space-y-2">
@@ -317,9 +366,13 @@ export default function App() {
               onTokenChange={setToken}
               loadingBranches={loadingBranches}
               generating={generating}
+              loadingCsvUrl={loadingCsvUrl}
+              csvUrl={csvUrl}
+              onCsvUrlChange={setCsvUrl}
               onLoadBranches={loadBranches}
               onGenerate={generateReport}
               onLoadCsvFile={handleLoadCsvFile}
+              onLoadCsvUrl={handleLoadCsvUrl}
             />
           </CardContent>
         </Card>

@@ -1,5 +1,5 @@
 import { useRef, type FormEvent } from 'react'
-import { UploadIcon } from 'lucide-react'
+import { LinkIcon, UploadIcon } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
@@ -19,9 +19,13 @@ type RepoFormProps = {
   onTokenChange: (token: string) => void
   loadingBranches: boolean
   generating: boolean
+  loadingCsvUrl: boolean
+  csvUrl: string
+  onCsvUrlChange: (value: string) => void
   onLoadBranches: () => void
   onGenerate: () => void
   onLoadCsvFile: (file: File) => void
+  onLoadCsvUrl: (url: string) => void
 }
 
 export function RepoForm({
@@ -37,9 +41,13 @@ export function RepoForm({
   onTokenChange,
   loadingBranches,
   generating,
+  loadingCsvUrl,
+  csvUrl,
+  onCsvUrlChange,
   onLoadBranches,
   onGenerate,
   onLoadCsvFile,
+  onLoadCsvUrl,
 }: RepoFormProps) {
   const fileInputRef = useRef<HTMLInputElement>(null)
 
@@ -48,7 +56,7 @@ export function RepoForm({
     onGenerate()
   }
 
-  const busy = loadingBranches || generating
+  const busy = loadingBranches || generating || loadingCsvUrl
 
   return (
     <form className="grid gap-4" onSubmit={handleSubmit}>
@@ -117,6 +125,30 @@ export function RepoForm({
           <UploadIcon data-icon="inline-start" />
           Load CSV
         </Button>
+      </div>
+
+      <div className="grid gap-2">
+        <Label htmlFor="csv-url">Load CSV from URL</Label>
+        <div className="flex flex-wrap gap-2">
+          <Input
+            id="csv-url"
+            type="url"
+            value={csvUrl}
+            onChange={(e) => onCsvUrlChange(e.target.value)}
+            placeholder="https://github.com/owner/repo/blob/main/SavedCSVs/file.csv"
+            disabled={busy}
+            className="min-w-[240px] flex-1"
+          />
+          <Button
+            type="button"
+            variant="outline"
+            disabled={busy || !csvUrl.trim()}
+            onClick={() => onLoadCsvUrl(csvUrl)}
+          >
+            <LinkIcon data-icon="inline-start" />
+            {loadingCsvUrl ? 'Loading…' : 'Load URL'}
+          </Button>
+        </div>
       </div>
     </form>
   )
