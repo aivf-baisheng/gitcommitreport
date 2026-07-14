@@ -16,6 +16,7 @@ This is meant to be hosted on github pages.
 ## Constraints
 
 - Prefer a client-only SPA (no backend/server runtime).
-- Report focus: list/show all contributors for a GitHub repository.
+- Report focus: list/show contributors for a GitHub repository (bar chart by commit count).
+- Support excluding authors by git author name (checkboxes on the report).
 - Deploy target: GitHub Pages (static build output; respect `base`/asset paths when scaffolding).
 - Do not assume server-side secrets or SSR frameworks unless the user explicitly changes direction.
