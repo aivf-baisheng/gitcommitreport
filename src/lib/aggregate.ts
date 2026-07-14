@@ -40,29 +40,31 @@ function contributorKey(
   label: string
   login: string | null
 } {
-  if (commit.author?.login) {
-    return {
-      key: `login:${commit.author.login}`,
-      label: commit.author.login,
-      login: commit.author.login,
-    }
-  }
-
   const rawName = commit.commit.author?.name?.trim()
-  const resolvedLogin = rawName ? nameToLogins.get(rawName)?.[0] : undefined
-  if (resolvedLogin) {
+  const commitLogin = commit.author?.login ?? null
+  const resolvedLogin =
+    commitLogin ?? (rawName ? nameToLogins.get(rawName)?.[0] ?? null : null)
+
+  if (rawName) {
     return {
-      key: `login:${resolvedLogin}`,
-      label: resolvedLogin,
+      key: `name:${rawName}`,
+      label: rawName,
       login: resolvedLogin,
     }
   }
 
-  const name = rawName || 'Unknown'
+  if (commitLogin) {
+    return {
+      key: `login:${commitLogin}`,
+      label: commitLogin,
+      login: commitLogin,
+    }
+  }
+
   const email = commit.commit.author?.email?.trim()
-  const label = email ? `${name} <${email}>` : name
+  const label = email ? `Unknown <${email}>` : 'Unknown'
   return {
-    key: `name:${name}|${email ?? ''}`,
+    key: `name:Unknown|${email ?? ''}`,
     label,
     login: null,
   }
@@ -90,6 +92,7 @@ export function aggregateCommitsByAuthor(commits: GithubCommit[]): ContributorCo
     const existing = map.get(key)
     if (existing) {
       existing.commits += 1
+      if (!existing.login && login) existing.login = login
       if (!existing.avatarUrl && commit.author?.avatar_url) {
         existing.avatarUrl = commit.author.avatar_url
       }
