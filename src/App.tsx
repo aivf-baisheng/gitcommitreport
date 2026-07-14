@@ -280,7 +280,11 @@ export default function App() {
     const branchPart = sanitizeFilenamePart(
       allBranches ? 'all-branches' : normalizeBranchName(branch) || 'HEAD',
     )
-    const filename = `${repoPart}-${branchPart}-commits.csv`
+    const now = new Date()
+    const dd = String(now.getDate()).padStart(2, '0')
+    const mm = String(now.getMonth() + 1).padStart(2, '0')
+    const yyyy = String(now.getFullYear())
+    const filename = `${repoPart}-${branchPart}-commits-${dd}${mm}${yyyy}.csv`
     downloadCsv(filename, commitsToCsv(scannedCommits))
   }
 
