@@ -1,0 +1,428 @@
+sha,login,author_name,author_email,author_date,message
+0fc9056417d05deda34209d450f21461ea414e7f,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-07-14T01:42:17Z,MOON-703 Full implementation of the test connection button.
+c0780a62255a2f1d798bf4fde5fb0b21490fd74b,,Kayden Yip,--global,2026-07-13T03:38:07Z,[MOON-647] Updated example prompts for CyberSecEval
+7ce9a188712dbce94629c334c6ae0d5d4fd168cd,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-07-09T09:28:16Z,MOON-700 Removed progress bar and set updates to 5 seconds
+03ad1327c6e3fecfec3808b9a73383d61d80dc28,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-07-09T09:00:36Z,MOON-669 changed wording as per image in ticket
+8bcb900e573554d36e2d2e4e7d6f6d76e44645da,aivf-harry,Harry Zhao,zhao_peng@imda.gov.sg,2026-07-10T04:24:15Z,Refine UI for Sample Size Calculation
+8f876838b022d031aeac405e4e606ef1347f2b6e,aivf-harry,Harry Zhao,zhao_peng@imda.gov.sg,2026-07-10T03:40:49Z,Update SampleSizeCard.tsx
+f5863024d7a449a310fd613594cce372aa211714,aivf-harry,Harry Zhao,zhao_peng@imda.gov.sg,2026-07-10T03:24:50Z,Update TestResultOverview.tsx
+3322374ec621303542e5f415835a1f46da37357c,aivf-harry,Harry Zhao,zhao_peng@imda.gov.sg,2026-07-10T03:21:45Z,Update TestResultOverview.tsx
+86886b5d7a654692db93ab0b1e0daee178ee3e93,aivf-harry,Harry Zhao,zhao_peng@imda.gov.sg,2026-07-10T03:19:29Z,Update TestResultOverview.tsx
+e279e0f6b8c6b32115a68b37539348c3e91b1b05,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-07-09T08:14:24Z,MOON-669 Unknown will now be shown when it is a connector error and error will be shown when it is a metric error as per the ticket.
+129eeb7035df81221b0faccf8e8120562cd18078,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-07-09T07:55:42Z,MOON-669 Changed wording of failed to Completed with Errors for the history page
+101bc51777099aa0aaf67349053f9e5b82cb8612,aivf-harry,Harry Zhao,zhao_peng@imda.gov.sg,2026-07-09T03:47:21Z,Update page.tsx
+9584483679516b46671034814422943cc4b6dc37,aivf-harry,Harry Zhao,zhao_peng@imda.gov.sg,2026-07-09T03:39:35Z,Update TestResultBundle.tsx
+f872b5797c21276d74656267f1b8a4d30a52982f,aivf-harry,Harry Zhao,zhao_peng@imda.gov.sg,2026-07-09T03:37:15Z,Update TestResultBundle.tsx
+dae1412d3ce1a8fb82a8b5c893adbd91fe5eb304,aivf-harry,Harry Zhao,zhao_peng@imda.gov.sg,2026-07-09T03:32:30Z,Update summary score card
+cb72ba94c333db9552e78bb52cd7b30a3753f082,aivf-harry,Harry Zhao,zhao_peng@imda.gov.sg,2026-07-09T03:10:29Z,Modify hover explanation for sample size
+94b56238440d4d2708c3b10553820f164414a789,aivf-harry,Harry Zhao,zhao_peng@imda.gov.sg,2026-07-09T02:54:00Z,Update SampleSizeCard.tsx
+a0d816e02313393bdba0a741a415bf9274f36174,aivf-harry,Harry Zhao,zhao_peng@imda.gov.sg,2026-07-09T02:52:05Z,Udpate title for connecting LLM-as-judge models
+3387c917938ffd6b5c07cc74c767b949edbb56ef,aivf-harry,Harry Zhao,zhao_peng@imda.gov.sg,2026-07-09T02:48:31Z,Update message for saved token/secret for LLM models/apps
+5c737ef077bc3fa847e9628261eb331082ab138e,aivf-harry,Harry Zhao,zhao_peng@imda.gov.sg,2026-07-09T02:37:42Z,Update FE content for Select App/ Model
+9f0cd7ebb899ecdc71f436868c02487a05d65e4e,aivf-harry,Harry Zhao,zhao_peng@imda.gov.sg,2026-07-09T02:33:12Z,Update ViewTestApp.tsx
+5f4558d7d5138e30a40a12a6ec3bc8b96bc93841,aivf-harry,Harry Zhao,zhao_peng@imda.gov.sg,2026-07-09T02:26:26Z,Update FE content for Required Connectors
+0f30c04d77664f5327ba86ce2554d74cbeeafd0a,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-07-08T08:36:50Z,MOON-669 updated in order to get error status/ messages and adding to the table. Also changed badges to show the error. If the test has an error it is not part of the bar chart
+133168ff64f8118fb774480da80fda9a04429f4e,aivf-kaydenyip,aivf-kaydenyip,kayden@aiverify.sg,2026-07-08T05:18:28Z,[MOON-647] Updated new example prompts for CyberSecEval
+9092b0e4252bc2ffaf10aa53dec1ccfd80aa7e98,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-07-02T09:05:03Z,MOON-671 allow tests to continue even after an error and log the errors into the databse.
+648670c89eeb1cb3510b51e3f18acaf65aa04eba,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-07-01T08:07:16Z,MOON-670 Create first pass of report pdf with pdf-react. Left in preview to be removed in the future
+61b8c2d11e021e1784e45cf02868f8eccde42c7c,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-24T02:28:57Z,MOON-561 Went ahead with changing the number of prompts to populate the database inorder to change the number of prompts being run in a test.
+95cbac46ca62699bac33c340307942962e1aa330,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-23T06:45:54Z,MOON-704 Changed the behaviour of the logger so that there won't be dangling file handler.
+94b0fb28d8ffcaf8c3904748357cdb53d84609a2,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-23T03:09:27Z,MOON-584 updated unhappy path for sample size as per the ticket
+91b93dcdc0168840ce2c8b922376c5debdae9cc0,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-18T08:31:51Z,increase max wait for tests
+0958ec825e6d183bd37b1ec56ab53ee5cc508f86,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-18T08:19:39Z,MOON-562 fixed erronous pytest
+cabbc9ddddc55714283e51c43d1195e27824396a,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-18T08:03:15Z,MOON-562  added progress monitor for  as per the ticket. Also fixed the start time to be UTC in the back end and only translated to a locale in the front end.
+f3bf3fcc3a85919f6cd1eccec0ca5ead32186ed4,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-17T06:46:57Z,MOON-696 update samplesize card explanation as per the ticket.
+66722b42f94f9bdaeceee1569b7fc4434820301f,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-17T02:47:56Z,Updated test details for cybersec eval
+12de69ca2e62ee7a45e57383a47a2bb73ef818a8,aivf-kaydenyip,aivf-kaydenyip,kayden@aiverify.sg,2026-06-17T02:36:50Z,[MOON-642] Rename evaluator result text to Safe/Unsafe to align with examples shown to user.
+5947d9c3972e1dfc98356cbf132a61c3a47b0bea,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-16T07:51:00Z,Added git ignore for e2e test created db
+8a55e971b63364626fe47b9dab624081bb6ec2b2,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-16T06:47:40Z,MOON-567 add E2E test for download of json file
+d18853f419698b5876a8d59c06ef5cceaa113df2,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-16T02:48:50Z,MOON-642 updated dataset to use the correct target included dataset.
+46b484b3e583eed77f0501a98205b9c7cec80e08,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-16T02:41:57Z,Update pytest to correctly test for current correct behaviour.
+97c3659e7f413101c1ae144a8310aea4ff7d6cf3,aivf-kaydenyip,aivf-kaydenyip,kayden@aiverify.sg,2026-06-15T10:26:08Z,[MOON-642] Modified cybersec metric for Adversarial Prompts Test Bundle; make Adversarial Prompts Test Bundle available to CLI mode
+8419f231020c2dcf5b16c03b8fd806c529a4071a,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-11T10:40:43Z,MOON-693 added learn more button ui to bundle details as well
+c514f0d45dbf7da2006e6619cd128431d0ea4792,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-11T09:39:52Z,MOON-692 Made the learn more button as an outline button
+8598acc2df337d77221136b2d9e63d8046c597fe,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-10T08:16:47Z,MOON-567 Add export capabilities to JSON for the ability to download a json that you can import to processchecklist
+8a7b8b3e5f9671d761acf96b25473db0ea9205ec,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-10T06:24:26Z,MOON-586 remove test description field
+433a96c5744b6c280bf206091ce8f765613ccb7b,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-10T05:00:10Z,"MOON-564 dropped endpoint type, as well as made endpoint show the configuration name"
+41b18226b3de4207263593f601df1bebb05c672c,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-10T01:14:19Z,MOON-559 updated test_details to fix missing prompts
+1c172602ac597b611e9f69fc321d886204f986ee,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-09T09:59:54Z,MOON-554 merged test connection button with test.
+53c6440b4b591e2e536aaf6a12a2b0b6e8765a46,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-09T09:10:22Z,MOON-559 link the learn more button to link to test detail
+a54a01420dd6774ee2fd025848b4959db4e94089,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-09T09:08:20Z,MOON-559 Currently the bundles will be deselected if there are no tests selected within the bundle
+384ca4c6f2b7c1903c6f78f867e5b58a97c46fff,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-09T06:46:57Z,MOON-570 Updated llamaguard annotator and pdf generator to show the tests properly in the process checklist
+1af979a671763a6e0c8924eb91571cfc1ba0301f,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-07T16:16:20Z,"MOON-554 update custom app edit sheet to have a test, require notation for the content. Added ability to update the notation through clicking."
+9105766d37d50a1d3002c5ac6def8da89a700802,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-07T15:12:13Z,MOON-570 updated together adapter package and forwards the max retries to the provider as original intended
+22cb12fddde1772f1082f080bfb8d9a1bf182352,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-05T02:14:13Z,MOON-554 changed authorization secret name
+f7569ce96e2bf1a1f70f006ccb836c97b3a26269,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-05T02:10:39Z,MOON-554 updated custom application sheet to save in parameters and headers
+f13f8864a9d85a76ad63294efc6de9bb6ceced83,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-05T00:57:28Z,MOON-552  changed it so that the time is displayed in the user's locale.
+b42252603ee255a96790be204eece362fcef4b2c,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-04T08:43:27Z,MOON-556 update content changes to app cards as per ticket
+0237bbbe87accbe16a99776ca01fe997da468513,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-04T08:27:39Z,MOON-543 update metric scoring and dataset for cybersec evaluation
+64282fcc6ec32495ccacc7b2a9d696ee76818f13,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-04T05:33:23Z,MOON-668 update docker readme
+ba1c47374f6018c7bb17550ef7330f4fa56a65f1,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-04T05:27:52Z,MOON-668 updated to allow E2E tests as well as adding a shell script to serve the docker easily
+9a0daaa5fe007b36b571fc747c1906027d9dae1c,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-04T04:12:39Z,MOON-668 Updated current implementation to allow for E2E tests
+c1ca7131602e73d0bf28520c82b018a251896a5a,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-04T02:59:21Z,MOON-668 first pass of docker as well as the script
+d5b63af3ade12dcfd4959609d51c91792d60f371,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-04T02:19:52Z,MOON-667 added a script to handle playwright tests and add or change some values in order to set up the e2e test environments.
+58865de49edc5b2dfa8ce3e73bf6773a36486a83,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-03T07:54:01Z,Added requirements.txt to moonshot_core
+6b69a16c2da7f14d4250258dbf3ae971479b5eab,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-03T02:52:14Z,MOON-548 added link to wiki for the guide button
+03c1888d850ef55a0849fe333fd5340c065f693b,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-03T02:49:48Z,Made these changes in order to fix npm run build as well as allow view test to be suspended properly
+5f487c6ab4a727c879d64e180f75a2918afd8b33,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-03T02:10:41Z,MOON-586 added name check for test names
+adb9ec8323b82588d6c61d55764b6d7d4210e54a,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-03T01:58:08Z,"Clean up default model for together update, also cleaned up pytests, clearing a few asyncwarnings and changing time outs to be longer"
+859779d307aa7669d264560551bb671682b9a4c7,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-02T09:38:45Z,MOON-554 added first pass of custom API app configuration
+5015f3676c4e7a0768a4942b6d7d00a2791949bb,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-02T04:57:25Z,remove accidental commit
+b3ef554479508fdbe0d53367fa3dc6fc50ab3ffc,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-02T04:52:27Z,MOON-543 update csv for test_details
+03ff07453f5e254e73b85b81d01043cea47393e4,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-06-02T03:17:39Z,MOON-543 update CSV
+f90bef17a7ff3b7b4caa583f9d5e8c8ca823f31f,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-29T12:11:46Z,MOON-555 made it so that each configuration does not interfere or have problems when being updated
+d2b83bf8b06a99e9be4d5ca2c706acd9374238cd,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-29T03:35:19Z,MOON-543 made changes to allow test details to show model name. Also fixed required endpoint card to no longer be hardcoded
+f49fa741c43bb98bb8218c08512620c90f935c1e,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-28T09:10:58Z,MOON-548 updated links on main page and hid unused button in sidebar
+e233983401254210a110d7b2c5d2eb5f0a8128e7,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-28T08:15:49Z,Added refusal adapter and scoring fix.
+62ccfd7a39c759e498cf9a402fc5f38ec6d85baf,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-28T08:15:11Z,MOON-560 Added code to add refusal_adapter as one of the metrics that require a LLMAAJ
+bb47d72128ea444e0ff260e8a26f23345e4e9cec,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-28T06:51:45Z,MOON-538 updated shared.yaml to show the correct bundles and to show imda starter kit as always first. Also updated the db with a visibility flag in order to get correct behaviour.
+34f9f942c4cb91e5ff80d6e5e68bd3641b2ea735,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-28T05:43:03Z,MOON-561 Updated to make Hide “Test Run (1)” Button
+e9ba27a04ce174151e2644ff4ba4a7221f33d7c6,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-28T05:05:41Z,MOON-544 updated more bundle names
+f6e9739b2b8447156341138b0b3f8131bbe328e0,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-28T04:53:12Z,MOON-544 changed data storage toallow for a per bundle update to state.
+16a75613ad4b4611c1ed3cd3d997ffb79cb110b7,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-28T03:24:31Z,MOON-565 fix bug in filters resetting when data in th. table changes. Also made adifferent filter for bundle to test.
+f71eaa29828998bf872de8b1fa73348d6433564c,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-26T09:31:43Z,MOON-556 update fix for model config update
+93b958e666614607731e9cf02b41f4f1e834458b,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-18T12:01:49Z,MOON-544 changed it so that the bundle selection is only selected if all the tests in a bundle is checked
+13f586fcccd65187be56e43344aee23716c27e62,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-18T07:53:49Z,MOON-560 updated to check if an api key from the selected provider exists
+033cff35338d39a4637c5d1379873db008247f9c,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-18T06:32:19Z,MOON-560 updated content
+8e186c26366e02e3d74e0b80797da2a87024590b,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-18T05:32:14Z,MOON-647 front end change to accept new details
+c7b722310aae74d85c453e49507d462ca10b3de0,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-18T02:30:38Z,MOON-647 backend system to load details
+d700af9814d96948d306f927e028fa069a8071c7,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-14T09:52:42Z,MOON-585 updated poetry lock
+72159641f19dd7a12bac49e50291f5ab125984ad,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-14T09:35:47Z,MOON-585 added test cases to ensure calculation is roughly correct
+7ca50d4a93deb13779bfb7874755afc6acc5126d,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-14T08:53:07Z,MOON-585 fixed front end error when attempting to show CI of 0
+0af5148708a899d0d9ae270f37391c02b36478ed,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-14T08:21:40Z,MOON-585 update backend to calculate margine of error by tests and also make it so that front end reads properly with a debug function
+fec54c75b8bc2422b3de9a907bb8f4e5d8ed7467,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-14T05:49:14Z,MOON-585  added backend for confidence interval
+9e03138c188a62b2b09a89f7c32d85bf04a6b190,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-11T14:58:18Z,MOON-566 add override test result saving as well as remove old placeholder code
+f538ba710e133223597f914fd936f9a15827978e,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-06T08:17:46Z,MOON-653 Added the temperature as agreed upon and fixed the default parameters to be gotten from backend instead of a hardcoded value
+321aeabf7ac84fe9afceeb47d96d2eb1b41dcd33,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-06T06:15:40Z,MOON-654 removed fixedEndpointConfigs
+be712396ee971d9bc031c462453fd626735cb500,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-06T05:52:29Z,Removed placeholder providers.yaml
+452e1e9229b125cc1069514ad6c46f69905ebce7,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-06T02:46:05Z,"MOON-641 fix correct order of retrieval of token, DB first then ENV"
+fa0956fefff02286f65b50d635861fad755c22a7,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-05T08:50:38Z,MOON-652 Added some fixes to selected test states
+1096ed1e8cb747b475331e34e1b1dc416f46c60f,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-05T08:38:29Z,Added descriptions to tests to make sure descriptions are being loaded properly
+3cee0287d34e20b336e6080b89523da6cd813761,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-05T08:10:47Z,MOON-651 small adjustment for backend to follow accuracy_adapter return wise. Fixed front end to handle scoring properly
+ea7d1cb606bf1db387533a333745d7e44df6f684,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-05T06:09:12Z,MOON-651 backend work to show the results properly
+31cabbf87bea354067db664150d041a03235a33f,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-05-04T13:35:15Z,MOON-650 add backend for running multiple tests
+13ad8b9e28ed8e5f83ae4fbd38249b10d0c1bb46,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-04-29T08:59:45Z,MOON-646 Make it so that the result tabs  are correct and follow the bundles instead
+3bb5c1e43cdbc197618edeb49001ea9369ff4f20,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-04-28T09:34:01Z,MOON-644 Made it so that it correctly checks what llmaaj is required and added a new edit just for llmaj editing
+6856de0036cc7ebe82bbc36a349d403a7a3d2f62,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-04-28T07:05:33Z,MOON-643 Add test description and ability to tell if a test uses llmaaj
+a68c4c9ec20ad51b3a13907305e241148bfa788a,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-04-27T09:06:12Z,"Made it so that when sent through api, the result file is not written"
+555e738349aa4a6dae6e83ae2144597e00ccb8fd,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-04-23T08:48:34Z,MOON-639 Update such that changing config name is an update and config parameters are grabbed correctly
+74cda459c19e28ebd71337bf7e084d2d654e8e4a,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-04-23T04:03:59Z,MOON-639 make config show by name instead of model
+7c27827a496e1f8e0fbcd459c56cc4b579f45877,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-04-23T03:49:13Z,MOON-638 fixed test button behaviour
+77507c2cd8d4620327ae502634c1c014ceb04905,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-04-23T03:34:16Z,MOON-638 handle secret handling in front end
+0d33a35f23ed79b13f56b9423ed9f9231ea360c0,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-04-22T08:52:50Z,Moon-638 updated so that test bundles will be sent to the backend when selected
+cf2c911bbf761f22e22aeb30b5aa7065a70e5781,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-04-22T03:15:07Z,general local cev change to make it easier
+345548c41320cf7e1736297cf9768e087cd1b2ec,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-04-20T14:27:17Z,MOON-638 added new api call and fixed a few errors while testing as well as renamed database stuff for providers to keep it consistent
+1029b927e8158a1726f71459ad02a7eff64d82f2,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-04-16T04:26:58Z,MOON-638 First pass front end model selection saving
+e2c5c7fa2a99ac8fd4218e438aae2ecd8a5e073f,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-04-15T09:27:27Z,MOON-637 added api to set llm provider key
+67bff5023870e4895d276d46e314221065705c32,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-04-15T06:18:01Z,remove additional alembic warning
+96628dd279533affeeb1b88453b4e927ad88f861,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-04-15T05:02:39Z,moon-641 encryption file
+d6533c29dc6f0344e4f94700178a73d644dce3ae,aivf-kaydenyip,aivf-kaydenyip,kayden@aiverify.sg,2026-04-10T03:37:33Z,Merge branch 'dev_main' of https://github.com/aiverify-foundation/moonshot-cicd into dev_main
+df81ac31e0a251bded97091da897b9e2e4ab30e8,aivf-kaydenyip,aivf-kaydenyip,kayden@aiverify.sg,2026-04-10T03:37:18Z,[MOON-622][test] add testing sqlite db and cursor files into .gitignore
+b6a599c9f8e7b68895c1500ce169de0652e362eb,aivf-kaydenyip,aivf-kaydenyip,kayden@aiverify.sg,2026-04-10T03:33:45Z,[MOON-640][Alembic] Moonshot will quit if DB migration failed.
+7962f7cebc3b452e0fc2fb6ca7be4ea556503a34,aivf-kaydenyip,aivf-kaydenyip,kayden@aiverify.sg,2026-04-10T03:27:50Z,[MOON-640][Alembic] Prevent Alembic's from overriding moonshot's logger which suppress ERROR logs.
+42d223af85cff765dec27e0f15fb16b37340449b,aivf-kaydenyip,aivf-kaydenyip,kayden@aiverify.sg,2026-04-10T03:23:23Z,"[MOON-640][Alembic] Prefix date time info to migration file name format to be chronological sorted, edited existing file name to follow the format."
+5aae56cc4fe823de0ded5a286f45137b2f6ce040,aivf-kaydenyip,aivf-kaydenyip,kayden@aiverify.sg,2026-04-10T03:16:39Z,[MOON-622][test] Updating model of metric llamaguardannotator_adapter due to deprecation of llama guard 2.
+fd068279f235307b8a5e8e5f03e2536ba2e68844,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-04-09T07:42:04Z,moon-641 added encryption to auth keys
+f0c4dcbeecf4709086a6bbda8744d17a46b36b5b,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-04-09T04:37:39Z,moon-626 Add service to handle provider api key before encryption
+2289511b4ba4e8af436b39dd67c884d8509157c2,aivf-kaydenyip,aivf-kaydenyip,kayden@aiverify.sg,2026-04-08T06:48:33Z,[MOON-622][test] Update metric name for Undesirable Content Benchmark Test Bundle
+f86babfcebf08d90e5968f1aee2e4ae33d090360,aivf-kaydenyip,aivf-kaydenyip,kayden@aiverify.sg,2026-04-08T06:46:27Z,[MOON-621] Removal of IMDA Starter Kit - Hallucination
+e6d2de4adbb6fd519c1c3e9ea712fdb191d195eb,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-04-08T05:01:43Z,Moon-637 Updated endpoint and service to update and get models
+1173837442a0d63c5ea4c242522ae7508059bc7c,aivf-kaydenyip,aivf-kaydenyip,kayden@aiverify.sg,2026-04-07T10:02:01Z,[MOON-622] Migrate IMDA Starter Kit Undesirable Content Benchmark Test from moonshot-v0
+027cb54c927cf2199b44a6a2a31b47deec5d732b,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-04-07T09:37:49Z,MOON-626 Added the ability to get all providers and configurations from a function
+3b6c40741412fa85c8e0fbc3dd867ce9cb870675,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-04-07T02:43:59Z,remove commited removed key T.T
+0cafdc8630dcd909ca2b7c3e5dea5f55605f4bcb,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-04-02T09:26:41Z,moon-634 add ingression of providers through hardcoded properties and also do some misc cleanup of the code
+9e3bcc0ddb4365c2f38e5b648ebc474d7e47463c,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-31T07:10:56Z,moon-626 first pass on how to grab information from the service
+45601375886db25b5f989910237d0b2b13286b3d,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-26T09:45:15Z,moon-625 update the unique keys and columns for system names
+83617da6ae217ae5b39524f847dfce5dc50393d4,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-26T08:16:19Z,moon-604 change run id naming to test_run_id to be more accurate
+baf9d3cecaf337c43bbbead899af20bb6295cd5e,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-26T08:06:21Z,moon-625 add version column to the provider
+eb993f6665d22cf41d7c60c5c5e460867f39c226,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-25T06:43:55Z,moon-613 fixed scoring for approval/disaproval for the charts
+d993aa576bceb00a72453bf1f2f88ad26c889c04,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-24T08:06:22Z,Added comments to mark for deletion
+c75101578c6bf70c8f6b094d2e2958d2c5d4502e,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-24T06:26:49Z,moon-604 remove run bundle api entry point because it shouldn't exist
+f39e746e63c337b1f0d6da769d0697398fefbe07,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-24T03:48:54Z,"moon-616 Fix other pytest errors, also added teardown to offending test such that it doesn't affect future tests."
+6a0aa1ce4f0a685240a7559bd37fbba14eb5692f,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-24T03:30:00Z,moon-604 remove placeholder classes sqlite_model test_sqlite_adapter and update pytests
+3538a2da00eaf651ff53c4d8cf93379c48a97e93,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-19T09:36:13Z,moon-615 fix result view row by row
+c59d8d647ffe4462475e3643b5bffc1d391cac2c,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-18T08:29:21Z,moon-607 run a benchmark test add a hardcoded version for sample_test
+33ca2cf768f272dcc12626a73c2d1e068c8d659c,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-18T06:03:27Z,moon-614 get bundles and tests related to the run id
+54cebc8a43dd3df3fc677b862ec0ad8f9ff64830,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-18T02:11:09Z,moon-614 Added the ability to get run benchmark entities from api in order to get all the runs that have been run before
+76c1f5fe4b97a0c4b788610ba13721c9053e3b42,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-17T09:37:33Z,moon-613 update api with getting all the data rows
+012a564efa55fdad014e7ae133204dd0027c0066,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-17T08:55:44Z,Moon-613 added get_all_prompts_by_run_id and tests and integraiton tests
+8ea92ca8db5bb4c9648d40cdf0330e8452b07d3b,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-17T04:18:33Z,moon-613 Handle renaming
+ddd7f96597a8e2889a1998e6c5de6b72ce449ef0,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-17T03:24:36Z,add changes to pytest to ensure they work
+16acb45d42e0619bed06a8ae14c074202f1e78d7,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-12T06:47:49Z,moon-611 added more tests and updating run test status
+935306ef26a0a626aa59c959c2f03b5d1090b7a6,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-12T03:19:29Z,moon-611 added integration tests for the benchmark run and also make changes to populate the bundle
+6914abf0311c792bb066e535107684510cc6ee18,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-12T01:54:44Z,moon-612 Add llm provider tables first pass
+fb9c4618b9ece0e14b939d4ba051d73364073d79,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-12T01:54:14Z,moon-610 made it so that the bundle will grab from db instead of file
+a13390ab244d10a11cac6d42dfbd1258bc478d9c,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-11T07:50:14Z,moon-610 made sure the benchmark does not get run if theres a duplicate name
+ee504ec4232132242a1fe48690bbb84be369276b,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-11T06:25:27Z,moon-610 update first pass of running a benchmark in fully db terms
+8c36f40d0161f6982b254b7a6a40e0768227baf9,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-10T09:53:48Z,moon-609 integration tests
+96f063d1f890831f551ee283f04c4343fe12636a,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-10T08:56:16Z,moon-610 update integration tests for more cases
+d0dc33796a1582e8b2e47aa6cd86c7cd2de60e97,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-10T07:30:01Z,moon-610 First pass of updating results of a benchmark run
+262bdd716471a2fc10677b795159416b07f3401e,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-05T09:39:32Z,moon-609 add service to add benchmark run status and empty run test prompts
+087009b724d083f11a04f92a5a412c3bf4a23c5e,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-05T06:30:56Z,moon-608 removed scripts and created a service to insert required rows for benchmark run test bundle
+6aefa1a23e391825261230ba66c8e250609c0eb6,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-04T09:06:08Z,moon-605  test updates
+8e8fbdbb86d2b1086c713344c5415ae11266b469,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-04T08:49:09Z,moon-605 added the api endpoint to seed the databases and bundles from the respective files
+187d2d750225f69e49d2a636ea9734212ec3ea8d,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-04T03:52:47Z,moon-605 seeded bundles from config file and the datasets required to read them.
+6d197f42ab025690b569d84223119b8d68e7702b,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-04T03:22:26Z,moon-605 Collapse conditional and shared_config_seed_service into the same class
+2d4d145908a221eae80af2998e14bb2c1c8428c7,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-03-04T02:43:21Z,moon-605 missed files for saving dataset
+09277b085b648a4e6dfcbcc450d89b68f9e366ea,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-02-27T08:37:34Z,moon-605 added tests and code that is required in order to seed the database with required data from a  file that should decide the bundles that should be used/shown
+00a830213e87f2998d5f1ffb346fcf750db6072a,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-02-27T02:51:29Z,moon-605 fix unique key constraint from unique to composite
+f884e0bd277938d33f1cadc9c76f8d4680ef22f2,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-02-26T05:32:29Z,moon-605
+271c769bcdc710c9da8672962750c7bf7a1b3a8e,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-02-25T06:11:21Z,moon-599 Continuing some missed  upsert problems
+95e0923b28941b58e74a94642d27991d14f5118d,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-02-25T04:54:54Z,"moon-599 Remove upsert code and interfaces, changing them to explicit update and inserts. Added more adapters to interact with the tables that are required"
+dc34880dcea7797968003867dd8f360cf6468ab3,,Kayden Yip,--global,2026-02-23T16:15:24Z,[moon-602] Improve testing of LLMProviderAdapter by replace mock.ANY with dirty_equals.IsStr for pydantic objects.
+60bdbb400c163fec7abb593213a573a9b9ac1afe,,Kayden Yip,--global,2026-02-23T16:03:44Z,Merge branch 'dev_main' of https://github.com/aiverify-foundation/moonshot-cicd into dev_main
+2582df2e9a085c57723586a2b4d85509c767c89c,,Kayden Yip,--global,2026-02-23T16:02:52Z,"[MOON-602] Remove unused methods from ProviderRepository interface, replace sqlite_provider_repository with sqlalchemy.llm_provider_adapter"
+58b745ccced007c8996023a617a22233f5be4354,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-02-23T11:56:50Z,moon-604 pydantic warning removal
+3017ef85b24dd60efc6941cbd13fbca2f1cb0a6f,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-02-23T11:56:05Z,moon-599 add benchmark run test adapters and ports for database
+f4b39bc96c61a83e4741a73b977c86559299e9fd,,Kayden Yip,--global,2026-02-23T06:18:31Z,"[MOON-602] Fix sqlite_provider_repository error after changing method arg from ProviderEntity to String, comment out unused import"
+80537ba9bda4f0e182d15a07b2ec798dbcac6c01,,Kayden Yip,--global,2026-02-23T06:08:17Z,Merge branch 'dev_main' of https://github.com/aiverify-foundation/moonshot-cicd into dev_main
+b73a983ffa8431697fce3210a122a0f0c4185d64,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2026-02-23T03:24:02Z,[MOON-602] 1. Corrected OpenAI name in Alembic.
+c0981cbdbfe15815c52fded24d0202e82621e743,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-02-20T06:47:55Z,moon-599 add run_test_prompt related code
+7f27d68d419815ace73bdd57df011c7bf4f2b87b,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2026-02-20T05:53:06Z,[moonshot-602] Remove sqlite_adapter method calls
+782ae89c70385122f37b339f35250adc0c13e8f1,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-02-19T08:51:23Z,moon-604 update config to adhere to newer pydantic convention
+0b4140faababd7c10055a6edb2b51440eb9f34b7,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-02-19T08:42:22Z,MOON-599 allow db to be updated with datasets from the file. Also update dtos to remove pydantic warnings
+749ac8f6a73dccefa00f0bb2a1ff7379cb6835b2,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2026-02-19T07:49:29Z,[MOON-602] Rename app_config table name to moonshot_config to avoid confusion with custom_app_config table name
+a51afc56700e097cc4f16c6d60976535fe086c4a,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2026-02-19T07:25:04Z,[MOON-602] 1. Refactor alembic DB table schema for LLM Provider;
+5fa9a0023d83b223554cffc341f67b61a1a77189,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-02-19T02:28:35Z,MOON-599 added tables for benchmarking test results and database (Test prompts/targets)
+39b7550046955aa0d855abe248da119b47e0d0fb,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2026-02-11T07:42:51Z,"[Moon-602] Refactor Alembic DB schema migition perform during init of SQLAlchemy's Session Manager, modified Session Manager to be singleton"
+ae31d2c3fe47b6d5843c5cc14de11bf464c021bc,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2026-02-11T02:56:09Z,Merge branch 'dev_main' of https://github.com/aiverify-foundation/moonshot-cicd into dev_main
+fca8598bf442d974e499d6b095a210a7f023479d,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2026-02-11T02:55:52Z,[MOON-602] 1. Initial implementation of SQLAlchemyAdapter to replace SQLiteAdapter;
+d9fe5c8ecdb541efd37ba5750b5d2da0c71a99ee,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-02-11T02:29:27Z,moon-599 add a llamguard annotator and the required data and test changes
+36d0151aff3456858c92a75adc249708913c00d5,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-02-05T05:16:20Z,moon-597 update pytest for running single benchmark test
+6de5c409e4c8520c3d368455b23d3db7317adb9c,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-01-29T09:31:08Z,moon-538 unit test for bundle hooks
+e612b637c3f640dac5dfeaba06384b052090a65d,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-01-29T09:30:10Z,moon-586 e2e tests
+939c6d5b973adf1516a0484f8a78d602ca026a69,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-01-29T09:29:22Z,moon-556 e2e tests for model selection
+bb3462ad39b13545fb5a997d8993eb364e896038,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-01-29T09:28:56Z,moon-538 E2E playwright tests for view bundle
+547758cfa223b7146737264024ba17ab4de94c0b,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-01-29T09:27:40Z,moon-586 unit tests for select app or model cards
+d19c5c0a88606e51d57d65d2454c9050e0489d6f,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-01-29T09:27:18Z,moon-586 jest unit tests for testname card
+54ad11c4f84119c2f0eab980f83e869c49e16a0e,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-01-29T09:11:56Z,DEMO CODE requires this
+7c5ff5213144f6016ce6f2ed07ed76c0ae02b488,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-01-29T09:11:14Z,moon-552fix history linking properly
+958cd033e26f854d06dd9f608ff42f38c88fbd87,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-01-29T09:10:34Z,"moon-543 View test details sheet, it is placed in here because this sheet can be used in multiple areas no just in that page"
+5d6e76d8422312a7d7883ef15decd679bbe70933,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-01-29T09:07:19Z,moon-543 Test view added
+474025d679ed16093277f3fe7ec78e38414c2f52,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-01-29T08:53:50Z,moon-566/moon-565 Add Test results
+80ac013db552fc21788942d52085d20ba9fb2941,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-01-29T08:47:21Z,moon-552 History page first pass
+0d698d90497d1d18d74c8f9d961b51269c2ac953,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-01-29T08:46:28Z,TO REMOVE IN THE FUTURE - a Place holder to handle routing when running a benchmark for now
+77af591fb119c61b855a7fdcdc479f2d4008dd94,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-01-29T08:45:45Z,moon-542 added first pass of viewing bundle sheet
+8cc3761ee8f164e7bb68a158331f3422b253ffb6,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-01-29T08:44:05Z,"moon-586 Add ""Select App or Model"" card"
+4df01f310ca08553f8112c5fd5f3f49298dd3838,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-01-29T08:42:52Z,moon-561 fix sample size card to do proper calculations based on the number of tests in the bundle
+cd3876268c36f2b817bc130d0f7b49c521ae930e,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-01-29T08:39:38Z,moon-560 update endpoint connection status
+9948e26b12fd34ae5744e51fb8a0fa08e1b704a6,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-01-29T08:38:17Z,moon-555 update endpoint status
+05773821c15487d05bb7e6e2627e9822153724a3,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-01-29T08:36:13Z,moon-542 Create first pass of the ui components for viewing bundle details
+333529e17fe881e5da84f897a3ee36559a2164ce,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-01-29T07:37:00Z,moon-559  updatred benchmark sidebar to work properly with bundle selection
+030ae65f6b7f2ec2486dc025858dc24cba52b7ac,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-01-29T07:30:47Z,moon-586 added testname and description card
+6a8e70433cc240e9e70aeadafd4ec4ae36c30811,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-01-29T07:09:01Z,moon-543 Updated datasets with real information to get a better method to show the information as well as having examples
+b8d58907dd3ab5a27fa4e00245787a468947a18f,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-01-29T00:57:40Z,moon-597 updated required bundle
+b3e057ebc308ce7ace44fce8cbc6a2296981206f,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-01-28T10:05:52Z,MOON-597 run bundle instead of run benchmark
+bc0385427cc7a026bf6714e6668d092442a3f29e,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-01-28T09:05:22Z,MOON-597 Add POC DB writing  and running the task as a seperate process
+114d475e241b3ab7476f84c8e6b1e00acbbf65ba,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2026-01-27T08:27:10Z,MOON-597 Added code to allow for running a single benchmark tests for both together and openai api  Also with pytests. Also updated configurations to be more correct
+8d2a25adf8f36f4f28a7ceb7ca9df6e2ec93275e,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-11-18T00:11:46Z,[MOON-588] Migrate existing DDL to Alembic for schema version control and migration
+dae40da5aba237cbe09dc05b4b7e7e039d78b651,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-29T09:20:56Z,moon-542 add padding to the bottom of the app in order to handle the footer. Also updated the bundle card to truncate if the test name is longer than one line
+768ac204b0463b2810fb913085e5aa1a3ee91108,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-29T08:43:16Z,moon-548 Added front page as per required. Also added additional navigation buttons
+ff71e4286a10dee92e5831b418135aed7fbf3604,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-29T05:41:32Z,moon-559 Fixed sidebar expanded test card
+4ddeecf4e072059a0b3040ddef3b173836258cea,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-28T06:01:24Z,moon-560 fix a type error
+fa87a6d6c4d8fe58854448184c91b8222c0fc885,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-28T05:31:32Z,"moon-560 fixed related editmodelsheet that used to use mock data, now they will use fixed configs based on the tests"
+12e9ae1f59a118f8f105e56e96a82b72f416904b,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-28T02:24:13Z,"moon-560 fixed selection and unselection of tests for benchmark sidebar, fixed fixed configs showing only tests and bundles that are selected"
+63b4f83dc382a339a2a07a1c06275f2182b949d3,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-27T08:19:32Z,moon-560 get fixed configs first pass
+bd6283ced9994a748472191877545c619a1d9274,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-27T07:42:17Z,moon-560 fix linter errors and integration tests
+6002eb9817c636a266218cede19ba514e317a20a,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-25T13:08:33Z,moon-560 add fixed endpoints for llmaaj
+c4f683f47bf8d0574633edbc15e17f09736f913f,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-24T09:43:18Z,moon-559 Add test selection and make it so that the tests selected can be gotten from the state
+4bd4fe47a77432a2b2764ddd1d5f67775f1fcc09,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-23T09:34:20Z,"moon-559 Did benchmark tests with fake data, added initial hooks"
+0987ac5e83f013a37fb7088ebe7bebac27496541,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-23T05:29:53Z,"moon-559 Add empty sidebar and fix other navigation elements to work or exist as per the figma so that we have the ""Correct"" Structure of the benchmark App"
+3524438b5c2e6426fd89e4d3593854279b44f5e2,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-22T09:51:48Z,moon-556 use redux to handle state because there will be states to check from other components
+21626a0504b353630b80887b531b698fa0a3aa07,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-22T09:07:59Z,moon-561 First Pass of Sample size card
+b9cc7429b5ef549a43c1c52b03d80cb7e174e2ba,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-22T02:29:17Z,moon-546 make connect open a special version of edit model configuration
+0c95ffa755821d2bbfb6adc9383c8fb9eefc3430,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-21T09:50:22Z,moon-560 updated required Endpoints as per feedback.
+32fd00ff2cccf13b997df033b5fdcabc07d6b9b7,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-21T09:23:23Z,"moon-560  Add Frontend for Required Endpoints, also added Accordion to handle collapsible content"
+18113243ceb3c1329c41b6abfc158d728df27a11,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-21T07:24:34Z,"moon-556 Fix breadcrumb, make it so that provider/app and config/model is left right , fix distances/margin around the card"
+40b581c5e06430b3903f089cca6e63d7be527934,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-21T06:27:27Z,moon-554 update logic for advanced parameter for default/delete and add and also updated the mockdata to accomodate the change
+8b7ee41ff9d4cf38be3a5232f31f31af74f95104,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-21T03:04:21Z,moon-555 update entry points for api
+9d54a857f6a22a5d5f13e7f39307b8c0e1682cd8,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-21T02:55:46Z,"moon-555 first pass of dtos and entities and services for model config and provider, also fixed a few integration test problems"
+d222031715a75e84b79857632d4b18e811452fb6,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-16T09:54:34Z,"moon-555  Updated the edit model sheet to conform to the requirements, also updated the mockdata to more accurately reflect what is required, also added labels. Added first pass of edit Custom Application sheet which is technically moon-554"
+07b0f1a1c27ca282a56b0c74530b850c02472e56,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-15T07:08:22Z,moon-556 add  data-testid  and integration tests
+2480c4dfea7ce5ac8fd901dc84fc4ea1103bcca5,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-15T02:17:37Z,moon-556 update names and behaviour to adhere to the ticket. renaming and actions
+f6262dde3ccba644e9e604ec7d7d368b5a76f981,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-14T15:07:53Z,moon-556 updated custom connector config behaviour and mock data
+f429ecf56e9520ad2622fa59b3e773777a035d4d,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-13T08:26:27Z,"moon-556 split the mock data into it's own component, checks for ""connection"" status and updates the icon accordingly"
+6694e49b20183840eaa139958952d96a87645d7d,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-12T12:02:02Z,"moon-556 removed useless components, Added first pass of the model selection page"
+4c51264ad073d375bf0dcdbd13b16ca5d43cb4e8,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-12T08:29:01Z,"moon-556 first commit for moon-556, installed shadcnui components and converted benchmark into a SPA"
+977ec69f972f5214ef5eba6554734ba0286557cd,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-10T08:14:43Z,"moon-538 Fixed comments, reduced dto to only stuff that is required"
+d21c805c4920862d5fe8bd19fc7330d591233034,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-10T05:58:44Z,"moon-538 category badges are now dynamic, updated shared.yaml to have name and category ofr undesirable-conttent-advanced"
+7045ba7c4fb01ce17fd6130da301d9ab2290ccaa,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-10T05:38:34Z,moon-538 name to id
+57c737ceafc8c359b62711305e6ab32528cd89b0,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-10T05:26:55Z,moon-538 bundle to testbundle entity
+19335727c3245c5775b867ba88453bf53d1cb4ba,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-10T05:16:36Z,moon-538 changed get all test configs to get all benchmark tests
+8e86803a5de013bbacabb99b41a09266092573af,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-10T05:09:35Z,"moon-538 Added ID to entities, removed _STR_ for debugging, fixed pytest configuration, removed description from test_config_entity, fixed data loader to not care about the old format. Added data loader unit tests"
+aa02a23c3c7f461ac31b5f01c2e1ab744d77d0fc,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-09T06:36:06Z,moon-538 change name
+66d7f3bc7a805e27ff93ec6021440a3003e07222,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-09T06:28:14Z,moon-538 node version update
+9455917050ce9e1d3c460c91e73240425e711629,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-09T06:26:16Z,moon-538 update integration test work flow update integration test folder name
+29aa5787c599a9755242cb16f2c7493610832188,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-09T03:16:23Z,moon-538 change name for it to reflect properly
+0e35009d8c69dda3baeb848072853c1ce30d3659,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-09T02:39:33Z,moon-538 update page name to benchmark
+4e8346a93ef9c8fe694c4b171a5a56ff0424ea55,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-09T02:30:59Z,moon-538 update test and id to search for header instead of h1
+c74aafef1b2d67a68fa863b0bc140fdeab73f6c6,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-09T01:19:48Z,moon-538 update integration test
+3e3b89f07bc6b83b8e8356735dd60b08bbdb9012,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-08T08:25:40Z,moon-538 made the tooltip appear at the bottom by default
+38f5079ee6f3a9c695136b9bd29b31de6e622fd5,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-08T08:19:24Z,moon-538 add tooltips
+5dbb3f88b562f43e1a46b34bbbf910112061bb32,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-08T07:13:29Z,moon-538 update integration test
+f9e085b4888eff519a4481923f1ed1a9f0291099,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-08T07:10:57Z,moon-538 fix integration tests as well as update view_bundles to be up to spec.
+e25a72ab6f3086fea0f4d5ff76f89b8da6a7dfdf,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-08T03:15:12Z,moon-538 first pass of integration_tests
+232fc7eb0fb199767ab62e802784d6007a6dc3de,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-07T09:32:17Z,"moon-538 fixed unit tests, also fixed unused inport in view_bundles"
+6ff535d96c0d454c0e2c1c929aa7c1c451191431,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-07T08:45:55Z,moon-538 update playwright tests and add data-testid to elements
+07373a3cbdaf563acff0cda9cccf54fef9bf5c39,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-07T06:55:40Z,moon-538 fix linter errors.
+9ebff06b8ae20a48daea9beab4555dd4dbb58d58,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-07T06:48:24Z,moon-538 Add in the button that requires at least one bundle to be selected to go to the next page
+a07b4bac5359365b9fd3167ae2328711d0f90c1c,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-07T03:31:18Z,moon-538 fix eslint errors
+a2cfafe509389b6e1c0c57bb49d54b2ed5bcc9ab,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-07T03:24:07Z,moon-538  integrated front end and backend
+00afaebd22eaba9b5eb23300669958f2a6bad97e,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-06T07:23:48Z,moon-538 add api and unit tests
+db1684c18fd92664e235930404842499e069c40d,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-06T02:09:44Z,moon538 initial integration tests commit
+d52736379cb058e9f459bf94d52bd07f435e796b,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-04T12:53:09Z,moon-538 first pass unit tests
+a38df5bf023089d44d2c5a5db4dbad733dd61828,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-03T09:50:03Z,"moon-538 update backend to have view bundle, haven't opened it to api yet"
+98fb460bc14510b64cede5654d908224d2ab11bc,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-30T07:45:03Z,moon-538 fix static export errors
+c462a0a6944a1d13aa371b43ded089d692bc620a,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-29T07:31:46Z,moon-538 use redux instead for state management
+16e0e582fc12055c4922adf5f4efe67f650cc87a,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-28T08:31:23Z,moon-538-2 Added Front end code to view a Bundle card
+a47152fc5314f9ec811c6ade539cda6f88047ba6,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-27T11:06:35Z,moon-538 add a new page
+38fab23fb21a2369c4f2b325443567dd203ebe85,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-10-08T09:27:41Z,Merge pull request #22 from aiverify-foundation/moon-536-2
+168fb1d10e08b117de2ba939fd51657ecf7f98e2,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-10-07T08:47:27Z,"moon-536 remove unit tests, will be handled in moon-538"
+05eb3d0a73f01c4857175d4e946d0d83d24aeca7,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-30T07:48:14Z,moon-536 update poetry to have uvicorn and the poetry lock and the package lock. Added additional change to api.py to fix previous bug
+190fa17680bfc5241b1f42b1914953bdf88e5f02,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-30T07:04:42Z,moon-536 commited lib ignore
+dda464a331594f6160f2eac8b915e1e167b4e749,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-30T04:13:07Z,moon-536 ran api.py through pep8
+79498c73e949ba5c28017a1030b539a51dc8f261,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-30T04:09:22Z,moon-536 make it so that the static files are not being served
+acc52a673ba508e5dd7431efeacafcdf53cbef7e,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-30T03:55:58Z,moon-536 Removed unneeded files and changed configuration/ serving to use path.
+4e391159ba9b171e739e0955d216108b23752fa8,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-29T15:48:18Z,"moon-536 removed readme and export_api.py, removed extra git ignore and extra python packages"
+4857371510588a070ede8486abd8a93a7dff8853,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-27T11:00:01Z,moon-536 fix git ignore and missing file
+85550f8f17dcd887893f0d9a87ea0f52b44fed48,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-25T05:18:37Z,moon-536 Added sidebar for free
+1c8f42cf3376ec4a2d563351b0530f0b11b1e30e,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-25T05:08:31Z,moon-536 fixed export error
+8124b72ee8d3b358bfb37b991e8f03d2b9da0ef7,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-25T05:01:08Z,moon-536 Update backend for fast api and fast api hosting
+d9c2c29cdade21f2e3e85b18bda3b5331345a18c,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-25T04:56:03Z,moon-536 initialize the app side with shad cn/ui  and require packages
+aed37233cc1a333137fbe6f72ed75f3b04102c3d,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-10-08T08:37:33Z,Merge pull request #23 from aiverify-foundation/origin/blackduck-polaris
+2c65d59538dd8df597e9d93543b10b8f5b410d0c,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-10-08T08:28:14Z,[WS-214] Shorten job name for readability for Security Scan workflow
+a49fa2dccf4dfc3a2be258e9aea852da773e0cfe,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-10-08T07:40:59Z,[WS-214] Uncomment PR config after validating Security Scan workflow in GitHub Actions
+0a0a125aee94413fa26806db9481b76d04f2be87,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-10-08T07:06:11Z,[WS-214] Standardise step name for Security Scan workflow
+568199864c4736b2f64033bfc29defbd30e5163b,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-10-08T05:57:27Z,[WS2-14] Remove cancel-in-progress for concurrent job as we want the jobs to be queued.
+7bd437043845c01fac200617a534387a9aa4c999,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-10-08T05:30:34Z,[WS-214] Security-scan workflow to have sequential run to prevent Polaris timeout
+4314296de0e671ac041ca790ffdbb7617fb733c6,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-10-08T05:28:05Z,[MOON-535] Cleanup of gitignore
+19911dab9b32fc7ac39fcc48e66ce927faf7635b,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-10-08T05:19:06Z,[MOON-535] Cleanup commented/not needed workflow steps
+de00b95adfd1d2d083a60c5cb20f396f80ada368,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-10-07T17:15:02Z,[WS-214] Bug fix in security-scan.yaml file
+a5509e6c9074cf8c7fe1e93e92e85fb59f00d3e1,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-10-07T17:13:56Z,[WS-214] Bug fix in security-scan.yaml file
+df16b8b2a1dc4a6d2a6d21a71014164b31802a3d,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-10-07T17:12:58Z,[WS-214] Bug fix in security-scan.yaml file
+70ce0113fb3a8b6c45824c6620d3ec5a445c7574,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-10-07T17:09:53Z,[WS-214] Bug fix in security-scan.yaml file
+d82dca3aa13dcfb896a6cbad9f5ca693219814d8,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-10-07T17:06:21Z,"[WS-214] Create security-scam.yaml workflow file, create venv to include dependency installation, remove Secret scan from pre-build-checks ."
+5944509e86e3510cd91bc7a7349e4aca89f7da8b,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-10-07T17:02:29Z,"[WS-214] Create security-scam.yaml workflow file, create venv to include dependency installation, remove Secret scan from pre-build-checks ."
+fe738959c03c4828c279d0876394abdf75330260,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-10-07T16:29:18Z,[WS-214] Remove AWS Credentials task and Slack Notification from pipeline as not required
+80fb5a14fdaef9fe1d84c6be1868db697e08173a,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-10-07T10:14:11Z,[WS-214] Env BRIDGE_PROJECT_DIRECTORY is not needed as project_directory is declared
+913d1fcf0680ede56102e317e1b861c9d0e20219,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-10-07T10:02:03Z,[WS-214] Include bridge CLI env variable to specific moonshot_core and process check directory to scan
+198001dfe9e4471d26d9811b23f600f4abfb88c2,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-10-07T09:23:29Z,[WS-214] Fix same task id workflow error
+1fe64de91ee5cb574ffbb212367ab0e946391d48,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-10-07T09:19:19Z,"[WS-214] Split SCA/SAST into different step due to Gateway Timeout error, added SCA/SAST task into Process Check App workflow"
+a3586b8c974f7f6cc61ef382f789fd35b974d74d,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-10-07T08:58:25Z,[WS-214] Fix on Hadolint multiple redirection for stdout error
+61ed7e4381b5f9668ac8c571512d4e2eba8bcaf9,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-09-29T10:28:10Z,"[WS-214] Since Python venv is required for Polaris SCA, it is better to move the scan back to pre-build-checks by module"
+1318e79b6397d1023fefbab7adc40809108e468d,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-09-29T08:19:59Z,"[WS-214] Try to resolve error ""Required resource polaris.branch.parent.id"" is empty"
+c71e7867b91bc5b6f97acd1dd06d8ec0ed1adae3,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-09-29T08:00:28Z,"[WS-214] Include python installation for moonshot-core for security scan, change sca type to package scan from pyproject.toml"
+76cbb658569e87d623d5324257f9b9b85d822123,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-09-29T07:11:57Z,[WS-214] Test to make security-scan.yaml workflow appear in GitHub Actions without merging to main
+19203aa1f62a46789fc89d5e67eccef759ee4cd6,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-09-29T06:38:18Z,[WS-214] Remove Security Scan from pre-build checks as it is now split by module and create new security-scan workflow
+4f267533582cd760669e7e5997f0c8ab0534cd49,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-09-29T03:56:04Z,[moon-535]  Bugfix on pc-smoke-test-integration-test.yaml file
+9bf9e3967b876d0f5e2d351cd037ed99ddf3b898,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-09-29T03:53:57Z,[moon-535]  Bugfix typo on pc-smoke-test-integration-test.yaml file
+51779a1b74e661ed33b515cf57777b95d903f1fc,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-09-29T03:51:54Z,[moon-535]  Update smoke test workflow to detect changes at process_check_app directory only; build and run Process Checks in docker instead of local streamlit run
+0c75173990fdf53113b879b1332f5adc1fcea044,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-09-29T02:37:25Z,[moon-535] Fix Process Check docker build step as it has its own pyproject.toml file in process-check-app folder and replace hardcoding to env variable for moonshot-cicd docker build and push step.
+2c39da18d46657de4f5f9eed8e18856c1b697a47,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-09-29T02:16:19Z,[WS-214] Fix can't resolve openssl-dev package by allowing it self resolve from rust package dependency and replace full package name with version constraint.
+4cab63ba9984466939f685b24a56a52adc63a968,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-09-29T01:28:26Z,[WS-214] Remove AWS Credentials task from pipeline  as no AWS required
+5246379df56109ddfe305926321eb7448ede07e0,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-09-26T09:22:14Z,Merge branch 'dev_main' into origin/blackduck-polaris
+b65127438a4e5bb2224efaaf3012b3f9194fd96b,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-09-26T08:43:53Z,Merge pull request #18 from aiverify-foundation/firstpass-moon-535
+838844b7851f2a52c22da7815b67a4ee932159e7,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-09-25T07:09:34Z,[moon-535] Change env. to vars. for smoke test workflow file to access repo variables
+c7a7ad2ae6bad468595e42c5b8279a3ff511b75a,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-09-25T06:59:56Z,[moon-535] Update build library version in moonshot dockerfile due to unable to resolve error.
+35cb1287253d34356ca490a0196b4fd098f2d470,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-09-25T06:45:26Z,"[moon-535] Remove AWS_SESSION_TOKEN as current AWS IAM user don't has this, remove explict env variable assignment since they are the same name, and add S3_BUCKET_NAME env variable."
+80d51378e04df03070e1de425925dfe84e8139af,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-09-25T06:42:07Z,[moon-535] Replace env variable OPENAI_TOKEN with OPENAI_API_KEY as this is the correct name required by Moonshot so that Smoke Test don't need to explicitly export it.
+532dd56883e2649ae4e4c5a9d1f7e6d69f75fa2b,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-09-25T02:29:22Z,[moon-535] Remove debug statement from smoke test workflow and added verbose option for pytest
+47cba60de8180aea1ce5784ec34ce9f4927dbe76,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-09-24T10:00:48Z,[moon-535] Change github repo secrets to variables for smoke test workflow file
+086f47cc1ee8cc437d66162ff30da86a14106468,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-09-24T09:38:21Z,[moon-535] Mount .ci folder that is excluded from building of moonshot docker folder
+8aa976891395c31b98d8d184f6d6715f4962b57d,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-09-24T08:52:06Z,[moon-535] Add echo current path for workflow file to debug smoke test on pipeline
+b5ae24a9dabb2d695b0db35c92bc119ffbcb929f,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-09-24T08:49:49Z,[moon-535] Add echo current path for workflow file to debug smoke test on pipeline
+0a4deb27b73d3b8917687d5df604b350790fee23,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-09-22T09:11:58Z,[moon-535] Remove Slack Notification and AWS Credential from Moonshot Smoke Test workflow file
+7350155ff694ea0c2be89a1cdc7f2e1e0d8f7381,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-09-22T09:00:45Z,[moon-535] Pin package version in dockerfile as suggested by Hadolint scan.
+07703fb275a5a82a6b0d8f20052b2b9867ff9bd1,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-09-22T08:29:52Z,[moon-535] Dockerfile for both Moonshot and Process Check App to use non-root user and add .gitignore to exclude app output files
+8c5a6aeed689ae43f3ab0182e35a047f0282bcdf,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-09-19T09:23:33Z,[moon-535] Temp fix to avoid poetry's attribute error for Moonshot-core's first installation
+e64d90d4cd6c5a78fff9b9119e1e53af1fc944bd,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-09-19T09:22:38Z,[moon-535] Remove Process Check App dependency from Moonshot-core's pyproject.toml
+4c5f05e5bc3d451603d9b004e46450606988e006,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-09-19T07:20:55Z,[moon-535] Remove moonshot's dependency from Process Check App's pyproject.toml file and turn off package mode.
+4bceb0c5cd1582aaeeace790d3fa8a093f23d4b3,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-19T06:49:03Z,moon-535 rename actions
+589db9e1eae038e18ca93102a5400eed7cb3952b,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-19T06:46:44Z,moon-535 split git actions to pc and core
+62b432a061be4a197ac7281ca974f0ff85717fac,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-19T05:51:51Z,Merge branch 'firstpass-moon-535' into gitactions-moon-535 to update
+b75b613bfc2bb456ae8b8fd92f88faf1b45e6c6f,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-19T05:48:40Z,moon-535 moonshot_be to moonshot_core and poetry update
+d359fc954ee74c5fa428a1dad10238ae316fd781,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-09-18T04:07:20Z,[WS-214] Give GitHub Advance Security permission for SARIF report upload
+d08c1118090c61fb343e5d9d0d258f7587d73968,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-09-17T09:15:53Z,Add Polaris SAST scan as separate task
+8a973244cc33c9289dc1a54c4a3b3daa8c08094c,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-09-15T09:43:29Z,[WS-214] Try to run only SCA scan to prevent queuing issue
+a1a03f5ab0b7bd1cfe985d43b142677bc3e01e47,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-09-15T09:10:02Z,[WS-214] Bugfix: add comment to Optional Fields
+717f632fd8c749fc4647fdf7eed1842e4f9fa9c3,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-09-15T08:48:30Z,[WS-214] Add Polaris SCA/SAST scan job in pre-build-checks workflow.
+bfa116d1b0270387859a1bb447096acc09df9685,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-15T03:08:05Z,moon-535 updated docker_pc
+e15b03aa21cac8c7368dccd5d8f8940fccaf9211,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-15T02:02:10Z,moon-535 added pre-commit-config.yaml
+daa83e88699183653a1b9ecbb46543ede3813a29,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-15T02:00:34Z,"moon-535 Handle mistakes pointed out by comments, removed src and copied over coverage.rc"
+38f6e15b0acda9ec84d56a093f77996147c70db0,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-11T05:51:28Z,remove more files
+9e4f7fa28b1ade65ebc8334b14fddef6df0f6eb9,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-11T05:50:51Z,remove silly files
+c8e6231ed705ff0d7d49ce6eb94b0528dbcdd261,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-11T05:18:38Z,test without aws
+edaa8d9e8b97ce763f90fb1c738392ae1224a592,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-11T03:03:44Z,moon-535 Fixed directories for run-test
+9fdf607b9f79a7c25f31972430f389936bdf9a56,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-11T02:25:44Z,changed source path after cd
+55431da07fcd57a3311d1edbe7b23d72f0c3effa,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-11T02:13:54Z,added cd
+b7bf31ad5ad6a94c86fed4186b8c968f03c7a477,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-11T01:54:18Z,updated ids
+8c469cccd66d45dcae72ba3a074a1eda0400ede8,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-11T01:48:18Z,Update folder requirements
+53454079c2b97ab41acaaeac0198ce6092d89ad6,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-10T09:25:54Z,Commenting out slack notification because we don't have what is required right now
+f0c02436ff42f85787661a91597080ecff70c7ac,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-11T05:47:17Z,moon-535 fix action shell scripts to work with new structure
+1dae5d5a45da5b10ecfc0f3b4d46a203cc494a9d,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-11T02:54:42Z,moon-535 fixed pytest cases due to change in folder structure
+117a9fa1b862f390aa78a57b27dabd1f23b611db,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-10T08:58:24Z,moon-535 updated  git actions to handle new folder structure
+f1572c41e3e8235986c7ecf917fdf913a009f27a,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-09T09:44:42Z,moon-535 processcheck needs src as well
+c375a86dc6d04f93a0dff1107099132388385789,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-09T09:24:09Z,moon-535 update readme
+945137909c59d455a57748d3098cb7810f2df0e2,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-09T07:50:44Z,moon-535 changed dockerfile to handle docker build problem
+02a64a81d460180f698e690a6af0a2d850fe0d4b,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-09T05:51:49Z,"moon-535 updated files to base ""happy"" Configuration"
+376d01284bfc265d7664e1cd24f8949a35cf3e4b,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-07T06:42:07Z,moon-535 first pass
+a860aa73f0b6d6c8f172a0ac5ff361d5f10f7f6c,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-18T09:28:21Z,Merge pull request #16 from aiverify-foundation/dev_main
+9dc5afb3e6a8063cb6e485ffa4543b544cd5eeef,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-18T06:42:54Z,Merge pull request #15 from aiverify-foundation/Release/1.1.0
+ca41605058c6491651eed147dbae32f5a1942cb3,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-18T05:37:55Z,[Release 1.1.0] Update version from v1.0.0
+5b65fc58dcd7c27fb13e5a2406ea5e82423b6a51,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-18T02:19:47Z,Merge pull request #14 from aiverify-foundation/Moonshot/feature/MOON-56-AnthropicConnector
+4fec524744780a9de3039aa2ae86270eff87019b,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-17T18:22:36Z,[MOON-56] Resolve linting issue.
+c75c739c7bab5b4d42bd6ca55fcdcd35269db42a,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-17T18:16:59Z,[MOON-56] Add Anthropic dependency into pyproject.toml
+97352726d5cf39ec1a65f87a6019bf64c3035dab,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-17T17:55:05Z,[MOON-56] Refactor error handing and added test for AnthropicAdapter.
+0fdcd8cc95390576a7840e2e003bcb373210e089,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-17T05:49:24Z,[Moon-56] Refactor AnthropthicAdapter to replace hardcoding and extract inline logic as its own function.
+b572a38e7f54197b094ae64135bdcb40792c68ef,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-17T05:46:58Z,[MOON-56] Add a sample connector for Anthropic Adapter in config file.
+0ba190c19baa1429949907366f5f8c52fa52601f,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-16T10:16:39Z,[MOON-56] Created Anthropic Adapter and unit tests.
+8c9a3a509298a5d5117e18ad2450ccedb3a88474,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-15T07:21:33Z,Merge pull request #13 from aiverify-foundation/ProcessCheck/feature/MOON-533-TextChanges
+fa6f7f3b4e1733faa1515f29ffe32317549fa79f,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-14T09:36:53Z,[MOON-533] Swap Moonshot and Moonshot CI/CD sample technical report link position
+b4aea7fcfbe8e528ea6a7eec2f0011b89015dec6,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-14T09:06:50Z,"[MOON-533] Add ""G7"" to Hiroshima Proccess CoC link text."
+9024fb7c16aa6f6cf4d0577d1e8c35cd6edf9827,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-14T08:20:37Z,[moon-533] Replaced moonshot versions with moonshot and moonshot-ci/cd in both text and template file name
+384cfe5859598c38627015cda6c65770ee980ae4,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-07-11T07:00:48Z,Merge pull request #12 from aiverify-foundation/dev_main
+6043ae7edeb1c524b7f8684402fae8402b771130,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-07-11T06:56:10Z,Merge pull request #11 from aiverify-foundation/ci/fix
+ad1d3b867c4bb9f3dcd2f6bccbb17dbf6a8039e4,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-07-11T06:51:41Z,Merge pull request #10 from aiverify-foundation/updatereadme
+cf00fd8cfaedf790b498874e071d1ca824b3ce7c,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-11T06:51:15Z,add latest tag
+cfda79956ffa8fe94356c84b26f933122c7278b0,imda-tzx,imda-tzx,tay_zhi_xiang@imda.gov.sg,2025-07-11T06:50:11Z,Update README.md
+0cf2ea70f9395cc925a2ee040f65ab14b959fe4c,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-07-11T06:38:32Z,Merge pull request #8 from aiverify-foundation/dev_main
+b9125a3a643336775e84693d5d020c6889eb1454,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-07-11T06:37:07Z,Merge pull request #9 from aiverify-foundation/Update_README
+b04ab6004d38f3e239155e714f9bf496dead22e5,imda-tzx,imda-tzx,tay_zhi_xiang@imda.gov.sg,2025-07-11T06:32:30Z,Update README.md
+82671c5b4a448024f85a2202ea8ab5665d355da6,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-07-11T06:18:33Z,Merge pull request #7 from aiverify-foundation/ci/fix_release
+0913f066cf0dbe09b10edbf7f2292188fc4ae7ba,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-11T06:13:11Z,small fix for release workflow
+46a410bf6777251b55a24ee656ac02163f42ba97,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-07-11T05:25:29Z,Merge pull request #6 from aiverify-foundation/dev_main
+7515e1be9796e9c905b9c688e2b933325603d0cd,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-11T04:25:43Z,dev_main workflow update
+cd824cfaf6164a291afca2e79e087729f37d4b9c,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-11T04:23:33Z,dev_main workflow update
+0da150e90dd863bd6826da1d1fc6b7bb42696199,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-07-11T04:07:17Z,Merge pull request #5 from aiverify-foundation/ci/fix_ms
+e36e0b811f4da580c2ce289d1a0e55570f987103,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-11T03:33:17Z,update docker build
+3ee35f5b0315d9a37cf7fb397a688c629a9e8932,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-11T02:45:43Z,fixes
+1870b9ebf07541de63f6830159608d4f24d4572a,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-11T02:40:15Z,fixes
+671bc27c8ce436c3f59d41725ecb0f06e5421227,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-11T02:24:50Z,fix
+f78d90445311d84c56e8535cabb1f03fc19ae754,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-11T02:12:48Z,fix
+e0a5f180fb909ceb087acd39faa09d32143287f6,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-11T01:55:13Z,fix
+9996036f01818ecbce49abe2681e7763eb34ea2a,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-07-11T01:53:55Z,Merge pull request #4 from aiverify-foundation/dev_main
+638b5aa6451fbf78af32d769496ab3da8018b8c4,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-07-10T15:03:10Z,Merge pull request #3 from aiverify-foundation/ci/amd
+f1fef6dc5398fe0089ce1199d16d124cdc117054,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-10T08:25:21Z,clean up
+44b08d206887f6e1128d5bd4a05c86d3e6e8f25a,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-10T08:19:52Z,clean up
+49201e6115e1603806092db6a292c3a874533d2e,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-09T16:42:59Z,try one image
+db3e9edee27c40d7cd48a308fad84a930d933f20,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-09T14:28:22Z,build ecr
+263bd820955c55b33547875e01b24efc788432ce,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-09T13:50:11Z,testing
+1128679a284beaa119162bfa4af49a62f01020b5,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-09T12:13:58Z,testing
+96ec8b4057f3c4735c04a75e766cca8662e6689c,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-09T12:06:21Z,testing
+bee2ba1c868b9afebd9bb5dc6cec4d45c7b5af3e,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-09T10:01:15Z,testing
+6e9145b90ca412bdbaf1c8c8d5896d881c5c0e0f,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-09T09:41:15Z,testing
+36831b6f7ef9055996eb68ca9dbd703ae5601f20,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-09T09:18:58Z,try with slim
+cb0b65834502f83dbbcc0474e928a782dda48649,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-09T07:52:11Z,try seperate and amd
+5c0af5bb7da10f4e838f91c911faa1040f4c69a7,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-09T07:49:25Z,try seperate and macos
+8594ca14bf416d0f65368cb870cfef24051726be,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-09T06:57:16Z,push to test
+c3e7b3b12e4eef0579acaf90c2798d0ca5f63b08,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-09T06:49:01Z,trying
+c4fbc032687fa722d51eed8079a41aed59497779,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-09T06:44:44Z,testing
+19a7aaeb8bc3d9bb9adc98c36f1ba4984a951414,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-09T06:41:44Z,testing
+985e0ac54f461a71c60bda86a217efc222a09514,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-09T06:26:59Z,testing
+bd2578f3eead0e9c94c54fdbf8cf02673237df1f,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-07-09T06:19:53Z,Merge pull request #1 from aiverify-foundation/dev_main
+1d1920da5b1d980835d645a55bd9cc10a9fd0f46,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-07-09T01:45:39Z,Merge pull request #2 from aiverify-foundation/update_readme
+4c4df3c122c088fd117529ce5ba03886fd31fc35,imda-tzx,imda-tzx,tay_zhi_xiang@imda.gov.sg,2025-07-08T10:05:53Z,Update README.md
+a425c2b2c38f9595fcef160c228acf1112c3f829,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-07-08T10:03:06Z,Update NOTICES.md
+be81d53f89ec5dc6c78d537f8f767c7d371c0a84,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-08T07:41:21Z,Commented out push to ECR part of workflows
+28a27e6ddc4d7f5cde3588b8ed8fc7d895ec7e27,imda-jerome,jerome,jerome_chan@imda.gov.sg,2025-07-08T07:31:11Z,Initial Commit
+2a0944e10c53bcd82ca4c5a0b3f227faf655ab65,imda-jerome,imda-jerome,jerome_chan@imda.gov.sg,2025-07-04T02:40:24Z,Initial commit
