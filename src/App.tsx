@@ -1,5 +1,11 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
-import { AlertCircleIcon, DownloadIcon, InfoIcon } from 'lucide-react'
+import {
+  AlertCircleIcon,
+  CheckIcon,
+  CopyIcon,
+  DownloadIcon,
+  InfoIcon,
+} from 'lucide-react'
 import {
   aggregateCommitsByAuthor,
   authorNameCommitCounts,
@@ -14,6 +20,7 @@ import {
   sanitizeFilenamePart,
 } from '@/lib/csv'
 import {
+  buildCsvDeepLink,
   csvUrlBasename,
   normalizeGithubCsvUrl,
 } from '@/lib/githubCsvUrl'
@@ -38,6 +45,7 @@ import {
   CardHeader,
   CardTitle,
 } from '@/components/ui/card'
+import { Input } from '@/components/ui/input'
 import { CommitChart } from '@/components/CommitChart'
 import { ContributorExcludeList } from '@/components/ContributorExcludeList'
 import { RepoForm } from '@/components/RepoForm'
@@ -64,6 +72,9 @@ export default function App() {
   const [scannedCommits, setScannedCommits] = useState<GithubCommit[]>([])
   const [reportTitle, setReportTitle] = useState<string | null>(null)
   const [excludedNames, setExcludedNames] = useState<string[]>([])
+  /** Set when the current report came from a GitHub CSV URL (for share deep link). */
+  const [csvDeepLinkSource, setCsvDeepLinkSource] = useState<string | null>(null)
+  const [deepLinkCopied, setDeepLinkCopied] = useState(false)
 
   const authorNames = useMemo(
     () => authorNameCommitCounts(scannedCommits),
@@ -126,6 +137,8 @@ export default function App() {
     setScannedCommits([])
     setReportTitle(null)
     setExcludedNames([])
+    setCsvDeepLinkSource(null)
+    setDeepLinkCopied(false)
 
     try {
       const { owner, repo } = parseGithubRepoUrl(repoUrl)
@@ -275,6 +288,8 @@ export default function App() {
     setError(null)
     setWarning(null)
     setProgress('')
+    setCsvDeepLinkSource(null)
+    setDeepLinkCopied(false)
 
     try {
       const text = await file.text()
@@ -294,9 +309,11 @@ export default function App() {
     setWarning(null)
     setLoadingCsvUrl(true)
     setProgress('Fetching CSV…')
+    setDeepLinkCopied(false)
 
     try {
-      const rawUrl = normalizeGithubCsvUrl(urlInput)
+      const sourceUrl = urlInput.trim()
+      const rawUrl = normalizeGithubCsvUrl(sourceUrl)
       const response = await fetch(rawUrl)
       if (!response.ok) {
         throw new Error(
@@ -310,15 +327,33 @@ export default function App() {
       setContributors(byAuthor)
       setExcludedNames([])
       setReportTitle(`Loaded from ${csvUrlBasename(rawUrl)}`)
-      setCsvUrl(urlInput.trim())
+      setCsvUrl(sourceUrl)
+      setCsvDeepLinkSource(sourceUrl)
       setProgress('')
     } catch (err) {
       setProgress('')
+      setCsvDeepLinkSource(null)
       setError(err instanceof Error ? err.message : 'Failed to load CSV.')
     } finally {
       setLoadingCsvUrl(false)
     }
   }, [])
+
+  const csvDeepLink = useMemo(
+    () => (csvDeepLinkSource ? buildCsvDeepLink(csvDeepLinkSource) : null),
+    [csvDeepLinkSource],
+  )
+
+  async function handleCopyDeepLink() {
+    if (!csvDeepLink) return
+    try {
+      await navigator.clipboard.writeText(csvDeepLink)
+      setDeepLinkCopied(true)
+      window.setTimeout(() => setDeepLinkCopied(false), 2000)
+    } catch {
+      setError('Could not copy link to clipboard.')
+    }
+  }
 
   useEffect(() => {
     if (csvQueryLoaded.current) return
@@ -401,6 +436,41 @@ export default function App() {
               </Alert>
             )}
           </div>
+        )}
+
+        {csvDeepLink && reportTitle && (
+          <Card>
+            <CardHeader>
+              <CardTitle>Shareable deep link</CardTitle>
+              <CardDescription>
+                Anyone with this link can open the same CSV report (public GitHub
+                CSV only).
+              </CardDescription>
+            </CardHeader>
+            <CardContent>
+              <div className="flex flex-wrap gap-2">
+                <Input
+                  readOnly
+                  value={csvDeepLink}
+                  aria-label="Shareable deep link"
+                  className="min-w-[240px] flex-1 font-mono text-xs"
+                  onFocus={(e) => e.target.select()}
+                />
+                <Button
+                  type="button"
+                  variant="outline"
+                  onClick={() => void handleCopyDeepLink()}
+                >
+                  {deepLinkCopied ? (
+                    <CheckIcon data-icon="inline-start" />
+                  ) : (
+                    <CopyIcon data-icon="inline-start" />
+                  )}
+                  {deepLinkCopied ? 'Copied' : 'Copy link'}
+                </Button>
+              </div>
+            </CardContent>
+          </Card>
         )}
 
         {reportTitle && (

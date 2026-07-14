@@ -60,3 +60,14 @@ export function csvUrlBasename(url: string): string {
     return 'file.csv'
   }
 }
+
+/**
+ * Build a shareable app deep link that auto-loads the given GitHub CSV URL.
+ * Uses the current origin and Vite `import.meta.env.BASE_URL`.
+ */
+export function buildCsvDeepLink(csvSourceUrl: string): string {
+  const base = import.meta.env.BASE_URL || '/'
+  const path = base.endsWith('/') ? base : `${base}/`
+  const params = new URLSearchParams({ csv: csvSourceUrl.trim() })
+  return `${window.location.origin}${path}?${params.toString()}`
+}
