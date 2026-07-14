@@ -1,0 +1,1081 @@
+sha,login,author_name,author_email,author_date,message
+cd193615cdf7e1f5ebbb60a4d9802bcc47fec82b,aivf-kaydenyip,Kayden Yip,kayden@aiverify.sg,2026-02-05T05:44:57Z,Merge pull request #137 from aiverify-foundation/dev_main
+9a5d564f6a05a090d624b1c7114baaba9f973a77,aivf-kaydenyip,Kayden Yip,kayden@aiverify.sg,2026-02-05T05:44:23Z,Merge branch 'main' into dev_main
+781da72368b10ba2a55bd80ea640db651c01babf,aivf-kaydenyip,Kayden Yip,kayden@aiverify.sg,2026-02-05T05:38:34Z,Merge pull request #136 from aiverify-foundation/release/0.7.6
+846c8b91e92d619788491dc58c0fb73f2e064284,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2026-02-05T04:50:17Z,[WS-303] Skip 0.7.5 to 0.7.6 version due to cmd2 versioning
+cbdf88a7fc97a6e3c96db42508510ef86ffecbbf,aivf-kaydenyip,Kayden Yip,kayden@aiverify.sg,2026-02-04T08:58:45Z,Merge pull request #135 from aiverify-foundation/dev_main
+0be654f2b49c3177ff415f41a147381900dd0ff6,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2026-02-03T08:39:55Z,Merge pull request #134 from aiverify-foundation/release/0.7.5
+6c784c355bb75b5fe8b98318e53f3abf533c26d4,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2026-02-03T08:17:28Z,[WS-303] Upgrade product version from 0.7.4 to 0.7.5
+eb7a8dfbc0d2a223e4e617c6b474155788ca088c,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-12-31T03:44:25Z,Merge pull request #133 from aiverify-foundation/security/ws-297
+9d81496474a9e11676bd2b7ded45b84c0dbbda6d,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-12-24T03:30:47Z,WS-297 Updated unit tests for them to pass
+b097f7051c0ec784267cfa21025e7ed2d7e4408a,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-12-22T09:15:39Z,[ws-297] Upgrade sub-dependency dompurify to 3.2.6 for CVE-2025-48050
+418350fb1c346f53e9835be6f0acc18beef5a8c0,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-12-22T08:58:48Z,[ws-297] Upgrade eslint-config-next to 15.3.6 for CVE-2025-55182
+4ee4bd16b2e9ed5fbf1793458cec2f34290f96a1,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-12-22T08:44:01Z,[ws-297] Upgrade next to 14.2.35 for CVE-2025-55184
+247270b1082301d1558cee092ae3bfafce45a4d5,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-12-09T01:59:23Z,ws-297 update packages to address security issues
+5273c5b3bd967948880189c242d39d10dd0b5f59,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-09-04T08:36:26Z,Merge pull request #132 from aiverify-foundation/dev_main
+62f5a553e56e537bdbf72a0511ad259e50191753,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-09-04T06:02:16Z,Merge pull request #131 from aiverify-foundation/release/0.7.4
+ac987c62223de90d7830fec6a418e49d3e096d21,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-04T02:49:15Z,Update Versioning to 0.7.4
+f7c633784eb7a0ea576a32945a5794301a951068,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-31T09:21:18Z,Merge pull request #130 from aiverify-foundation/dev_main
+0718cf00a7f99e30b8d45ba25ba6acd3d6fb5f41,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-31T05:24:47Z,Merge pull request #129 from aiverify-foundation/release/0.7.3
+c178caebad66710e6a4ac10d32d9f1fb166583d1,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-07-31T05:09:36Z,updated versioning to 0.7.3
+2b1b15b046a14953c40a660461514f282ab52d47,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-31T04:53:16Z,Merge pull request #128 from aiverify-foundation/31072025auditfix
+190b51c12bbb4ba8bbdd53b99586b36c30cafd50,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-07-31T01:40:07Z,npm audit update for dependencies
+1971f51fddce4456eb8eea56bf0cf272e46ee1dd,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-07T03:18:47Z,Merge pull request #125 from aiverify-foundation/0.6.x_CodeChanges3
+29fa057e41d6669c33b38e0fa6b1f4090326f345,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-07T01:51:59Z,Update project version 0.7.2 in package-lock.json
+7202fc37c3a13e9f153063bd23ff6109c8ea4267,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-04T10:06:09Z,Exclude CI changes from PR 074e245d for this code change only branch.
+074e245d1296088a61e49bb005ba4b96de4cff24,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-06-06T07:34:46Z,Merge pull request #115 from aiverify-foundation/sec_fix
+becf6097e23e7e454ef8793ff52530fd81bfc0ff,normanchia-imda,normanchia-imda,norman_chia@imda.gov.sg,2025-05-30T09:15:58Z,Merge pull request #111 from aiverify-foundation/0.6-bugfix
+831be65c94ff1f76d8a89284ceb48a119c3af9dc,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-29T15:59:14Z,Merge branch 'Bugfix-No-of-prompt-Calculation' into 0.6.x
+3e70f225fa5da7c91eb9f61be5ab100ef5ddeaeb,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-29T15:58:46Z,Merge branch 'Bugfix-Redteam-UI-Stepsbar' into 0.6.x
+87d4c511bb6e63d4f2be5e75c73e227d1c4c2f78,imda-pennhan,Penn Han Lee,lee_penn_han@imda.gov.sg,2025-05-28T05:55:07Z,fix header for redteaming steps
+521a250e65f6e2f098a7f0f083d2f3d3b2ced669,imda-pennhan,Penn Han Lee,lee_penn_han@imda.gov.sg,2025-05-28T04:44:46Z,fix redteam session step header
+a1a6597d7c8a61fd5f5d7170b86101d02a319f9d,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-03T05:30:10Z,Merge pull request #124 from aiverify-foundation/dev_main
+a14dccc74e6b2ba3bf24206198c5a0620a9a5c17,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-03T04:50:14Z,Merge pull request #123 from aiverify-foundation/release/0.7.2
+42a4363606e3bdc0386fe17557af93a626951712,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-07-03T04:37:57Z,Update version number for moonshot ui release
+2fa3eafb3cefd82656b56f2c15d8a945bc0d5a44,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-03T04:24:36Z,Merge pull request #122 from aiverify-foundation/revert-121-0.6.x_CodeChanges2
+248cbb8fb0c1ae847217d5dea0d390ea8928b93a,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-03T04:23:57Z,"Revert ""0.6.x code changes"""
+785005ba812f923de30de6c8793c7f4a92202e60,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-02T08:16:53Z,Merge pull request #121 from aiverify-foundation/0.6.x_CodeChanges2
+84cff0d815106c4d016860995b16abac03ff9380,imda-pennhan,Penn Han Lee,lee_penn_han@imda.gov.sg,2025-06-02T01:43:29Z,bugfix: resolve frozen redteaming header update during session form
+4cc2e283780f69d626170b3ada948c7946c80efb,imda-pennhan,Penn Han Lee,lee_penn_han@imda.gov.sg,2025-06-06T01:52:39Z,remaining regex validation
+da649fcd14a4eb27777c119877e1d14f913d21f9,imda-pennhan,Penn Han Lee,lee_penn_han@imda.gov.sg,2025-06-06T01:36:01Z,shift regex validation to individual files
+9fe81891eec958df993c6b115c8bf23c019e1094,imda-pennhan,Penn Han Lee,lee_penn_han@imda.gov.sg,2025-06-05T14:41:45Z,regex validation
+46432b7c8eac108d8f4b5623adfb6fc80337a934,imda-pennhan,Penn Han Lee,lee_penn_han@imda.gov.sg,2025-06-05T14:35:36Z,implement regex validation
+8ee63ea0c0a98ef00215c9fbd1edccab34470b46,imda-pennhan,Penn Han Lee,lee_penn_han@imda.gov.sg,2025-06-05T10:02:50Z,regex check
+77020fa252cfafd17b1a6989c579c9360ed19366,normanchia-imda,normanchia-imda,norman_chia@imda.gov.sg,2025-05-30T08:50:42Z,bug fix
+7c3b117795ed56a58a75024fed689f9830788413,imda-pennhan,Penn Han Lee,lee_penn_han@imda.gov.sg,2025-05-28T05:55:07Z,fix header for redteaming steps
+51e94dead65806f5bb5116b48c6b01d6b615ba93,imda-pennhan,Penn Han Lee,lee_penn_han@imda.gov.sg,2025-05-28T04:44:46Z,fix redteam session step header
+39c7d14ec05b084e618a156530421c18b2dcff18,imda-pennhan,Penn Han Lee,lee_penn_han@imda.gov.sg,2025-05-28T08:53:17Z,update unit test
+5c735316bb25581305c9a0717320fee78da9eecd,imda-pennhan,Penn Han Lee,lee_penn_han@imda.gov.sg,2025-05-28T07:01:43Z,fix prompt calculation at run status
+5d2740e526f6b6e8f922bec82b750ee86e6d9265,imda-pennhan,Penn Han Lee,lee_penn_han@imda.gov.sg,2025-05-28T06:46:17Z,resolve mismatched calculation of number of prompt sent to model
+f800feaa608a59ea949c0086c40f336a44a672bc,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-06-25T00:56:40Z,Merge pull request #118 from aiverify-foundation/ws-112
+83ad3703f35b52a790da2bbf5adcdb410a1f9d04,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-06-25T00:54:17Z,Merge pull request #117 from aiverify-foundation/ws-138
+a210b3d392ff85ffb1bb5add14d441ecff2402eb,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-06-23T08:06:30Z,used tailwind instead
+fc1b91be804e78c6aeb9dcf1b3869e091ef2940d,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-06-23T07:44:43Z,Removed redundant rel
+d8a1fa4f7b2ada09d49c4dcd65e6ee7045976354,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-06-23T07:21:57Z,"Removed duplication, added """" wrap to remove &apos;"
+8152891ec542bbcb2c3d483649dab3fe1ffcda9e,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-06-20T10:42:40Z,Changed wording and formatting of requires: as requested in the ticket WS-112
+f5912147d1bc632504d5c1df1124143fbf1f1361,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-06-20T10:40:24Z,Fixed apostraphe
+2b13bc0942dbbbb1b464f7363b80f3cac04817e7,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-06-19T05:43:48Z,Add links to starter kit
+8dd5885cfc74fce2e832b0fbab964c7316cfb1dd,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-05-26T09:16:11Z,Merge pull request #106 from aiverify-foundation/dev_main
+30709468bec65d924a7ae5c50f60c22ee5060bb9,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-05-26T08:13:11Z,Merge pull request #105 from aiverify-foundation/update071
+3178c520c2e4feabcebb6941db68d24a4daa101d,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-05-26T07:04:35Z,update version to 0.7.1
+db84edf1046eae5c63493043ec91fc854ccd9852,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-05-26T06:38:55Z,Merge pull request #103 from aiverify-foundation/homepage-update
+93223424634403ca551f4d8497a530aef9737185,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-05-26T05:02:11Z,update homepage png
+27caa33f13be99f0e8b489f4e3fac7c6389c450a,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-05-23T08:10:02Z,Merge pull request #101 from aiverify-foundation/dev_main
+ac0b6b93fc569a408dc68c34e16a00a894ff41ee,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-23T04:13:22Z,Merge branch 'main' into dev_main
+54d71e05cf39c65941f5dbc3522318ba05947dad,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-05-23T03:57:42Z,Merge pull request #99 from aiverify-foundation/notices
+a3d30e0436dd5a560a9dce346b2899c6293ebf5d,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-23T03:31:47Z,Merge pull request #100 from aiverify-foundation/WS-78_Release_0.7.0
+44b9a7599c26ff25d52b71620ade5eb3cc912d88,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-05-23T03:26:37Z,Update release version from 0.6.4 to 0.7.0.
+c3bf5020cb98833c3bef2bcc3ea7426477a75d89,,207538001+aivf-kaydenyip@users.noreply.github.com,aivf-kaydenyip,2025-05-22T15:55:16Z,Update NOTICES.md
+dd55c974b4e05540f246f88be5359d0c14dd0537,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-05-22T10:59:37Z,Merge pull request #96 from aiverify-foundation/ws-62
+e37c66c1bc4cfa13df93c0713f8acb30e61a9851,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-05-22T05:08:54Z,ws-79 changed Adversarial Prompt to adversarial prompt
+4eb3c580d48b256796e5c0e56a677cc35cdb6762,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-05-22T05:00:55Z,"ws-79 made relevant changes, changed front page, renamed prompt attacks to adversarial attacks, changed text of running tests"
+42f3d46137a90fe1f90c04eb58d411563524183d,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-05-22T04:50:07Z,ws-79 reverting ui removal due to potential bug. Also adding additional text in case something happens.
+77892ce740392b68cffa209409f2b5fbf46c98f0,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-05-22T02:19:53Z,ws-79 F to f after comma
+29e2161de5630e0aec996d693a28e30f1a5c5022,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-05-21T08:44:05Z,ws-60 changed reporting category for starter kit
+f97c9f3f421084d344b879e72d31d484e7a69278,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-05-21T05:36:34Z,ws-64 Fixed a ui bug that came from deleting too much of a section/div
+e53a413d021e4250a07b9073de4788f86965adc6,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-05-20T07:12:11Z,ws-60 Custom sort to bring Starter Kit cookbook to show as first record
+1ece892918908db7194c436ce5d78d1e889f0a02,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-05-20T07:11:14Z,"ws-63 Update ""Connect Endpoint"" content and make custom endpoint on top"
+95f8a1334b0047ad30fb0e1e0b689c39eb5ed93c,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-05-20T07:10:26Z,"ws-64 Remove Section in ""Test Completed"" Screen"
+a4777fad93e0dbec8b1625d763c30894bb516e23,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-05-13T05:05:23Z,Updated to apostraphe
+2031ec479442496f97b81d5d6dbec174e5dde32e,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-05-13T04:55:59Z,Updated content for entry banner as per ws-65
+cea2f353bc6dbfff881af4de992edd64d749da0c,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-21T05:47:00Z,Merge pull request #98 from aiverify-foundation/dev_main
+e7c6b7fac18eabf0da9c7ffc1b7b17037f81b6a5,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-21T05:30:07Z,Merge pull request #97 from aiverify-foundation/imda-tzx-patch-3
+2b896189609aa2e68f8189306e45c294daea6f41,imda-tzx,imda-tzx,tay_zhi_xiang@imda.gov.sg,2025-05-21T04:03:59Z,Update README.md
+460c33c07bb73225c8cf0045a1418aeabfd14571,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-20T04:54:21Z,Merge pull request #95 from aiverify-foundation/dev_main
+c3d2854145db758d287240a6c62f272a759eb2d5,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-04-29T03:45:37Z,Merge pull request #93 from aiverify-foundation/MOON-457
+b42b986e9842d52d6ffa9733daf9d94dae9af827,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-04-29T03:45:27Z,Merge branch 'dev_main' into MOON-457
+c1a76f035f523d7f32efeea56de5f240f147c7ba,imda-pennhan,imda-pennhan,lee_penn_han@imda.gov.sg,2025-04-28T06:59:53Z,Change html2pdf to html2pdf.js for browser support
+7e4ad819d9933b5e1b19c9c70658d33423240cc2,imda-pennhan,imda-pennhan,lee_penn_han@imda.gov.sg,2025-04-28T02:49:12Z,change html3pdf to html2pdf to resolve vulnerabilities
+f97e26d54c5f687207c22ff4bff69fe334ad3bf5,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-04-24T09:50:55Z,Merge pull request #92 from aiverify-foundation/MOON-457
+65b6daa1c4458c53064f328de97e2a531be07aba,imda-pennhan,imda-pennhan,lee_penn_han@imda.gov.sg,2025-04-21T08:21:15Z,remove redundant packages
+f4662e76b161f3093b53e653fc5618a2518319a4,imda-pennhan,imda-pennhan,lee_penn_han@imda.gov.sg,2025-04-21T07:25:52Z,Update packages and resolve react warnings
+29086ca5f4230833d653b994d378c9964d8bfe11,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-24T06:14:11Z,Merge pull request #90 from aiverify-foundation/dev_main
+fe52e0a7eba9bae06004ac82f6de453f54cc281d,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-24T04:53:34Z,Merge branch 'main' into dev_main
+9204f9a9e072f5287484acaf8d3421821519dd8b,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-24T04:44:32Z,Merge pull request #89 from aiverify-foundation/fix/raw-result-report
+0d69a8791d59df8485ce38c40c16a5271f50eb1b,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2025-01-24T03:14:35Z,not displaying raw prompt data
+ff9068cc8cba0d8927cf64e90651a28b49cdcc29,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-24T01:11:55Z,Merge pull request #86 from aiverify-foundation/feature/configure-cookbook-requirements
+ba7bfc9f58ae1ede15717b64b8e867602e8899e3,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-23T14:56:27Z,Merge pull request #88 from aiverify-foundation/notices
+0c6b32044f3373911b3f082d66766fcbd9d1b40a,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2025-01-23T01:33:49Z,revert dataset upload generic error message
+b6ffb100a3fff04b3843729cb838822ae4c0ef1f,,176891791+imda-jacksonboey@users.noreply.github.com,imda-jacksonboey,2025-01-23T01:17:55Z,Update NOTICES.md
+a06e664e57d9559858acffae96af45e7e676a7a2,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-23T01:16:14Z,Update sca-scan.yaml
+60cf8b39598654037a416ba9ae30c0dec89a24a0,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2025-01-22T03:58:01Z,update file upload error message and handle file extension error on ui
+9c7feb4fecc1a4d90373184984b1748f2441e1ee,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-16T08:25:06Z,Merge branch 'dev_main' into feature/configure-cookbook-requirements
+1a5f5895c685c093315868b18783ffd35b3bb8ca,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-16T07:33:21Z,Merge pull request #87 from aiverify-foundation/dev_main
+aebef948f1c690587f601d604d8bbf4b348d7b09,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-16T07:33:13Z,Merge branch 'main' into dev_main
+498b7bdb8337775c9660ac4c987ba3657178025e,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-16T07:09:33Z,Merge pull request #85 from aiverify-foundation/feature/report-error-prompts
+c363bd834164b41df3def3db0ae43e3aed7f139c,imda-amdlahir,imda-amdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2025-01-15T05:12:33Z,update upload endpoint path
+a8810d4c42d6b592cfc4f0e87e848b0d8a6bc70b,imda-amdlahir,imda-amdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2025-01-15T04:47:03Z,fix lint warnings and add example buttons above file dropzone
+09827b997dfff3843a0596769943fa1bbc94303f,imda-amdlahir,imda-amdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2025-01-14T04:27:27Z,fix report raw metrics rendering
+10a35fa3e441eedae0cb83a8bec5832af84426a3,imda-amdlahir,imda-amdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2025-01-08T05:33:42Z,fix footer height in benchmark flow
+8d9a2d21dcadbb58973e2e1d2a1a4568fa0a65f6,imda-amdlahir,imda-amdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2025-01-08T05:06:37Z,add missed download icon
+5d9a73102505a319260ef9543d73d89164133c54,imda-amdlahir,imda-amdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2025-01-08T05:06:25Z,fix broken cookbookabout test after merge
+5175e8df78195d21a260920f2e514b7da14c3c13,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-08T05:04:17Z,Merge pull request #84 from aiverify-foundation/dev_main
+11ff0890e77676362342622a5c8245da1e9bd2c5,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-08T05:03:57Z,Merge branch 'main' into dev_main
+476bba44e9cb39eaacebff1a176c20e2edd4dcc2,imda-amdlahir,imda-amdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2025-01-08T05:02:25Z,Merge branch 'dev_main' into feature/configure-cookbook-requirements
+35ff972ffca45c0b51b27b84de53700822c0de3c,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-07T15:01:37Z,Merge pull request #83 from aiverify-foundation/fix/truncated-slider-handle
+9d809a10ea2b072092bb73f2c6ab7d8ba305df1d,imda-amdlahir,imda-amdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2025-01-07T09:47:35Z,sample dataset downloads and icon
+d1083a8d0f5d4212f6f67365dfab3b50d55057d0,imda-amdlahir,imda-amdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2025-01-07T08:31:54Z,requirement card upload ui update
+535be911b1fb790cc26c93bf318455f37098e7ae,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2025-01-06T07:30:26Z,add padding to form
+9560ff77b70272baad79fd14adda072e64a36946,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2025-01-02T02:19:01Z,view example button
+ecd64b9d9d124fb38892d5ee2a16c6321d831f6e,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2025-01-02T01:49:34Z,fix checkboxes colors
+1167f397e797a89a58e3cb0ebfde6d5b614ffd96,imda-amdlahir,imda-amdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2025-01-02T00:53:38Z,remove unused responsive handling
+716ca2a25b177893102c696b979a76d88880a7d8,imda-amdlahir,imda-amdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2025-01-01T20:41:24Z,rag dataset upload flow done
+4de2d2f3a2c65c57b22f34eefff124337bd12212,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-31T05:28:48Z,Merge pull request #74 from aiverify-foundation/feature/total-prompts-percentage
+1c4fe9f28f82f689d978c52b280d212da85a8cff,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-31T03:23:54Z,Merge branch 'dev_main' into feature/total-prompts-percentage
+d891a78542618654c5a89d83f517ea9e03320a8c,imda-amdlahir,imda-amdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-12-30T06:03:13Z,dataset file upload and error display
+91d60a99dff63f38f23eb96758019ad9f891dd68,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-23T04:12:33Z,Merge pull request #76 from aiverify-foundation/feature/cookbook-tags
+b91ab1734929e022df62bd3820e4084fae7582a3,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-23T02:26:50Z,Merge branch 'dev_main' into feature/cookbook-tags
+6a99a85b05cf61c6a31a028da81fe467c32a1b8e,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-20T08:14:12Z,Merge pull request #82 from aiverify-foundation/dev_main
+b1becf2619471c5232b9b1467b2774fe226ab87d,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-20T03:13:53Z,Merge branch 'main' into dev_main
+72271814fc0d7df683390a807cba2444a7bd022b,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-12-19T06:04:55Z,fix require endpoints display in about cookbook
+44d14c534ac34147537fb4a88f8a6908d506cb96,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-12-19T05:47:47Z,additional requirements screen wired up
+3c940d5a51b190af01e29cf986e19013e16bc62e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-12-19T02:35:03Z,configure endpoint ui
+7ca6ae0fa300b2a55e77608a2c7a32804312e6ef,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-12-17T10:59:10Z,about cookbook overlay
+9c4c3a4e586bae7140542eb965c05a44847becf3,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-12-17T10:19:42Z,requirements cookbook card component
+662ab275db5b29c58e8505253808e73fe9cb9606,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-17T05:34:58Z,Merge branch 'dev_main' into feature/cookbook-tags
+19689a288a712f4046a110317cd8ed3e7424f8c6,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-17T04:34:12Z,Merge pull request #78 from aiverify-foundation/feature/benchmark-flow-layout
+d05d5e9f00af1795e3b6cf15ae1990142029d6e9,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-12-17T01:48:46Z,Merge branch 'dev_main' into feature/benchmark-flow-layout
+83e3872a558946885f98a81cfcad533df3ee1ba0,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-12-16T10:21:34Z,fix tests specs and required config check after merge
+34b89e3b7f7b9c468d35a760fd81ecf71d4425f5,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-12-16T10:07:39Z,Merge branch 'feature/benchmark-flow-order' into feature/configure-cookbook-requirements
+e49dccc6546f121640c541c01727f29e61e7d183,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-12-16T09:06:20Z,Merge branch 'dev_main' into feature/benchmark-flow-order
+3875f728c7501e233b50b00cc95057d7640b7d9f,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-12-16T08:23:14Z,configure screen back button reducer update
+9a4be908bce22a7eb8683fbc304a5cfc7ed80687,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-12-16T07:54:54Z,configure req initial screen
+537464df70a3501da768fb6a84b2cf535e3b1274,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-12-10T06:16:05Z,fix lint issues after merge
+b092a9d1b8e411fa8614abdc7a335880cdfc8e72,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-12-10T06:12:46Z,Merge branch 'dev_main' into feature/cookbook-tags
+9574a14fe25748912b3690404ca84146d8f388ba,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-12-10T06:07:25Z,initial requirement components
+90b08c7f941907078621de499647864638c150c3,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-10T05:59:36Z,Merge pull request #73 from aiverify-foundation/feature/required-endpoints-restructure
+91621eb6d67863849268c3f7d03669fae95a3210,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-10T05:48:40Z,Merge branch 'dev_main' into feature/required-endpoints-restructure
+0f6cebe6375a6d55b78b019e154b7fcebafe1cb2,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-12-10T03:44:09Z,update next patch version
+97846d1f0e488d5a2ca8ab1fee20d38e1842484f,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-12-10T03:36:41Z,remove unused var
+daf28cc95aee06f71c095e5ebda6b328e84b8685,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-12-10T03:24:09Z,Merge branch 'dev_main' into feature/benchmark-flow-layout
+9d70ec5a58046418846c33f44138eeda2e0c5529,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-10T03:05:56Z,Merge pull request #80 from aiverify-foundation/dev_main
+45d07112ccf9c5a455b3b73832d050adf62beff7,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-12-09T10:07:50Z,add configure requirements in steps indicator
+4ae1925ea62305fc3a81adf6bcc7c86cc22820fd,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-12-09T09:26:25Z,dispatch has additional requirements
+6f3dc6a407c7020bf8818e463074d96b9c6b2946,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-09T08:21:34Z,Merge branch 'main' into dev_main
+b019aab31d57d72a1b8da50d83ce2bd9d525b8a7,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-09T08:16:26Z,Merge pull request #81 from aiverify-foundation/chore/update-package-lock
+64ab6a62bee62d3ca5cb9830e8204f0068eb1fe9,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-12-09T08:08:34Z,update package-lock json
+0b95eab6fea0a948a328acd4dc2a7636109f3027,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-12-09T08:06:07Z,pass selected cookbook list to callbacks
+04e439cf5602bf66669e7b53f2b5d71791b75ecb,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-09T05:23:53Z,Merge pull request #77 from aiverify-foundation/feature/screen-size
+0af3381e028ddbb8b666c333486f85c135eeb454,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-12-09T03:20:18Z,config requirements reducer flow wip
+6f3c2044d58c379c8c307a5cb3a11fb2879d4b60,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-12-09T03:25:31Z,import act from react testing lib
+3a7a19318df4bd38f54e5c8f262ec74fe33ed2a1,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-06T01:21:37Z,Merge branch 'dev_main' into feature/total-prompts-percentage
+d0f5b0409c5dba1d9ad2a516d6aed8061f53aa08,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-27T03:28:21Z,fix compact card text alignments
+1e765e172096230ec4aa3944a15d82e6b4153988,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-26T10:07:48Z,fix double cookbook select handler calls. update selection item test spec
+0d2242c82b2f587a74d6645e158e1bbf6ce23cd2,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-26T06:39:12Z,update session flow test spec
+2ae5b97c9e22e4a4e6156cd8b6e23f5c0a477e4b,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-25T13:11:05Z,update cookbookselection test spec
+119cf4b9de69856cc9e608f1f075dcd60d14b3b9,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-25T12:01:50Z,update newsession flow test spec based on new next and back buttons
+9e9cc0289b43ada7cfca57a0b304cbef1f2aa4c4,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-25T04:44:49Z,update session flow test wip
+22b6ee7ca7d74f5a48a2cbed09f0a38610b3d832,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-26T06:39:12Z,update session flow test spec
+321af88b7fd146c14fd6468137d67f8c526d6937,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-25T13:11:05Z,update cookbookselection test spec
+2c2e3925281099a296dabe70f1300237361222a9,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-25T12:01:50Z,update newsession flow test spec based on new next and back buttons
+ff9afa107250d6a68bb629cecccd84086bc9a58c,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-25T04:44:49Z,update session flow test wip
+82fcd924f1b811e5a945101ea5678c6534ff4572,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-25T13:11:05Z,update cookbookselection test spec
+d3be6262f742ff1c03b5c25b7312796982fe3823,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-25T12:01:50Z,update newsession flow test spec based on new next and back buttons
+bf70ff60e1ad460705f54ceab4ee2d1880407ca4,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-25T04:44:49Z,update session flow test wip
+c4653128be7947f511d7bace49dfbb905cba1c53,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-25T02:58:51Z,optional chaining fix
+bd9def7654d746208418cb93c0679ccd58b7833f,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-21T01:19:44Z,add main surface overlay
+360e85ddf63acf260ccc2b22ff316a303da73a86,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-21T00:56:08Z,cookbook about card updates
+281c5de9a985ff505e1739177cfd189df804c1e1,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-21T00:31:09Z,spacings in cookbook item card
+3b3475947a862e9226a8d858bfa9f5ead5d06234,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-21T00:23:17Z,cookbook select card look & feel changes
+71c12b89f97bbac8def7e98d273b7e5bdfa05df6,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-21T00:03:36Z,add checkbox from aiss ui library
+49cbb86fe6b11d19ad63708db868b4c843f2707b,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-20T23:25:46Z,tabs menu layout change
+0eec7be58334e381d08b188282a20ed87c20f7d0,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-20T23:08:39Z,remove endpoints confirmation and clean up unused components
+ebe92a0dbb9bb76ed03978a85bdb9a7df3017ca5,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-20T19:05:39Z,change orer of benchmark flow steps
+354d47a190758bb6afd986096f698019652e4488,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-20T18:36:52Z,popup surface and endpoint form tweaks for bm
+d31224abe28c0fdf3ab1f73d16bc61a25b41c9fa,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-20T18:14:11Z,run button absolute placement
+ce97f5d29f2bc53e7acd2e179cb83fd485b64fbd,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-20T18:06:31Z,remove topics selection and recommended tests
+1c384131911998301bcfde854ac66e0a6ef9c189,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-20T16:55:31Z,4 steps benchmark navigation rewired
+64b0e2b04d2658d183c65a2f75386097b312b435,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-20T12:56:26Z,change benchmark flow nav buttons
+623ee079c6145c0bf84d6c6e2dfdcad097d0581f,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-20T11:06:53Z,cb selection bg color change
+57b3958e7ff5036cd0201a3da18971fa89e7d087,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-20T10:59:31Z,main surface component header enhanced
+2044a80c9506e20354e1121c6cf0e2ea87d8d5df,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-20T09:08:48Z,type check window in hook
+44f0b754b0988c8dccc4a02a59523ba59b5eb113,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-20T09:00:12Z,header mainsurface tweaks
+c73777cd0464425889859b5f21824a4875d39a97,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-20T04:54:57Z,handle chat element controls in small screens
+2f2340497f753026c88dfd14532a199d6b2efe9e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-20T04:45:11Z,adjust height in attack selection
+edc75fea0aeafdde6513e839317983b7bb0dfc23,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-20T04:32:51Z,typeof window check
+f6c647d343e4823adcf023b96224a7a0941bd3cc,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-20T04:18:30Z,adjust height in benchmark run status
+1f41276e3685d81e140986f851bd963b8006ced2,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-20T03:38:59Z,"fix lint issues, snapshot and mock matchmedia"
+6a6b541bad8a8aef5144cb2478ba9607425abe0c,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-20T03:32:35Z,adjust height in endpoint selector
+8fccc97025220d8c8f40c85afae9da9bc8822711,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-20T03:24:56Z,Merge branch 'dev_main' into feature/screen-size
+6e42adee58598c760b8c1052e330b3dd16ba832e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-20T03:23:18Z,adjust height in new endpoint form
+76e1e862afd37f986058392c8b3302b80ef640e0,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-20T02:57:43Z,responsive entry banners
+a612fa9262ec0c6ba83b5e52e3fe1e4fcbaeb97b,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-20T00:13:33Z,adjust bookmark panel
+273f174b6fba842f37ea184861d28b526b9f5655,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-20T00:06:22Z,orientation and touch slide handling
+f734db4985ad71fb90e97c1e98407c59b1688764,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-19T21:05:21Z,use reducer in responsive hook. add media query case
+5e7e3216bb2c24857b59caba3df25892b3f98d1a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-19T13:55:23Z,clean up prompt box
+c87223231a9bce2f45402b76d0e0eeb4820ad44f,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-19T13:54:49Z,responsive chatboxes
+78be8593a709b2c89c9f41b875f7a78e44bd05b4,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-19T05:49:14Z,constants layout size and get window size hook
+96d515dc581459ee095feecf90f307e0f431006e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-19T02:07:22Z,clean up hardcoded tags
+8d81b243eb327ca952336301144d2452989ab0e6,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-18T23:38:45Z,update cb selection test
+c4474716ed640aab0963b705fba6c482daf1324b,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-18T00:32:32Z,wire up cookbook tags
+20115816d9b86647df59f8f904f469c553114c0b,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-14T04:08:57Z,handle total prompts run zero
+40a1fb5d7d34ed487d9aa04b080dad7239216336,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-14T03:51:06Z,window space fix
+711af11f9e6bfa99f484f45df5e4059378fceb57,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-08T06:27:07Z,Merge branch 'dev_main' into feature/required-endpoints-restructure
+9a4013548b3ddadc7b5f600f11c50db646ef5a8e,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-11-08T06:16:57Z,Merge pull request #75 from aiverify-foundation/fix/remove-model-required-validation
+7320f971e0b028232a56b07db222632dae31c3e6,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-08T03:20:29Z,remove llm-as-judge texts
+ff6ce80a3386fa5134d6a648d334dc1076ce7c6a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-08T01:32:52Z,remove model input required validation
+09a3852efbcc5074e0a5706317dbdc30a7b37303,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-07T04:16:07Z,rt layout background screen fit
+6c23aeb49bbafd5f8251af2325ccd7c6320628f7,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-07T03:36:40Z,remove min height from layouts
+92ad11a53da89bab2076cfe7f36b07a2daf8bea9,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-07T02:29:23Z,home page screen size
+76b1db5008494f3e05b0e29b52621f9f5f3da606,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-06T11:30:09Z,slider toggle off
+7f515edb20d75568ff9c7f967028eb6bf3f9e198,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-11-06T08:04:34Z,Merge branch 'dev_main' into feature/total-prompts-percentage
+8cbff6bba85eba3a9804c959d5264c85afd374fb,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-06T03:25:51Z,calculate prompts ran in run status
+f087e061f4c0d2fe229c0535e43e214486fc5032,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-05T11:06:40Z,calc percentage of prompts from each dataset for total
+ad078b55c5199566b0f7a0f68214ee1acec3b1f2,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-05T02:09:16Z,update required endpoints tooltip text
+646a008b9bbe66c6bce11c59aeb9d71c01216bd8,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-11-05T01:56:55Z,Merge pull request #59 from aiverify-foundation/fix/long-no-spacing-description
+527b4ac20a722a700a079e3fa3e165c851fd943e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-04T09:51:16Z,benchmark run percentage integration
+4d9d04b79194bc08612801c375e5a83698081dbb,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-04T08:02:52Z,Merge branch 'dev_main' into feature/total-prompts-percentage
+54ec0d09458fe81d08990dc56a057aaf673d6011,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-04T08:02:47Z,update benchmark run type def and schema
+336539315c2e3962dc93f0819ff89e3d605d1319,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-04T07:07:15Z,Merge branch 'dev_main' into fix/long-no-spacing-description
+f7cf40d8b195053547bb6b908e573559b0d613d9,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-04T06:52:36Z,handle embedding endpoints in required config
+27cf61da0d6231718db716fbdd1724b67d64a7f2,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-11-04T05:47:36Z,Merge pull request #66 from aiverify-foundation/chore/connector-save-payload-update
+91e16f7b0055519e1c92e2990756e0fbf44d8112,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-04T04:32:19Z,responsive icon placement
+3e45f94f982ecbfa7bd0592d73fa5da68d133d31,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-04T04:14:38Z,update cookbook and recipe required config type
+3c78d460d4ac91ff31fa0c23f2404467859b0817,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-04T02:08:33Z,fix ref typecheck in selectlist
+2d811741be6aa98dfd32a6b8dc905d35bc6e595f,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-01T09:02:37Z,update report test snapshot
+4e72f4e1b9e34a7660276e13ea76b4e7d997dea4,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-01T09:01:41Z,ts expect error in selectlist and remove unused files after merge conflict resolved
+7bbde7824b1f0b7ff0907b4a9736af01f5a59239,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-01T08:55:56Z,ts expect error in selectlist
+deb267efc094f1b8d286dbdd293dd5d3a22278a2,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-01T07:54:52Z,model input field level error
+87be6d5fc7a03e01f666bc4d672b30ad94d75b34,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-01T07:49:10Z,Merge branch 'dev_main' into fix/long-no-spacing-description
+717b0daf08f4ad2d5268ebbdd08914e4a9e3c75f,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-01T06:39:40Z,fix default config and validate model input
+14b628d83d01741a7a64e18d977ffe290b3cae3d,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-01T03:25:48Z,Merge branch 'dev_main' into chore/connector-save-payload-update
+83482cf1acd6eb47e0c782afecefd82138ae7188,imda-jacksonboey,Jackson Boey,jackson_boey@imda.gov.sg,2024-10-28T06:05:03Z,Merge branch 'dev_main' into chore/connector-save-payload-update
+06b592e35efb2fdecea06c65a6944ceb2ee73bdd,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-28T05:57:06Z,Merge pull request #67 from aiverify-foundation/fix/filter-cookbook-past-runs
+4ca0a8b78586d95a6416c6da3f6a6e57c0b33752,imda-jacksonboey,Jackson Boey,jackson_boey@imda.gov.sg,2024-10-28T05:51:31Z,Merge branch 'dev_main' into fix/filter-cookbook-past-runs
+77291568babbc5fec623205f9b05aef8cec74257,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-25T08:32:34Z,Merge pull request #72 from aiverify-foundation/dev_main
+29b2c790f60c5334cdd9ea5ab323f4302779fc78,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-23T07:29:16Z,Merge pull request #71 from aiverify-foundation/chore/refactor-rt-flow
+a69437592e666d9febb80e68a1bcc55fe7a8c3e3,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-23T03:59:38Z,rt run form test spec
+5734ffeefaf5231249066260fe5e8733d57f62a0,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-23T02:05:29Z,Merge branch 'dev_main' into chore/refactor-rt-flow
+1f14129c8add089cb02a579d3c0cffceebfec74d,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-23T02:04:15Z,"aria label on button, fix appselector order, rt new session flow test spec"
+db6f330d0feadee56d7bfe7b4288f51645c16667,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-23T00:47:50Z,update new session flow reducer calls
+fa179749ccad7641887d4d44f2e95e6e39ada2b3,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-22T23:51:07Z,use form action in rt session form
+212868b7c78edf01ad534a0c5aedbf600e287782,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-22T22:43:59Z,count total datasets in run form
+9de5838652b990782e68a95ceb8a12839f6066a9,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-22T09:57:57Z,slider and toggle switch wired up
+7471f8fb8a3603ba7a6ea12c366c9a07987b5934,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-22T07:43:30Z,replace input with slider
+f744e088781b3a2eb52bb6a7b7c37cfc32bb1ffb,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-22T07:43:02Z,initial color tokens setup
+4c002f15e3400eace0a837519c128f7c85ee77e9,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-22T01:16:27Z,Merge pull request #70 from aiverify-foundation/fix/run-form-next-icon
+8d5af46bc3efb492def7c6b8808ee62ee822ecc3,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-21T07:35:00Z,fix next icon showing on run form
+78644039861506ad50a7d66e1b6b49aeda96e415,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-21T05:36:07Z,remove model param in prefill string
+e2ce3de4cd8b32a3edf3a8e29e06c2b1a5ce23f9,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-21T04:01:27Z,Merge branch 'dev_main' into chore/connector-save-payload-update
+2dd68bf7e84e3568b8e1ebf0596e2ae46f716b92,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-21T03:44:32Z,refactor rt flow selection screens
+959400cc4f942d5d6a7729f511c235ec983ee8db,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-21T03:35:50Z,Merge pull request #43 from aiverify-foundation/fix-broken-link
+d71268675b608a518c6fe88026aeb5bc7974f77a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-18T10:18:58Z,refactoring rt flow to use reducer
+6a64db59fb0315b98490bd884daeabfffbac47e6,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-18T07:19:53Z,Merge pull request #69 from aiverify-foundation/fix/put-request-caching
+73f3ed74a4b0d4928494a6c7c24e0fe4ee920e11,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-17T09:49:09Z,add custom response header
+d8ab431c58206bb04ac3e28b8500c009a748dd22,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-17T05:35:10Z,add cache no store to put request for updating endpoint
+f9a31a71b9915f0ec14811d5451ecb386e9eb203,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-17T09:11:34Z,filter past runs if run args is recipes
+721bb83172a70613dd8c4d750c923570df469540,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-17T06:45:50Z,Merge pull request #68 from aiverify-foundation/fix/total-prompts-calc
+ceec9cad8e5530b5638678abb76bb59f483ce27e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-17T06:07:25Z,remove debugging comments
+dabf3d43a27b2fe9239daacab5133efb420079bd,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-17T04:22:42Z,remove 0 character appearing in run benchmark form
+1b38beea3f123ca3f60603808747c0cd5294b92a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-17T03:24:32Z,remove metrics from total prompts display calc
+5441b8cb80e68a8a0605f2ec39731cc69e195568,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-16T09:57:08Z,filter out past runs that failed parsing
+70ecf961d183660410b517623d9334656b607094,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-16T09:08:35Z,fix long description in about cookbook screen
+534dffaa72ad2b205718e79df81b964745175986,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-16T05:29:06Z,fix long title in about cookbook screen
+34722353fc57a06cd56a12a6169e97f51f08f661,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-15T02:29:48Z,Merge pull request #39 from aiverify-foundation/feature/export-report
+027f8917bffb0bc9a552636c7009334c7c9b2161,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-14T10:24:29Z,"update endpoint type, model is optional"
+0a99493a993a37cb17f6a3ee873071acce784ab6,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-14T10:20:55Z,model input not required field. update endpoint details display
+195e8e8df33437085799d4eb520f1a4a8012ccef,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-14T09:58:21Z,ellipsis report cookbook name
+9091cdf76565c888aefc502c5a62414c1552ef05,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-14T08:46:53Z,fix lint errors
+17e7078ba89a453237e0e46fb2e58efb148cda2d,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-14T08:27:13Z,"update endpoint type, add model textbox and update endpointform test spec"
+8c5d977a1b2eb097b1641d72a1f7934caab99252,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-14T06:38:08Z,Merge branch 'dev_main' into feature/export-report
+7e4d64eb47abe07e3fffd47860b1c7a45939f1d4,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-14T06:35:11Z,risk level colors on standard cookbook card heading
+454c7f9038a2df5c58f63f92a7d80c58c6d3b955,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-14T06:04:50Z,Merge branch 'dev_main' into fix/long-no-spacing-description
+d0eafed34f3f98f93302cbabeef99d60af7ba181,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-14T06:01:48Z,Merge branch 'dev_main' into fix/long-no-spacing-description
+ed96043de782e79179d4987d0ea6461b98554fd9,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-14T05:59:11Z,risk level grading colors
+64c1e8f9fd71255bf160ba09dc166bdea54e3487,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-14T05:47:10Z,Merge pull request #64 from aiverify-foundation/fix/connectors-route-cache
+7a0fd3319f5ce3c93cde7138a12c20d498df22e0,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-14T05:45:50Z,Merge pull request #61 from aiverify-foundation/feature/cookbook-precondition
+7c8ab66a29c95ce72605e340c0de2e10683cda07,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-14T03:59:24Z,Merge branch 'dev_main' into feature/export-report
+8e538051df972f653f345ce1245d3cd94a463576,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-10T09:09:42Z,Merge pull request #65 from aiverify-foundation/fix/attack-mod-long-desc
+62f2a5a397c1d92f6110a5667616292350308484,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-10T03:50:37Z,Merge branch 'dev_main' into feature/cookbook-precondition
+2f11f03331d2ea29e0f2edb2430b460a42b904b2,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-10T02:29:33Z,update validation schema
+0010b1d247d9afc2deb4fa73da8a0b61271e72b8,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-10T02:09:28Z,Merge branch 'dev_main' into feature/export-report
+64b34f0678fa5ba5609f11a9feba405ff8389677,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-10T00:26:55Z,fix long desc in select cookbooks
+e2c9f76641f2620f987204f38b44ea5f0dd3b84c,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-10T00:14:03Z,disable endpoint route cache for connectors
+1cff88d966d4b279afdd7737780a831202ecb4ff,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-10T00:10:13Z,remove div
+f9aa7dbb254f164bbfd5e5fbbb58d055bf7363a0,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-10T00:08:14Z,handle overflow attack mod description
+bc1759a772288782c4d987a75377c6ef73553a68,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-08T13:16:51Z,update report snapshot
+ef194ecf1ec6f788b087758f88322d48f55ff5b7,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-08T13:15:28Z,update html2pdf to html3pdf and fix unwanted spaces when print to pdf
+89f43ff458554c2d7f64442292866654ab22f924,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-08T11:02:08Z,Merge pull request #63 from aiverify-foundation/main
+7e48eca38aedb08f45fa22aa97188b4d07603a8f,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-08T06:38:17Z,Merge pull request #62 from aiverify-foundation/dev_main
+b3a6b17c62b1b2dd6135f77618e67a8ec68d5f67,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-08T03:27:08Z,Merge pull request #48 from aiverify-foundation/feature/total-prompts-run
+c75e0e95ef73fb0b203f104a2852d8517accf619,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-07T00:13:07Z,debug page break in pdf
+dfe2815cd1584830c0c5e3a45f0b0fe272275df0,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-03T11:50:31Z,required endpoints tooltips in recipes screen
+e61c685a66d8016ddc0ea31fcb6384813487840c,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-03T11:15:35Z,required endpoints tooltips in cookbooks screen
+149297a1113c3bd6a2257d362e14bc1a679d5ba6,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-03T10:47:50Z,required endpoints modal in benchmark flow
+52fe1fb73c78d9aee33ebcfef30909c36c6b76ee,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-03T04:29:35Z,required endpoints tooltip in cookbook select item
+958c3dc5522229e3ad716feec8c60f4430ee01f8,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-10-03T04:07:36Z,wire up require endpoints in prompt count and udpate mocks in tests
+1a769c2f4e8f8efdb45fd1a37249f07c15a83f0e,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-10-02T04:37:19Z,Update LICENSE.md
+c3d829e0ea9755064dcf1147ca1de7035d91be69,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-26T04:14:45Z,"update type defs - cookbook , recipe, attack mod for required endpoints"
+78288c71b270953f549c4c8cd7a173baa306f3b8,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-26T04:05:08Z,Merge branch 'dev_main' into feature/cookbook-precondition
+3501740f05d224b7b91ca22caf733c8e93e8dcc4,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-26T03:07:27Z,fix details section
+227bf93aca119853141de472693b10b62d2707dc,imda-jacksonboey,jacksonboey,jackson_boey@imda.gov.sg,2024-09-26T02:57:22Z,Update README.md
+1254331966c2dfabfbfea775587e2186d13e2f2d,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-26T02:40:00Z,break long words in list descriptions
+6eaab1798b7de7df977656f8c659d655030172cd,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-26T00:58:37Z,fix run name exists error
+cf98710ed098962fee41b294a0313c17e596e51a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-26T00:32:59Z,mock getcontext in jest
+ebcc6088f10551c4c5d5f472ed0dd4011672e2d9,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-26T00:13:28Z,update report viewer test
+56158baa5cf002848a2eb13f20c8ae66874c70c1,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-25T23:48:31Z,fix endpoint display name on report
+c0e83bbf77bf436866281f534463e949c2d943f0,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-25T22:23:51Z,update report test snapshot
+9152bbbb8ee0ad91c4b98816ff46a7b9ad55cd3d,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-25T22:19:46Z,adjust report page 1 spaces. create legend comp. update cov report
+6942bd3399b2e2ea1918f0cd9d46214fdbb1c29a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-25T21:13:28Z,Merge branch 'dev_main' into feature/export-report
+042d87b6799c25080a79c35081f49e9d4484c10d,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-25T21:13:10Z,fix webkit html2pdf webkit issues
+e6d558865d2e5175f9eef52c45c1f5b123adc492,imda-jacksonboey,jacksonboey,jackson_boey@imda.gov.sg,2024-09-25T03:18:28Z,Merge pull request #57 from aiverify-foundation/fix/missing-chat-window
+4b9be922d06f708e315cd75e826c905fd332177c,imda-jacksonboey,jacksonboey,jackson_boey@imda.gov.sg,2024-09-24T03:34:40Z,Merge pull request #54 from aiverify-foundation/fix/token-input-asterisk
+aaf9f3e0f2c820e896d0aadfddb127db494b85ca,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-09-23T03:32:54Z,Delete NOTICE.md
+a1f7bd012301775ea4b7cace19b3c12c372b2e1b,github-actions[bot],github-actions[bot],41898282+github-actions[bot]@users.noreply.github.com,2024-09-23T03:31:50Z,Merge pull request #58 from aiverify-foundation/notices
+26ee379e6b221c2a6d33e75c5809e150f3088000,,118954493+imda-benedictlee@users.noreply.github.com,imda-benedictlee,2024-09-23T03:31:47Z,Update NOTICES.md
+1fd678311fd93c9c4976c941732f883027f9ff56,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-09-23T03:27:56Z,Update sca-scan.yaml
+ae89864c1fee66ffae1af9627fd79601c3fce052,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-09-23T03:26:07Z,Create LICENSE.md
+09889ca2e161cf1aa8e9bcecd6f3cf7fee2eed27,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-09-23T03:24:40Z,Delete LICENSE.md
+178719129ae7620851a48163a1a14f1cd9139cfe,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-20T11:13:34Z,fix rt chat windows no rendered first time resumed
+1c7ded743c63faa4d460b319837b63f7204ade3c,github-actions[bot],github-actions[bot],41898282+github-actions[bot]@users.noreply.github.com,2024-09-20T07:56:44Z,Merge pull request #56 from aiverify-foundation/notices
+1b4237f8cd20e989a8f23c00c4babe94198b3172,,118954493+imda-benedictlee@users.noreply.github.com,imda-benedictlee,2024-09-20T07:56:41Z,Update LICENSE.md
+251529f539cee4804bcf7b7740fb71b096295e7b,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-09-20T07:48:59Z,Update sca-scan.yaml
+16f1148f3fb7e64f1c4a06c8dd0fbad35bc3a67c,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-09-20T07:41:12Z,Update sca-scan.yaml
+e4e1929935456bd3f0466e4aa77febb71f05f774,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-09-20T07:36:14Z,Update sca-scan.yaml
+0c313354b8507674609c3e0dc548b4de0e99c75c,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-18T10:42:36Z,add asterisks to required inputs
+c7aa30e107e2924fe907e8d9f8a8716d9299422b,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-18T10:33:56Z,validate decimal on num of prompts input and prevent calculation
+661cd2ea9bf51eae1be551b421e33146be0d1071,imda-jacksonboey,jacksonboey,jackson_boey@imda.gov.sg,2024-09-18T09:57:07Z,Merge pull request #52 from aiverify-foundation/dev_main
+66f1cd6756340af038f4e49b28c6208d7e568a06,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-18T09:38:11Z,Merge branch 'dev_main' into feature/total-prompts-run
+23cf9aadcb1332b659973a68f565296bd51b81a6,imda-jacksonboey,jacksonboey,jackson_boey@imda.gov.sg,2024-09-18T06:13:14Z,Merge pull request #53 from aiverify-foundation/chore/update-talk-bubble
+aa8911290849db8dbbee6ba51d5b585a2fcbe6ee,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-18T04:14:25Z,update talk bubble labels and minor spacings
+bf96779ac0b819ff385580ae880711abe73e1c78,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-17T12:14:41Z,eager load images to resolve html2canvas issue
+157df0a7262aae7e8732fc6e7a636446b605749d,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-17T11:05:10Z,Merge branch 'dev_main' into feature/export-report
+cef674db6e0acbbf21ddca3409b2c2a1c0ce14dc,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-17T06:49:33Z,use jpeg for report export
+72edbdf72156a85aa2fdc2e60eb2943b6086735c,imda-jacksonboey,jacksonboey,jackson_boey@imda.gov.sg,2024-09-17T06:18:09Z,Merge pull request #50 from aiverify-foundation/feature/cookbooks-order
+361eb079280b2baa1aacba713f3421631fe6dfa8,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-17T05:45:52Z,Merge branch 'dev_main' into feature/cookbooks-order
+ef60ad5e11d276578f03a1ce655ee6f6043b85b0,imda-jacksonboey,jacksonboey,jackson_boey@imda.gov.sg,2024-09-17T02:37:11Z,Merge pull request #51 from aiverify-foundation/feature/display-ookbook-tags
+34d8a4257e66a5f8b63745c2d7da841d125959d6,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-17T01:35:52Z,Merge branch 'dev_main' into feature/display-ookbook-tags
+cdb348aea69ad26ac9250b000a227a5952bdc0c8,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-17T01:34:26Z,capitalize using text transform
+9fee254a5e06bb0993e3b23e5029a66ded583d12,imda-jacksonboey,jacksonboey,jackson_boey@imda.gov.sg,2024-09-16T12:41:55Z,Merge pull request #49 from aiverify-foundation/feature/no-recommendation-benchmark-flow
+2bc80dd6c13317ae7eeb0ff926849db2ac9514da,imda-amdlahir,Amin,130328114+imda-amdlahir@users.noreply.github.com,2024-09-16T09:55:51Z,Merge branch 'dev_main' into feature/no-recommendation-benchmark-flow
+68fbbaf7329ad9ac743951d5eb44ab27f3c212c0,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-16T08:06:19Z,Merge branch 'dev_main' into feature/total-prompts-run
+3719961a4e42581a0ad195208787500fc791d61d,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-16T07:59:33Z,dynamic run form schema based on run_all
+e566872b309355a05d01ec9768d1ac7a891e796e,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-09-16T07:50:53Z,Merge pull request #42 from aiverify-foundation/ci-sast-codeql
+79e4cf5811384dc84dad40ee7d08360d63645b95,imda-amdlahir,Amin,130328114+imda-amdlahir@users.noreply.github.com,2024-09-16T07:31:05Z,Merge pull request #45 from aiverify-foundation/chore/remove-tabs
+9b89830fe56ac9e81a01a856f82d6f33bedc7350,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-16T06:53:20Z,validate total prompts based on user input against actual total
+995853c7aae9d24843bc2f6d2fafa82994902a04,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-16T06:25:39Z,display tags and update unit tests
+12d5a9b77f8bab9f005c2dcc279a03aeba79bdd3,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-16T01:50:44Z,tagname config
+4cfc642d0e05320b5d4c03b7e730e8487a5acfd5,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-16T00:04:48Z,implement cookbook lists ordering config
+0847d7b632abfd09f1745cade92bb586095948f5,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-13T11:27:52Z,wire up entry points to the shorter benchmark flow and complete unit tests
+ab19eb770d1c5c209dba03abb5923fd0e492f380,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-09-13T10:21:39Z,fix ${{{{ github.event.issue.title }}}} vulnerability
+21c3a50c90ee3ae7206a0c83893c5e42f784dec5,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-09-13T09:54:39Z,change ::set-output to set github env to remove
+51d2551db775ab1022b666debfb8bc2db0b7102e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-13T03:46:40Z,3 steps initial state
+3decd06a32cad816aaf74f90f0bfeac989b2bb44,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-13T02:59:21Z,increase test coverage of benchmark new session flow component
+b73d558ea27f0a263cbe643a3fe08624ddae5939,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-12T23:16:08Z,update benchmark flow component tests
+7f843a9eef18da85e6fcd6a2e2db97affb434db1,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-12T12:22:56Z,flow reducer in progress
+93fe68de547d5d34541ddc5fea9eadedf02b4e3c,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-11T08:20:40Z,fix snapshot test on chatbox spec failing in github
+a3392aea96f4a98f86542dc060e4aaf67d3da563,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-11T08:01:01Z,display no. of datasets ad no. of prompts in view recipes page
+5f5e23da999a01b70916e810976f34c1d6812253,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-11T07:48:19Z,display no. of datasets ad no. of prompts in view cookbooks page
+945eee8ce3f703f75038ddff1b70b813628359ed,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-11T06:38:29Z,update snapshot
+c74515baf247bccfe16aff7816c03d4bc7a0c7b4,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-11T06:24:08Z,fix new session flow test
+10c82d40d0d3c22feaae4f4003e844c99b3d298e,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-11T06:12:19Z,name run all checkbox and use the boolean value in create run
+a490bd7d01b067c732454ad30f9d68099049dea3,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-10T22:06:48Z,"update toggle, update textinput disabled color, tweak benchmark run form"
+b29b91fe7a9f556714fdfa2f18a2a94e156f6132,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-10T13:12:15Z,add input to toggleswitch comp
+f7a6c38c77c5473c30fb0b37766b1ebd69e362c2,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-10T12:33:25Z,assert total prompts
+08aa804dbf8ce78fd667768913e79623c9ac7d6a,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-10T08:07:59Z,add user input num of prompts in deps array
+cdb8c5bfdb1a7803684eb48780a19c26e8978b61,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-10T08:02:20Z,cal total prompts
+a18952cc742b04a9558b04345eaf10676427b025,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-10T05:54:19Z,get recipe stats action
+e87be81a5e2ca1ce8c8a5f7652befd037bd5ecfd,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-10T02:51:07Z,fix lint errors - update mock cookbooks in tests
+4e4091202c428605eb8f3e57b504a01a1688c26e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-10T02:23:20Z,update benchmark new session flow test spec with useFormState/Status mocks
+c002b74d073a9a8141513f7a48bff62f05cc802e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-09T13:13:59Z,run form test udpated
+fa7138998796eb03da24f88e6cc4ffc09ae2da01,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-09T10:51:05Z,benchmark test in progress
+5e2c9bbfcd29e921b6e3c7c5d2cb8c8e99f5b3db,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-09T08:48:27Z,create run form refactored
+cf008bb95de915256cee96fb8511c30ca21cd589,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-09T00:53:42Z,create run form action
+db3efb8539beb8f5974489231b98b0f784094aee,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-08T14:01:40Z,"readd others tab, clean up unused timedisplay codes"
+6c0ff173e78b5217ad9b2ab9f1c23df89dbf25fb,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-09-06T08:12:52Z,Update sca-scan.yaml
+310af78c833544eec0dca1becf31c7a0f1ace14e,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-09-06T07:39:30Z,Update sca-scan.yaml
+15a9ec6d659baac25400072e9afbfa71780d8e5b,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-05T00:12:00Z,remove empty cookbook tabs
+39aae2a865eed9d76d422d417655412ac60de226,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-05T00:04:00Z,toggle switch component
+1667bc8fc27e2ab07f1049674bf706f149fce839,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-05T00:03:45Z,update textinput component and run form
+7dd0281a82e5ef4c8cbdff3603399a98d6365256,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-04T22:31:09Z,display num of datasets in benchmark flow
+d18ae2acd18d1348c8cd6178f066cd92abe82e19,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-04T22:05:53Z,clean up unused time display in cookbook selection component
+f8de6f1123a5405e3487c3adbd4d025e5bb46de9,imda-jacksonboey,jacksonboey,jackson_boey@imda.gov.sg,2024-09-04T04:07:30Z,Merge pull request #44 from aiverify-foundation/fix/cookbooks-recipes-cache
+c563598e6632e5cc739a370d5973fdc29196edd6,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-04T02:52:21Z,add overflow wrap css rule for report long description
+822e78ff42bdb312e4145a871e8276bf0d6fdef6,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-03T10:14:08Z,Merge branch 'dev_main' into fix/cookbooks-recipes-cache
+389bc0b9743dfc2c5fbd29f69ae1e11170cecb80,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-03T09:54:50Z,"custom error handling for recipe not found error, disable caching for cookbooks and recipes fetch"
+ef2e3c18c03101eac6b6e084c63b830b8abf64e4,imda-jacksonboey,jacksonboey,jackson_boey@imda.gov.sg,2024-09-03T07:16:37Z,Merge pull request #40 from aiverify-foundation/fix/notifications-run-name
+877d8a1af29345d2adf336a1db74d2f113ab0274,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-03T07:07:06Z,increase endpoint form test spec timeout for slower run on github
+bf661c6120ec051ea524ee768ac79ec457899544,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-03T07:02:51Z,add missing jest coverage modules
+77aa048344a6ffffe4db3e6275f026a53b60d5ba,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-03T06:54:38Z,Merge branch 'dev_main' into fix/notifications-run-name
+a1f508592bf0066c4a5208f08c01c584229af2ba,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-03T06:54:13Z,abstract fetch functions from pages
+fed98c75c0324e0e265397517a36eb6cc99d04de,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-09-03T05:17:19Z,add cache no store to runners fetch
+d9f9acd6853883589c21aeecfd1e3c8ac9ccc9a5,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-09-03T03:09:45Z,fix GH event notification workflow
+fc2ea046918e6795f7f81fe14d4b5790fa7104ed,imda-kwokwk,imda-kwokwk,129362214+imda-kwokwk@users.noreply.github.com,2024-09-03T02:54:40Z,Delete .github/workflows/codeql.yml
+3abd4a846afe9b5d57ec87cb08827833080adc7b,imda-kwokwk,imda-kwokwk,129362214+imda-kwokwk@users.noreply.github.com,2024-09-03T02:54:17Z,Create codeql.yml
+597e7768298518461c7c9274638b567692abf650,imda-normanchia,imda-normanchia,132418893+imda-normanchia@users.noreply.github.com,2024-09-03T02:39:03Z,Update README.md
+7419b7a07de6b7582cd26678cb09dc33a595bf22,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-09-03T02:33:37Z,change code coverage threshold to 50% for now
+6a9281643b4e3505f44e039d26a31901237d40d4,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-09-03T02:33:11Z,change code coverage threshold to 50% for now
+dbbbe74f516290ad19a8092dd228b8cfc84b31f0,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-09-03T02:32:18Z,"add SAST (codeql) workflow, Github event notification workflow."
+d7ec565a95f84611115d8604acd1829fee9a2252,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-09-02T16:14:32Z,"add SAST (codeql) workflow, Github event notification workflow."
+70f1516720cb88cad459855f3c981d8e13535a0d,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-09-02T15:27:18Z,Merge branch 'dev_main'
+a5692bb9f8022fe79310218ef67e35571cb887a2,imda-kwokwk,imda-kwokwk,129362214+imda-kwokwk@users.noreply.github.com,2024-09-02T15:14:39Z,Merge pull request #41 from aiverify-foundation/ci-pre-build-checks
+6fbd3abf92b951b3b90cdf416dd1d06ebf7d8d7e,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-09-02T08:13:37Z,change code coverage threshold to 50%
+f5d413b103bb9593651e460c71c3d0e8f11c9312,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-30T11:10:59Z,Update smoke-test.yaml
+a9d1287fe6fd9c63755c2aa88c2521b1de0ea934,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-30T09:47:15Z,Update smoke-test.yaml
+f06ff5dce93232579f40af7f22d500af9efea53e,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-08-29T17:41:44Z,add pre-build-checks workflow
+ab85b5f37e760bf15e2fb3dace3d5545c4940712,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-29T02:18:19Z,Update sca-scan.yaml
+777d6b4fcda4fcc01d2c87fa87e931ba63b739b5,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-28T05:45:56Z,updat report snapshot
+16207ce41d4c17745a287be81e715c92672c34bb,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-28T05:41:04Z,fix truncation under areas tested section
+baf0b3692dd3a8a9bfcdbc771aedd04fe510d3d4,imda-amdlahir,Amin,130328114+imda-amdlahir@users.noreply.github.com,2024-08-28T01:52:07Z,Merge branch 'dev_main' into feature/export-report
+3ed3ab6d5670a30b48219347d484d9aa8c1fdc2f,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-28T01:50:44Z,fix run name on status panel
+9759e589c12e0682dc94e22e30c332e86714c4e5,imda-amdlahir,Amin,130328114+imda-amdlahir@users.noreply.github.com,2024-08-28T01:25:57Z,Merge pull request #38 from aiverify-foundation/chore/tests
+c8e6b03f0599a912516056c1be5d540988fb62bf,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-28T01:20:05Z,Merge branch 'dev_main' into feature/export-report
+e24f7f18d37f8d2f9473be3fe78b29a7b54b814a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-28T01:19:07Z,Merge branch 'dev_main' into chore/tests
+64cf18febf8fb34479117ae0eb418641b380d68f,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-28T01:17:09Z,Merge branch 'main' into dev_main
+312f1798006c02a33c89d257de3d2f2d648e50c0,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-28T00:56:41Z,update report test snapshot
+72f32596da04681ca66ea0aa07cc56055a864cd3,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-28T00:47:30Z,Merge branch 'dev_main' into feature/export-report
+548fd6867ac0ee39883a53d2c727802c09d80c2c,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-28T00:44:38Z,required endpoints tooltip in view recipes
+6e7cbd497da783af98af6dc004d2b70c16dd1e61,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-28T00:32:35Z,required endpoints tooltip in view cookbooks
+fc62763b8c798181611cbb1fa6cbb97ac37888c8,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-28T00:24:47Z,rename endpoint selector component and display required endpoints modal
+b55f0c8ea01d2fed6258bfe4b36304faeb82b2a4,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-27T23:54:35Z,required endpoints tooltip
+6e2c20761970991b5547568232c919db98f25909,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-27T23:25:29Z,require endpoints component under cookbook count
+15735a7e9e44d7e682e7be1d9e2f77774233ad1d,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-27T22:40:17Z,fix lint warnings
+f8f305833ad601159f7f10ed6ec2bd8174fd7b59,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-27T15:12:37Z,disable download btn on download
+2415c1a6f417670ed203cc4247f2bf22876b9767,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-27T14:23:14Z,report page breaks
+f30bc6cba5358a141a61061701c05840b9a062f3,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-27T11:45:08Z,rename print context
+13654ea1353d47241149d87d95a07cd8121fed76,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-27T11:05:38Z,"context to teleport disable expand animation, change pdf lib"
+0dc5f797352b0ac895b4db6d6a1c4526a5e53901,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-27T06:36:11Z,classnames for multipage pdf
+7a0a1583a1094f977001e27214aaf1a452508b87,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-26T09:28:42Z,generate pdf using jspdf and html2canvas
+bb576a4f7fae979f4e6dc7ec34a0207dd6c40b00,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-26T05:35:07Z,Merge branch 'dev_main' into chore/tests
+98608ce03bcd5dd206d97dcdac33d33f31d5ab08,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-26T05:32:47Z,Update smoke-test.yaml
+e74964c7499e490edd4e2961f37a2840e3a98d2a,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-26T05:14:25Z,Update smoke-test.yaml
+a9555a95d5e54d5db7a9b579dcf2ce88c1e3ea1c,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-26T05:10:55Z,Update smoke-test.yaml
+bc5937d24e28399a4bb3ce86e8e7b3b03058e5bf,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-25T13:20:10Z,"update evaluation summary type def, move report typedef file"
+f036c6c8cff926f9cd2ac4d256d99e4f84fc9a83,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-25T01:48:57Z,report component test spec
+492be8208847741c36ad56c2ae1201adeb809905,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-24T21:08:45Z,move report components to report page pod
+98da717e3b82e6514dbf66853ca351b6f8d12e53,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-24T21:04:40Z,"mlc safety cookbook id as string, remove mlcrecipies server action"
+fc0d93d3a12905673dfbe38bad1434c03bbea113,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-24T14:25:47Z,raw scores component
+7c4711f28c68cdf9d0668d7cb2291e27f61028fa,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-24T06:21:51Z,recipe rating result comps
+8e7727b4e650200a3a3fe6486044f432facd243c,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-23T04:09:58Z,Update smoke-test.yaml
+66f220e88b5be7b657f61c9e9ab54a319f1e1682,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-23T04:08:36Z,Update smoke-test.yaml
+008081942da0e1dc859712a20b1a28a6cb011270,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-23T03:17:37Z,rating card components
+5d05f5d319f0b90898949c329fd688ac607dbd02,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-23T02:51:17Z,separate mlc cookbook report card component
+7642d10ec588d583cafa76388fcb033249646c7b,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-22T17:20:11Z,separate mlc cookbook result component
+edeeb6a282a58977b82ca3ba2d01e2d3ebba5abc,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-22T16:54:38Z,moving descriptions our of results details component
+87eca6ce202fdab37de4b4dd44384ebe16961953,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-22T09:48:00Z,refactoring report section 2
+523fe500e151a374d9e776d9c2aa3c1f719b3c40,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-22T09:12:43Z,fix effect deps and clean up benchmark rtk query
+079924ea0b39df56f5fd7725037f14aa2195e077,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-22T09:05:21Z,isolate mlc baseline grades component together with its data fetch
+12eb579925ec1da2210f415b656309fed795c5ae,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-22T05:11:43Z,rename and pod structure mlc report components
+70cbed2f7b6c736b7d9ec23a5cc414edaeae960c,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-21T23:51:53Z,move report components to reportComponents folder
+60639316669f526b66a4a90f6c2371ebff33d5bd,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-21T23:00:36Z,tidy up type casts in jsx props
+b371baf87dba009dd1c25789c1e918f094b9f715,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-21T22:51:17Z,report page data props done
+eca6cca7ae039de60fc57727060e21e0a32eeb57,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-21T01:25:45Z,do all report data fetching in page server component
+096698c88441e53717182b22810f0bdd86d18bb7,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-08-20T09:49:25Z,Merge remote-tracking branch 'origin/main'
+3525764c94c51910c935db851c2c0fd7675974df,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-08-20T09:48:55Z,fix wrong branch ref in pre-build-checks.yaml
+365bbe96894c2dffda237341a6967ecb28deb46e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-20T06:32:44Z,fix lint and prop names in cookbook main
+1b874d753b7de7395e4ccfb209c33d7d68f2b659,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-20T06:15:19Z,"small refactor selected models and cookbooks in benchmark flow, update test specs and add session flow component test"
+87bc2cd5d9e618ce169776aa02c61d8fb76a5590,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-19T10:18:11Z,Merge pull request #37 from aiverify-foundation/dev-main
+ce6dc01e5a41831aa8c26a1447649d2d6a43261c,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-19T08:08:35Z,session flow test spec
+c208b729c982978cc1b43cd99891dd140a0f94cc,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-19T05:12:48Z,fix type in benchmark run status component file name and add test spec
+3584148488ffd04fe32349aaf83605346e01c0dc,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-16T07:23:14Z,Merge branch 'main' into dev-main
+7873472cc472e58443e72f1fc25dae2f0b26fe6e,imda-amdlahir,Amin,130328114+imda-amdlahir@users.noreply.github.com,2024-08-16T07:17:28Z,Merge pull request #36 from aiverify-foundation/feature/view-bookmarks-and-export
+b7644791616ccc0a20fc7effde05c0a16cfb0203,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-16T06:43:09Z,fix download bookmarks filename and remove unwanted char from total prompts
+bb126d1c882ba5eb4f2cbfad91829b0f0c052257,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-08-13T05:34:37Z,remove format check from pre-build-checks.yaml workflow
+4a8cbb5e84b8c058856dc3d377978cd488d014b4,imda-amdlahir,Amin,130328114+imda-amdlahir@users.noreply.github.com,2024-08-13T05:08:33Z,Merge pull request #35 from aiverify-foundation/feature/view-bookmarks-and-export
+739bbdcb187f184dd96c12b2b18c13874603ba38,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-13T03:19:45Z,export bookmark button and bookmark list view
+0d153c5fccda50f49a2e6845093f452b0b89cbdf,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-12T17:34:31Z,Merge pull request #34 from aiverify-foundation/smoke-test
+ea49ee8ce4d0b7a5a009b7c93ed68c36e58f5756,imda-benedictlee,Benedict Lee,benedict_lee@imda.gov.sg,2024-08-12T17:21:19Z,Fix Typo
+5ad75ecf783d52bba5de9d7c57f57b748104850c,imda-benedictlee,Benedict Lee,benedict_lee@imda.gov.sg,2024-08-12T16:51:53Z,Add Smoke Test Workflow
+f5fc95b1fdbbff074549f234d009a37c8c11354a,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-08-07T14:33:02Z,add pre-build-checks workflow
+40ce3dc13fdb387d7cefc870b4f99213ef56e4e6,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-08-07T14:23:41Z,add pre-build-checks workflow
+9f4e5887bd6bd2828f44f5d7215e20caa8df26ae,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-08-07T14:21:56Z,add pre-build-checks workflow
+9d6e8c6157de3ed587a6818a3cf43f93fdc1197a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-05T08:36:36Z,bookmarks surface component
+4e94577ba2fd3920170c99c1f5643a3ee8181e44,imda-amdlahir,Amin,130328114+imda-amdlahir@users.noreply.github.com,2024-08-02T11:05:58Z,Merge pull request #33 from aiverify-foundation/chore/move-old-view-components
+01f0cb6b0fd548d672192201f2d092ca03917c0b,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-02T11:00:49Z,fix broken file path in test spec after merge
+f593f2541bd3fa6200102dee2103f6d8c2fb4e6a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-02T10:58:58Z,Merge branch 'dev-main' into chore/move-old-view-components
+3570ef7b863b00cece4086af8620d028ad751075,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-02T10:36:33Z,"move homepage components out, next to main page.tsx"
+5c55dfd7d3b3eabafaa2cec586fcf82de4caf204,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-02T10:19:42Z,move notifications to components
+aec2bfb784e2117ecced6d0483dd58edce50173d,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-02T10:18:16Z,"move loadingAnim, selectlistitem and tabsmenu to components"
+930021d23e7bc3687e6497c82bf3cc97953e8df3,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-02T10:10:23Z,simplify path aliases in tsconfig
+94f4960f734d3881339ec9f637d39d7ccae4f65e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-02T09:50:40Z,move customeColors.ts and update lint commands
+bf74ce766bd40cae429d48e8ea094cfeecde384c,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-02T09:32:10Z,move shared-components to app/components
+78dee155cc666239a65aaf05866bbf324c4d7f48,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-02T08:56:16Z,remove unused endpoint components and move endpoint selector component
+1143847e71b7618aff029bea685e4bf55665ae46,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-02T08:04:48Z,move benchmark flow cookbook components from views folder
+bcc311644e16c86827ca66ea3dafcc8f52dbd468,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-02T07:41:26Z,moving benchmarking components from view folder to app/benchmarking
+c37a090a122bcbafe9b0ec6358635f10f1bb4ec6,imda-amdlahir,Amin,130328114+imda-amdlahir@users.noreply.github.com,2024-08-02T07:26:45Z,Merge pull request #32 from aiverify-foundation/feature/use-bookmark
+4502971a116440066843c36e03a6656391f3b8c8,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-01T23:27:20Z,fix some typos in save bookmark modal and fix missed placement on panel on slide layout
+4262bd424275e0052345857739cbc7fe30dac2ab,imda-amdlahir,Amin,130328114+imda-amdlahir@users.noreply.github.com,2024-08-01T08:33:56Z,Merge pull request #31 from aiverify-foundation/feature/use-bookmark
+594bd42a93008eb3b3956807a81165628a6a92e1,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-01T07:30:43Z,fix label typo
+d7fe50b204cb3b68bb9b8aa24860e19f61de47e6,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-01T07:16:15Z,Merge branch 'dev-main' into feature/use-bookmark
+06faa67608d2fa00f5ff01f603bcf7dd52f8cc51,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-01T07:15:21Z,add loading spinner on bookmarks panel with transition pending state
+55f04653a758b3862c5cc4e9d0dc7886b90d379d,imda-amdlahir,Amin,130328114+imda-amdlahir@users.noreply.github.com,2024-08-01T06:55:25Z,Merge pull request #30 from aiverify-foundation/feature/use-bookmark
+ea254a4b1256901195299ba10c4492b2a18aa416,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-01T02:14:30Z,Merge branch 'dev-main' into feature/use-bookmark
+f982d08c93a46d95b03c5e60341f4c2f45615490,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-01T02:14:03Z,use bookmark modal and functionality
+b2c1382558338b521ade2ab406907b5a30d8801b,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-08-01T00:50:31Z,view bookmarks components with passing tests
+b2e9190b926760eae3c4128cc8a6c1ff6624e2a4,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-31T21:52:33Z,initial failing tests for bookmarks panel
+7d914aa12c0a5e87fea02f8eeb7c8f40fb1c714e,imda-amdlahir,Amin,130328114+imda-amdlahir@users.noreply.github.com,2024-07-31T10:45:49Z,Merge pull request #29 from aiverify-foundation/feature/bookmark-prompt
+b63b3e08b2001ecf5a24c170c23bda5b2c80034d,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-30T02:13:05Z,bookmarks left panel
+7eecedbb8d5ba9126b7f750dd3495cdafe63ddf9,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-31T09:00:14Z,fix lint error in save bookmark test
+a17f8368d0094180bd3ce818b8cadd1d2440dce4,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-31T08:57:54Z,Merge branch 'dev-main' into feature/bookmark-prompt
+158e2795f12b1a41904aadb88b2fe8bbb5349bb0,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-31T08:57:41Z,Merge branch 'main' into dev-main
+0d13abcb06dc638e904792d7564fe52c04d40822,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-31T08:56:27Z,assert chat progress completion in progress in chatbox test
+8bdd51e3fe2e2f0eb65efd70188917410ec9bc08,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-31T07:42:41Z,"disabled save button when name empty, assert snapshots"
+ca66535aa73114db11e3cd965b191ce042fb3227,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-07-31T05:21:02Z,Merge pull request #28 from aiverify-foundation/hotfix/dynamic-render-cookbook-page
+e00ac38c149ffdbb20aa6f1cca9632ea758e0bbc,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-30T06:03:14Z,force cookbook list page to be dynamically rendered on demand
+e184c0e49ca2f243f9b347ddb0670d5bd09ab283,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-30T03:20:52Z,mock useformstatus
+66d0360d5bd282472f07586f3c44ff77bc53176d,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-30T03:11:43Z,savebookmark modal test spec
+bad5f66da4d7d00df78c44e75d1b8470fdd72908,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-30T03:07:06Z,chatbox test spec
+e781748c74a6afeea02da2dc2be2947ba4312889,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-30T01:48:49Z,remove console log statement
+ccf1c294e1e7684001370cf27bb245d3bbe38ad2,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-30T01:44:07Z,increase overlay opacity
+b4b53b9e5251f52cdbf805f706be2703a78abbfe,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-30T00:23:12Z,savebookmark submit button using useFormStatus
+0ea8e37051766a30666985dac41f18d6dcbf178d,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-30T00:10:37Z,save bookmark server action done
+41cdb4e8fd050fff9cabd9fd36873aad83f0642f,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-29T16:34:47Z,create bookmark action file
+29b536c2a338e8bd278e676b8c81c2d3e5ca55d5,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-29T02:23:18Z,Merge branch 'dev-main' into feature/bookmark-prompt
+077e6f58f4c4331644ae6971610db0ba546eef6f,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-28T16:28:15Z,display promp detals on save bookmark modal
+2b111e7ccdb8e3fbf117c9ba9a2611d9378aa0d9,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-28T14:35:05Z,"combine prompt and response talk bubbles in 1 component, colocate hovr state"
+d7ea03c2355c8e9d82573144874cc111e20e15b9,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-28T14:30:33Z,"rename prompt typedef, create prompt bookpark handler placeholder function"
+12c4f362a7dad2cda28f75f509417e170891c64f,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-28T11:06:44Z,"expose granular style property props on talkbubble component, tidy chatbox jsx with sub components"
+94d57562158d889758b329723093be6346d2a4ef,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-28T10:12:36Z,remove unused chat component
+11822f969a02a1e6021f20416550c38675ae81c6,imda-amdlahir,Amin,130328114+imda-amdlahir@users.noreply.github.com,2024-07-26T10:47:26Z,Merge pull request #27 from aiverify-foundation/chore/remove-view-folder-restructure-comps
+9f5d889947641b037b9c6c89614c28f3bb46419a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-25T22:53:23Z,Merge branch 'dev-main' into feature/bookmark-prompt
+f982e4722c4cf226f5ffa106ef113c0a3af55a48,imda-amdlahir,Amin,130328114+imda-amdlahir@users.noreply.github.com,2024-07-25T22:51:38Z,Merge pull request #25 from aiverify-foundation/chore/optimize-endpoint-form
+c84f1ad124248d370ad05f3f913aef038bc2588e,imda-amdlahir,Amin,130328114+imda-amdlahir@users.noreply.github.com,2024-07-25T22:47:49Z,Merge pull request #26 from aiverify-foundation/chore/unit-tests-endpoints
+29fcbddbd56962ea7ad075d22ed2358e2ed8953e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-25T03:49:45Z,move all red team components to app/redteaming folder
+ef15fb29841b63fa598d3fde09ec1e06b60f58eb,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-25T02:22:48Z,revert timezone in date string formatter
+d170688c2017904003e0068715d13cd6dfc04d8a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-25T02:16:14Z,add timzone to date formatter
+a6ad75a0fb77bcfea820c8816c5d5ca9279c4277,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-24T22:33:03Z,fix navigation not implemented error in endpointsViewList test
+45a45ea0fc6186341fb8505d05782e915b5fcd82,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-24T13:52:08Z,lazy load cookbook about comp
+9df32706cd040a08d71557328cdb973dc26f3a5c,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-24T13:11:58Z,change console.error to .log
+2e4d139028a5e28bc139c8f8ccf7e415322a49b9,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-24T13:10:41Z,fix cookbookselection tests
+83e3ad846756b189571f1603b588213647d95419,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-24T11:40:53Z,add ids to textboxes and fix bechmark run form tests
+19f2fba1dfc0c9c38fd8317517fc716b7a649c78,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-24T10:06:34Z,Merge branch 'dev-main' into chore/unit-tests-endpoints
+d6fef4bbfcea43746626e59059275176532600d2,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-24T09:52:36Z,memoize calculated token textbox value
+2af04c431f7d3a31b5434071baee5cb2e5b2c170,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-24T09:45:22Z,memoize select input done
+6b4721af641c70a4bf9b7e41fc9e07d483af68f6,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-24T09:15:08Z,Merge branch 'dev-main' into chore/optimize-endpoint-form
+d30f4153a64ecabab668e6b5bbdc1ff3c25eebc5,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-07-23T03:44:43Z,Merge pull request #23 from aiverify-foundation/dev-main
+6943134edfc9610b75801cb618ea28ae6e0a4949,imda-amdlahir,Amin,130328114+imda-amdlahir@users.noreply.github.com,2024-07-22T10:40:13Z,Merge pull request #22 from aiverify-foundation/fix/endpoint-save-disabled-default
+fe6dc3aba93a0727d4103602283e3e60d6c0db6b,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-22T08:46:30Z,fix save button not enabled on fresh install scenario where token is empty
+36fb98dd98e2f20419b20ebd625fe646c2d43a8d,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-22T01:40:59Z,benchmark utils tests
+dabb24e11b8bf99a4997d9155f37843833c89669,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-22T01:27:11Z,remove old unused hooks and clean up constants
+bc2ea8b4cb4d243727dafe9c02d74a1c1f7b53b5,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-22T01:22:08Z,remove screen debug
+df74f98b275826bd7624ac35a5c1656cbb90a2d1,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-22T01:20:07Z,cookbook selection tests
+66eefc592d2aec9a1df6acf8571ad17d763faae5,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-22T00:48:44Z,benchmark run form test spec
+1c3a923c136d4661e8a58f5093181526338c7be0,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-21T23:49:29Z,"test specs for utils lists, bechmark runs list, utilities, add prettier2 for cov"
+1bb611e845f876bd6d6ccd76061bb46ab97beacf,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-21T15:20:54Z,memoize select input component in new endpoit form
+45ea9d19d90951d95d3c95d4cc0a9bfe1e12ccb3,imda-amdlahir,Amin,130328114+imda-amdlahir@users.noreply.github.com,2024-07-19T09:43:58Z,Merge pull request #21 from aiverify-foundation/chore/ms-252-test-specs
+265ac97a6c17638db3ea6ecfc4edbdcabd5b0722,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-19T04:01:13Z,remove unused mocks from endpoint form test
+e73c470eb5cceffd59e473c85e4ff8d9e49847f0,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-19T02:09:18Z,fix lint in error-utils test
+7ab4b2b84f0ee6fb5a39867121bf1083b9c8233b,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-19T02:06:35Z,fix save button not enabled when form values is dirty
+44c206950a8efa850edaea8ce93a880d0446211d,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-17T08:21:39Z,click more configs step
+35ba654d0d3c3d5dd2d42bd9cb9b1dc0adf9d3f1,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-17T08:08:25Z,edit endpoint assertions in progress
+90055ac7e460d8484f7714a8b8b3d1dbcd6c9a2e,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-17T07:59:43Z,improve toErrorMessage to not stringify string input and add the util test spec
+d57f3db685c1a6ed38d7b8bad945f1db86624a0f,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-17T04:34:03Z,assert error message in new endpoint form
+494dd58a2a4ee403c28971fe88c29d37743f8bfa,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-17T02:03:33Z,assert onclose callback and error message in new endpoint form spec
+7c5e1e5cdccf1ed26823e54aae4c9e5f2f6f78ff,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-16T08:55:40Z,select input for attribute tweak and newendpoint form test spec
+a72f41cd1410dfa5182c6180e8b48106b15c5da3,imda-amdlahir,Amin,130328114+imda-amdlahir@users.noreply.github.com,2024-07-15T04:25:08Z,Merge pull request #20 from aiverify-foundation/feature/run-selected-cookbook
+d72019964fd42c7e347240c0d47afb5606c7194c,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-15T00:01:06Z,new endpoint form test spec in progress
+9770dc1072ef253b0afcd9dac5a929fbd1e4b18e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-14T17:06:46Z,benchmark run form updated with default cookbook and endpoint props
+312fdf582b07946960830171bc89295ecbd30cff,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-14T16:23:34Z,fix endpoint form save button not enabled
+9177cc26d006b4e1a744adeac5c5d4e8cd1f32a5,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-14T15:40:29Z,connect endpoint step
+a002f9b1fe4b65777b381fd01a1554a485c29be6,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-14T12:41:27Z,assert default checked cookbooks in cookbooksviewlist test spec
+3dcc174727e1f9ef57ac77fd71467d53c36fe972,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-14T11:02:11Z,cookbook run flow in progress
+70e54f6dc7bf1f863b2690616ffdaf804634353f,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-14T10:04:09Z,assert cookbooks view list run button click handler
+1e446d3c36f2ef13add28885f85b1164afa5a4ac,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-14T08:15:41Z,"refactor use endpoint hook to use named exports, add endpoint selector test spec"
+9012e8d7fbe4ef081d6d77e6e4b83f951dabdd2f,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-14T08:13:08Z,selected cookbooks pills container
+6f1d29d4bb1244691fcaca3eb41c0531311182e3,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-12T02:45:07Z,selected cookbooks pill buttons and run button
+d6d390ab982a0583138bb1dc0dbe6446141fd5d7,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-12T01:59:37Z,checkbox input cookbook item
+0ba7152c4c30a460a2f784e914ee23260453acee,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-12T01:51:53Z,"add new cookbook button in cookbook list view, search and test spec"
+3c3491f33dd1007e843806aa27be4a95b9047a83,imda-amdlahir,Amin,130328114+imda-amdlahir@users.noreply.github.com,2024-07-10T08:24:09Z,Merge pull request #19 from aiverify-foundation/fix/edit-endpoint-empty-token-saved
+3b906d30e63c03acd753f4e958016677ea5fbb78,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-10T02:10:36Z,remove console log statement
+7a24612a4ceaef1e3e3714039c9e3b22ef8df15b,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-10T01:58:17Z,clean up effect codes
+089bc5925c65cd3f34168abb216b2c6330269f07,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-10T01:54:14Z,disable endpoint form save button when required fields are empty
+b6607e5525bab92c6adc23356ffb9c5f793e2bcb,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-10T01:21:08Z,fix missing field level error for connector type
+5bb5d7c9e5bb08f734d2527dd64a331e50f9228c,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-10T00:50:06Z,edit endpoint mode resolved
+e1b59ea07417385083b00d6a187fbc9a6c681059,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-07-09T12:14:33Z,Merge pull request #12 from aiverify-foundation/blackduck-sca
+5f1199620f7f15f7f3dac7d24cf143f55bfa236f,imda-amdlahir,Amin,130328114+imda-amdlahir@users.noreply.github.com,2024-07-08T23:32:46Z,Merge pull request #17 from aiverify-foundation/fix/ms-259-new-attack-module-not-listed
+ba8534166cfccf1b4ebfb5bde20b65575d61d7c2,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-08T00:12:26Z,disable request cache for ctx strategies and prompt templates. refetch on render in chat session
+f62542338a33d4d36b6451384cd2a75c2be4f2e5,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-07T23:28:14Z,move attack module selector component to redteaming client folder
+2b449ebdf9f64725da970fd3c95596f9b6b0e0d9,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-07T23:24:05Z,move attack mod list component close to page
+157e3e2628d94d42db2d73e291635576bda3892b,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-07T23:15:49Z,disable router and full route cache for fetch attacks
+0196124ed823fefb49e0d9b7daeb945fa1e1da2a,imda-amdlahir,Amin,130328114+imda-amdlahir@users.noreply.github.com,2024-07-05T03:22:25Z,Merge pull request #16 from aiverify-foundation/chore/lint-fix
+071ffa20667baa48388768f7071d718c8451498e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-04T01:04:19Z,remove a bunch of unused old desktop design react components
+3dbfec3d73d03960b8a4f814c69481fa25d3408a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-04T00:58:51Z,remove unused menu component
+8289c63d844afc1f38fb4e6ec07b48235e06600d,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-04T00:49:09Z,add lint step to ci test workflow
+666d557b5b05acfcb5f0486ce91fcc616477fd7f,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-04T00:43:55Z,fix lint and tsc warnings
+e807a26afa88a3f0f9eecc5b2e7f81bd52b4fbaf,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-07-03T05:43:36Z,Merge pull request #15 from aiverify-foundation/manual-unit-test-trigger
+680be9daf3e58fe538fccd1298217ae95890d5b0,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-07-03T05:11:06Z,Added Manual Unit Test Trigger
+bc4d3f2e42251d9d57dd75bb68f4868678c326e6,imda-amdlahir,Amin,130328114+imda-amdlahir@users.noreply.github.com,2024-07-03T02:53:50Z,Merge pull request #14 from aiverify-foundation/feature/add-recipes-to-cookbook
+7d867560286a8ef645ceca549d4a3bb6c40ff8db,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-03T01:42:20Z,update github action versions
+8f470b63d1f19cc22c60725f76c734589558b992,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-03T01:07:39Z,remove log statement and add ci workflow
+93e4511881519dc6b84f3103b49516a43cac7167,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-03T00:46:01Z,revalidate memoized fetch cookbooks after cookbook update
+411efb8228f24e6a90e5aa472c6c3213af000100,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-02T11:02:21Z,fix import statement lint error
+8ca474dda6ec49ae2fe219893839512acc723649,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-02T10:37:58Z,initial create cookbook screen prop
+369f736dc0c1cd8d61f191836f4cb056ace51952,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-07-02T09:56:02Z,Merge pull request #13 from aiverify-foundation/add-pr-template
+eedb39d1c94138c8476ac72ea62d0fdc68ee6e39,imda-benedictlee,Benedict Lee,benedict_lee@imda.gov.sg,2024-07-02T06:49:57Z,Add PR Template
+318f52ebb2928b655d5047b0abd57e4f1d9b5ef9,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-02T06:07:43Z,remove temp codes
+4e2e8a8593971b6202d134b0183d5afac0ea880b,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-02T06:07:12Z,assert cookbook form states
+3ba9111a9b1867009f9070914c76b150e82f1214,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-02T03:09:39Z,use server action in create cookbook component
+477097e63910610d29650dd0fe219cb109f893c9,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-01T14:33:48Z,refactor create cookbook form
+42996af719920756adace88734d3baa3cfd63c36,imda-benedictlee,Benedict Lee,benedict_lee@imda.gov.sg,2024-07-01T08:38:48Z,Changed to NPM Install
+73655b8e6aa8d1d399d69ade1ec985c27677e1c4,imda-benedictlee,Benedict Lee,benedict_lee@imda.gov.sg,2024-07-01T08:35:00Z,Refactored SCA Workflow
+b7b5e84d9bf641e656ba4f4eea8e29434fe0a4de,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-01T04:54:50Z,error message for error adding recipes to cookbook
+8bb51dffea1dcf209dea66beaadacb3fe0e6defb,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-07-01T00:24:31Z,show selected recipes pill buttons in select cookbook step
+56feafceccab7cec03909c124aff8b17dfd09902,imda-benedictlee,Benedict Lee,benedict_lee@imda.gov.sg,2024-06-30T12:28:11Z,Add SCA
+97ace3f6674c44c2b91919cb8569c91328970346,imda-benedictlee,Benedict Lee,benedict_lee@imda.gov.sg,2024-06-30T12:27:54Z,Add SCA
+387899bfb84e35a26be85b6d64c3669120b76364,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-06-26T10:16:25Z,update cookbook action
+aff8a14688ea22a68a7d42ea82266bd312de30de,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-06-26T04:13:11Z,move selected recipes pills to recipes list view
+4646c589d23d312cdc0beab253d0468a2b3c04a0,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-06-25T09:57:13Z,recipes list view test spec
+0ed27c0be4f65d6731834127d06edcfa5b6c689e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-06-24T02:51:40Z,add recipes to cookbook result modal
+b4801ad3b01b5c03bd8c32b1a7d6d0c5f8fd9448,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-06-24T02:37:07Z,cookbook list in select recipes add cookbook step
+4af06017af1349a94b3c6ccd2a229c0e594186ba,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-06-24T01:23:55Z,view and add steps in add recipe to cookbook
+1262a3283e0e722fd04a328d659ac3a6d385f4f6,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-06-24T00:14:00Z,search recipes wired
+ee68f36adb205715f664939c81b0a79d6a93d6da,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-06-23T23:27:52Z,move view recipe list component to app and add search bar
+ac8fb78654944888ddf6e38510ac5bba138febc5,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-06-25T03:49:37Z,Merge branch 'dev-main' into chore/unit-tests
+9e43d90bda982a8b20affb2dcaea8bd00dbd1b8c,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-06-25T03:48:23Z,tidy up prompt count spec imports
+3f847000f963635969911b94d96618f72732a15e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-06-25T03:28:57Z,assert prompt counts
+91ae925a64fd47656d24526f4de7baedead6c122,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-06-23T21:38:05Z,assert prompt count wip
+6aee45f08f71bf3306944fb3a2347c28cf528a81,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-06-20T05:47:44Z,prompt count screen component initial test spec
+5b0698f31efa62cce18a443190408984d1ecd4c1,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-06-19T10:57:26Z,assert remove cookbook when selection btn clicked
+515f68adf6c8df38542987a97fb76d75a401db90,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-06-19T10:31:38Z,benchmark default selection component test spec
+f09889f4e908e589fb8065ff0441b66a42141bda,imda-amdlahir,Amin,130328114+imda-amdlahir@users.noreply.github.com,2024-05-30T12:12:21Z,Merge pull request #11 from aiverify-foundation/update-readme
+2a4f5140250832f6f73b70049eab5a7b94661dcd,imda-normanchia,imda-normanchia,132418893+imda-normanchia@users.noreply.github.com,2024-05-30T10:54:40Z,Update README.md
+ec1e12add92028b87bb55dd6c1ce601c329c1f1f,imda-normanchia,imda-normanchia,132418893+imda-normanchia@users.noreply.github.com,2024-05-30T07:47:46Z,Merge pull request #10 from aiverify-foundation/dev-main
+05acd42a7e51af64e73410dcfb08699909aa9121,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-30T07:45:08Z,endpoint typos
+e7b80ba69c96f82faf4f61f47bef4cbf8f2571f4,imda-normanchia,imda-normanchia,132418893+imda-normanchia@users.noreply.github.com,2024-05-30T07:41:06Z,Merge pull request #9 from aiverify-foundation/dev-main
+b38b5b57fd694cc7460dae8da3a0583ca29e34fc,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-30T07:38:58Z,fix attack module typos
+fb6eca2ad2238e002f71f1144c40f72b07a241e4,imda-normanchia,imda-normanchia,132418893+imda-normanchia@users.noreply.github.com,2024-05-30T03:47:04Z,Merge pull request #5 from aiverify-foundation/update-readme
+3ca4fdb6e900febbb9bbc6534edf35c1d38da7c5,,Norman Chia,normanchia@Normans-MacBook-Pro-2.local,2024-05-30T03:26:30Z,update readme
+4958b2e0cc5efab05c574a3796a662bb4978bb7f,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-30T02:59:13Z,test spec mock default cookbooks
+7ce1f726386118031410675fb5da8f6b1ac13467,imda-amdlahir,Amin,130328114+imda-amdlahir@users.noreply.github.com,2024-05-30T02:00:12Z,Merge pull request #8 from aiverify-foundation/chore/change-report-logo
+0b2022ff04e986bb4d6e30a3749fbde3a8559c09,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-29T22:58:32Z,update report logo
+a90d23701a0e3283d5d691fdefbc83064b84574a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-29T22:44:42Z,nav spec
+4e36e56c6beaa022d351942dd31bea2ffe471a10,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-05-29T11:43:39Z,Merge pull request #7 from aiverify-foundation/notice-files-and-license
+f52184a9fab415a9121500616984c1b101631269,imda-benedictlee,Benedict Lee,benedict_lee@imda.gov.sg,2024-05-29T11:35:32Z,Update NOTICE.md
+db40e9297285b53845e41bac1270a4c656dd53b8,imda-benedictlee,Benedict Lee,benedict_lee@imda.gov.sg,2024-05-29T11:31:32Z,Update NOTICE.md
+f06867bb54b5145dd481e56a308ab621a6f875e3,imda-benedictlee,Benedict Lee,benedict_lee@imda.gov.sg,2024-05-29T11:31:20Z,Update LICENSE.md
+a9ca5d3fd086b4a9e99ec35a9618976dd22b3d61,,Norman Chia,normanchia@Normans-MacBook-Pro-2.local,2024-05-29T11:16:39Z,update readme with preview
+00b3d5d94b9bc3983a6007d5b147bdf917e7bc0d,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-05-29T11:02:02Z,Update LICENSE
+328a038d9e1aa03e017614cb8b426904b8a11839,,Norman Chia,normanchia@Normans-MacBook-Pro-2.local,2024-05-29T11:00:16Z,update readme with links
+5824e53e802053fb7fd2054858aaf1053a77b54d,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-05-29T10:52:38Z,Update LICENSE
+38a82f1dd713bfc98abb037d91227642399b15b3,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-05-29T10:39:27Z,Merge pull request #6 from aiverify-foundation/apache-2.0-license
+a3346ab61383d72554a22e328be3a2e3fe79b185,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-05-29T10:22:04Z,Create LICENSE
+197f6bd2cc123e9d467879ca200bb55695b16e6e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-29T08:59:10Z,left nav test spec
+21da7145f6a9125b3261350a8f16d4ff4cc1e15c,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-29T07:54:08Z,remove unused unums file
+437828c28cdc793f087a50c78e80ba7da887694e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-29T07:44:32Z,remove unused old components from qstart folder
+411f0b4de0f17c7bf73788abb3d93a1da9f67a2e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-29T07:25:41Z,test entry banner
+8b1183f45335689db2c1f9017d05ce92176fc567,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-29T07:25:12Z,unit test setup
+2157df64661a2a9b030548ce90efc2ec2e212a63,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-27T05:53:09Z,update wordings on cookbook selection
+4d8d836c517d67b1b7d4ef8b9d9b579664f04345,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-27T05:50:46Z,populate all cookbooks in default selection
+79a0fcd620e442e792d251ddb2d77676d047a833,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-27T05:27:09Z,disable cache for fetch cookbooks
+40ef86fd09cc96b38a9a08b110f1bd99d6bf2973,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-27T05:13:13Z,create cookbook flow
+4addd0d0d3f352b2e25670043f72e20c4cbf13d4,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-27T04:27:58Z,create cookbook select recipes
+caeb05963e79a30a4bf591edfa27c112d3d949b2,kimeetok,imda-kimeetok,129362897+kimeetok@users.noreply.github.com,2024-05-27T03:32:17Z,Update README.md
+e089c8c0d0122f2b07929af141505ff314a77244,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-27T03:08:41Z,create cookbook form
+1f5af6c42e9a8071549ab1c23dff18855847741b,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-27T03:27:25Z,fix checkbox event propagation
+f4bd70adf59cbafff2b44d2f3c431465e4cd53ba,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-27T01:47:17Z,inscrease event emitter max listeners
+43dfb808a70c6af90ef37f35ab2f684083f34b04,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-27T01:08:00Z,preselect 3 cookbooks
+c830e4ba7e60f34a59bc8bbf20cc21c1a69f43b3,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-26T23:08:00Z,fixing default cookbook selection
+a614121ef9e4cc2e36d0b9d8fd5f2f9ce554fafe,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-26T22:04:38Z,clear selected cb and model state at strategic pts
+3925aa4d07aa272bb34350d9116b939979dce64c,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-26T21:21:29Z,context strategies list view
+ca72b0ea8554be87f9b475c16d03dda681098db6,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-26T21:07:35Z,prompt templates list view
+b3f563ef45704fd49ea2a73f8bb5cce9ef232b33,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-26T20:49:26Z,utilities and history sub menus
+a2f4517ac103899bcbcd4c0836f8f0c332e2bb19,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-26T20:37:29Z,no runs and sessions error message update
+5972fa42defbfc0692309af941191c156a303cd8,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-26T20:13:51Z,disable save btn at start
+57448d8582c0348b2ab4ed3a067bf5cd57e98111,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-26T20:01:28Z,update select input font size
+1e46693bf585001ae3888ef3422d10841a6224a1,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-26T19:39:49Z,notifications and event bus tweaks
+7e3b087ffb5a41a8fecd78fc112239ff650eb08a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-26T18:55:06Z,event emitter limits and cleanups
+fdda433826ceab911303997a2412fa6566245ef3,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-26T11:44:05Z,Merge branch 'main' into dev-main
+da2cb00fd44c71d5eda12468daa81ee1365f40e3,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-26T11:43:57Z,disable cache for view past sessions
+14ec860947d2e90ebb2e73f8187142848d6f260a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-26T11:20:48Z,"remove backup new endpoint form component, and remove old status panel"
+f3c52f071e902bf057d2f75042664e6f03ae52a4,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-26T11:14:22Z,improve token input typing masking behaviour
+24e844111aedbfc216c2f7e712616cf78a82278c,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-26T09:49:50Z,fix benchmark run cancel btn delay
+0592bbdf4979ea8bd64a780dbfc6c47f5d3a9f94,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-26T07:51:41Z,disable run button when benchmark runs
+1021c8f2f2820c49176656ce66b29511c4ed5971,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-26T07:28:43Z,cache no store flag in fetch runs
+b049e8a2a46e8ddebbcc07d57a4bbf6a4dfbb0f0,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-26T07:26:52Z,clean up heartbeat resources
+7b21c8aac152aa148dcd04962ca871b1543986ec,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-26T07:22:03Z,no cache on endpoints requests
+9ed422cc085b7eef966f5bf6ea05c5c923a0f506,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-26T06:05:04Z,clean unused in report viewer and dim main surface close icon
+a8aefeb40550269e9446c5b28d7338ecb545378b,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-26T05:54:23Z,rename sut in report section 1
+74f00d820ba0962e9dfe3532b2714ccb7cb3bb2c,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-26T05:52:19Z,a - e ratings intepretation and collapsibles
+7ce08e2f523e9d8f7ecfc93e1debd1e16b94fc61,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-26T03:23:21Z,fix mainsurface close icon handling
+3ebb5642b19af21df04d61774b2bd8ed61a81db4,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-26T02:41:54Z,restructure endpoint screens leveraging nextjs layouts
+5c60bb18987cb5dad70bb72fce54ff2725d4fc1b,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-26T02:40:42Z,update package json to fix vulnerability
+a99cca3c99702c94e28983d9fc553dab98f6f956,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-24T11:03:14Z,inscrease error modal size
+c9d96099923cd8eb0204462cf54b398cad190929,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-24T10:12:03Z,fix recipes category heading typo
+9f2d9ab46adfb86413211b4df1078c711b20aac5,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-24T10:01:09Z,fix mlc color codes on risk wordings
+8bb84d7f8ac2cd5afb450c8e0ec92360d7a52f13,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-24T09:03:52Z,enable mouse pointer select in window
+2591f0da6db5afcbfc5d1be8181c5a402408c578,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-24T08:50:23Z,clean up unused codes in redteam
+0aa2c72e0dc002ddaad74826b4561d068b9a5eca,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-24T08:46:27Z,update logo
+f6df230e2ac2017a8e8704074b6bee3e954572f2,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-24T08:20:30Z,fix context strategy type update
+ccae519ea6c3c3dd7ee3f7d442433cbf647a04b8,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-24T08:19:43Z,add sg cookbook to selection list
+915da0214795a1f7a5569dc2795233d5712e9e93,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-24T07:07:18Z,update page level error ui
+dc12dfbec6b09a06ba83fd3b5ed7524fb5add9bd,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-24T06:32:22Z,update logo
+b47f72fbf112cc9d05476d558a0f092d040a4d1e,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-24T06:26:50Z,shift categories tabs
+3edb6834a3c810925020809175e3c50475a64093,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-24T06:00:02Z,fix disable next arrow when endpoint not selected
+dabcaffa7f6c20680b6752c1c5b8462052456ff2,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-24T05:08:11Z,rename suts and filter benchmark runs in view previous runs
+5400a4eb67950ef03bb5beb262bc8baf42203f3e,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-24T04:20:26Z,"update logo, remove time display"
+ae03efc4133b9013df68cb68e57cdccc122ab656,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-24T00:47:26Z,fix run details overflow
+64a52b43e63e6971645abe71f7062eaf635afd36,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-24T00:33:24Z,update button visuals
+70e0ce9489f9b557f33f0dfd234d18aee1dfa790,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-24T00:15:18Z,notifications panel
+a07975c607ccb92312cde7f08f6dabee3d0b9437,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-23T21:58:16Z,list past runs view
+84c557ff3f4af31bfa71a275970487ed4fd80bfe,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-23T12:35:41Z,"fix mlc overall grade dynamic name and desc, rename levels enum"
+581fb7462d5c1ce2eb1c6af17a826fdd24439996,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-23T11:31:44Z,increases skip button size
+93a0bfab8e248c6e1d4dd1fed6076c7275458348,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-23T11:28:37Z,report downloader
+10b123c7b0a864d5722856a0d53ac5abf01f6175,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-23T08:12:41Z,Merge branch 'dev-main' into feature/flexible-ranged-chart
+fc70b7676b57108155be5c383a0f04be8272eef5,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-23T08:12:19Z,add category label to recipes in section 1
+d658762a52d0d093ad79231f3acfd0a380c030f2,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-23T07:41:06Z,mlc section 1 dynamic names and descriptions
+5c502ce469e7968f9394cca3f202cde5a65df60e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-23T06:58:59Z,no preselect cookbooks and 8 cookbooks for selection
+c26902448283daac9034d158b2bb14608328d111,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-23T06:53:48Z,mlc section 1 dynamic recipe grades
+8c19e3058a880210dcddc722f362913ff3f7c20f,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-23T06:02:30Z,mlc report section 1 overall grade
+f73cfd2b5863d0c8cc8ea04007e9c2a5a1b1e590,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-23T05:37:29Z,mlc report section 2 grade colors
+97d672f10d651830aa80d080c166058032e42980,,Norman Chia,normanchia@Normans-MacBook-Pro-2.local,2024-05-21T01:51:08Z,remove unuse import
+689055a561a892f7736e3d25c558430d2d9f6be2,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-20T22:00:51Z,dynami test areas content in report
+f5da06e65eb9ecbb47fca5317b0a73997669be4e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-20T21:59:08Z,benchmark status progress percentage display fix
+e397a16bfa465819ee0fe61f3fa60f73a19bc27d,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-20T20:48:19Z,test errors modal
+6d321043b514f32e02113372ba1b787adbd58ae2,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-20T20:37:31Z,fix missing calc est time argument
+38d33b6569d838327ddf31cf410c03b9d6b19f7c,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-20T19:54:07Z,tweak prompt box styles
+0088057fc5aa9eb15cc7ce616469679e2d78eb09,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-20T19:36:50Z,tweak prompt box
+26e46990356c9ea3b39fc11a2e1a61881ab7bb02,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-20T19:08:15Z,update chatbubble animation colors
+a46eb1a7f0f797412df35a5be199cbd10e69d9ca,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-20T19:03:47Z,update chatbox colors and slide icons
+3c3e5aba5c0ff44376268fa86330de390e920f7d,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-20T17:25:54Z,add loading animation at page renders
+772f8f3d1279cb551d0fd219f4644535f03a6d79,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-20T09:17:20Z,remove texture from background
+0bce703c4aa55cd3659654d71944aa3e958d2ab0,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-20T08:31:35Z,remove imda cookbook and remove close icon from benchmark cookbook selection
+c8333a1607581b0a87f1bf1cf9c24a36808fc8fd,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-20T08:09:21Z,change est prompt duration to 1s
+0059a0b016ca9052d5d01909ae34aedae5b1019d,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-20T08:02:56Z,router refresh endpoints page
+b6d2093c1e0d4eb7f7eb200decd345cb148b08d3,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-20T07:52:11Z,fix missing description in view past sessions list
+a3178798769ee7d6a25b41d64ada7d41ed79cc61,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-20T07:36:45Z,update logo and left nav
+ade043c4c1dae47310be49264085c8293b58d2bf,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-20T05:44:53Z,edit endpoint from list view
+3baf769f5698fae761b2b6b279d48ef398712511,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-20T05:07:52Z,endpoint id url param
+674e5a485cb432c708ad69a7d2b436387d7a2677,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-20T03:00:09Z,disable fetch caching in endpoints page
+b72cfe5eaf48c6da9e2f2a82e6ec5dfd36346873,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-20T02:28:45Z,fix wrong connector ref for connector type display
+860b802c5d860a2eb83614c6a28628cb213e504b,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-20T00:08:29Z,tweak chatbox colors
+24918671a92464a588d233bc519bb43e5d7acb66,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-19T23:55:08Z,update entry banner redteam url
+f5eb4648816f76c8d29d88b2c2796402241d393e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-19T23:51:19Z,"create endpoint page, tweak spacing and text color in list views"
+1734efce21699929185b1c8bb86bbe600bf6027a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-19T21:24:42Z,endpoints page
+7c7d52a6a8e33c392f3ad4ea94404a804631356a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-19T20:11:39Z,"recipes list view, update details column bg color"
+16d72fd57ef4dd3a2fc8aca3f975a6768b8fe53e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-19T19:30:39Z,add back to home link to rt menu
+00f165ac4c57a098cf1f2ae0daa457dd4b4d4dfd,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-19T19:28:49Z,attack modules list view
+b5a047367ada483b12cde8947e74a6a8d626afc8,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-19T18:36:13Z,"force dynamic list pages, optional activeitem prop and rename sessions path segment"
+a0aa70eb438594d717abbfb5153f77b75b3fcb7e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-19T14:28:34Z,layout groups and view past sessions
+f44505ac7e3cf17ab01e51a725bd1fc85fd651f6,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-19T11:44:12Z,cookbooks list view
+dc87f3a19f0ac9b3c0436420f6b9f4b5828b1d2c,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-19T08:03:56Z,nextjs layouts
+f7a07caac557d81282959cac28d22b2d61cd4122,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-19T07:23:14Z,redteam home menu
+a1d75c335803f45f595f96b565c718ab18ba6306,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-19T08:11:01Z,fix eventdata not dispatched to state on art completed
+7a7d23c306fe38c4b263c3e8767a1c1831df3090,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-19T01:15:27Z,fix run form redirect to undefined url segmet
+48bb73ee3e3c28f475ba1bd3c21b42c830c81ab4,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-19T00:58:29Z,"error modal, force dynamic chat page"
+b79e3b367c2cc2464ca72d35159342f91581edb5,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-18T23:31:35Z,remove old components and fix session name and desc
+54da11528b59ab80e061ca486105ec71f1266a8a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-18T23:09:58Z,close session
+027435ae00e58dfe5cfcda95eeece86935045379,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-18T22:41:58Z,update send prompt manual response type
+8c586f1e17773731ac320a8ca148a5b45405af2e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-18T22:13:55Z,"combine sse endpoints in 1 file, update chatbox bubble anim for attackmode"
+d66e86be21987a6d0db17b8bf96c73f41c08a732,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-18T11:39:50Z,set and unset context strategy
+eb7ae1fe516a78977d03a5539aa9e757831cdf6a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-18T10:07:32Z,set and unset prompt template
+6fd24b7b8002697137abe73424c3899a9699cff4,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-18T09:05:46Z,adjust slide gaps
+8dfe8bcc252c946cb000598a2414c5e19845bd04,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-18T08:56:30Z,fix reset chat positions
+0b654b48387ea526e4702c350d89ec64e7fc1caf,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-18T07:58:00Z,loading anim on initial data fetch
+10773df86d979543031aef387fd7f815094a2759,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-18T05:25:18Z,attack modules list and selector
+89d1ea8b14b16782b47c95c92dcfae5f8aa8218b,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-18T00:46:59Z,attack modules modal
+0398b5c442c576fb0f199b7f9cf02ec37e7a9a8d,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-17T23:32:40Z,chat options panel
+710e8613df2a43e24fa4302fad1560b2d010d191,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-17T10:14:19Z,tweak free prompt box inital pos
+eb7fe0291fcad68300d8bb7112ffd9c30642d9d7,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-17T10:06:29Z,tweak draggable and slide layouts
+0b5a38410590c79c87e4e7777ae672125d5363eb,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-17T09:27:13Z,disable prompt box while prompt in progress
+9cde1eb76912ea825ddf30ad99e59c640561681d,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-17T06:27:44Z,update prop inputs slidelayout comp
+b5217ad2ecc17b7a5b7b053b5d7c12d495740730,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-17T04:05:27Z,scroll controls on free layout
+14b330007ee69b0247190c8c7e5155b8143967ec,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-16T22:21:25Z,update sse for art
+cb6b9ff14b830c9a6a63fc5116dec61c92e8b212,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-16T22:20:52Z,clean up chat layout screen codes
+67dfd49f12cd3ba576472a156e81558e6311c912,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-16T22:20:20Z,rename chats screen filename
+f9a58bf2dd0d812751fb13c7bebbf618c06ea17f,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-16T07:32:31Z,"direct call to write to sse for art, without using eventbus"
+44eddfd8d806bb8f899670dc466617b6998a3878,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-16T02:47:53Z,art progress stream
+e307764e2096db5d1c94f2ad9c315f37223335c4,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-16T02:06:54Z,update red team chat ui
+157db3b1d852d9cdcd5c8c45ab1e8e3bf43698e5,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-15T08:56:26Z,Merge branch 'dev-main' into feature/redteam-flow
+6d3923a3e1901a2cb020f501898120367f35ad12,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-15T08:44:59Z,add readonly to selectitem checkbox
+0ca1063d78e4d15accb549ca00831f287360a8bf,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-15T08:39:52Z,Merge branch 'dev-main' into feature/redteam-flow
+b56b01b16128723dd16d732b5ddb3ae402328349,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-15T08:37:22Z,update cookbooks in config
+56f1f55f7ce2fadde8503953e11132d254e01148,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-15T08:36:46Z,fix select item click handler called twice for checkbox
+cd10e42826219056a7937c458e3a525ac2120eb8,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-15T07:36:34Z,reset redteam state on exit workflow
+e96582d3a2f49e6b24e1d392242deb86bffd4439,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-15T07:35:42Z,fix session endpoint
+ea8505de2737cf03f189a1eb76cde66ca84272fd,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-15T07:32:42Z,red team new session flow components
+6fd31e63c5555c5bd3c7eb928f011c6a55dc9480,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-15T01:44:17Z,inverse endpointselector component model click state change control
+628580290edb9d3698c4f3dc6fdd9a541587aeb5,imda-normanchia,imda-normanchia,132418893+imda-normanchia@users.noreply.github.com,2024-05-14T15:54:46Z,Merge pull request #4 from moonshot-admin/fix/cb-selection
+28bf9706c9a33dfb0740f5a9dcb8d67db0eae81b,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-14T06:55:04Z,fix token masking in endpoint form and button padding
+0ce419f69bb625ec15bfd9e7b58e20c497b85bfd,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-14T06:25:47Z,edit endpoint subflow
+02375ae1a666c6ee8a8edc5dd9ecb82fe2c36517,,Norman Chia,normanchia@Normans-MacBook-Pro-2.local,2024-05-14T04:02:23Z,fix cb selection
+402ba12db9116df4faa4b9499f81a0d9ac0be239,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-14T02:09:34Z,fix reset some state no bmark workflow exit
+6f5996f473c219df85aee2e87507ddf150068be7,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-14T00:33:38Z,fix import statement lint
+ad462a62384a79d7470f98d56c6be6deb485e722,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-14T00:30:04Z,exit workflow modal
+ee92e954055f45961254b96847a7122b3d78502d,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-13T11:03:43Z,"add run, endpoint and cookbooks on status view"
+33b3b3a7d3f5760de29ed2423c4babaea4a607c7,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-13T07:13:05Z,fix ssr status runner_id undefined
+8b277a7c7fca6298f5ed475bde84fe3bb07a058a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-13T06:56:24Z,fix spacing in report
+b2f1e38762fd9c7a1ae158bd0340d047ed090c27,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-13T06:53:07Z,readd texture bg
+378d8397eea8c63c1d66b5328c7133eed9384ee7,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-13T06:19:47Z,remove unused files
+b4f8ee1812f15800c6814c74c25e2981bba0224d,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-13T06:18:54Z,validate endpoint form other params input
+d192141df5080934325f229889cefc8f39f62c54,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-13T01:13:45Z,test run screen cancelled state
+63c6a363fbac593294ccd1e0f994bc17ee21da02,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-13T00:24:57Z,display raw score for no grading
+0f0b2b31c79ca2572b99df7230f50737292c44a7,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-12T23:30:26Z,hardcode some css colors in report for html download
+51cd369a06cbc2797e3ed060e036fb9b26c90f2d,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-12T23:13:57Z,add tailwind external link css to downloaded report html
+3cae7ae75d0921e163558a948538f3b15fda5088,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-12T22:59:09Z,json download endpoint and anchor tags
+fd321a0ad06e471c1a502d3c31a5336a574bc8a8,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-12T22:08:54Z,slide animate results
+61930b73d2117e00a508e76203928b0451775c49,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-12T21:53:23Z,delete old report component
+bc8b8d4ee5d0440a268276da0da8b25fff179747,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-12T21:48:17Z,runner proxy endpoint
+6a736ee1ecc207d5841780b8d44641e6bacd3441,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-12T21:47:51Z,add report name and description
+56788b97f19974a151aa7a0c56c3a14831774488,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-12T20:33:30Z,wire up benchmark result using url query param
+b2cbfb7226b4fad081bc9cd4c229aef6b2a7cc88,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-12T19:22:58Z,dateformattter for report
+f54825c8dee8cfa8160aa7079108b48d0dbfb86b,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-12T19:07:31Z,fix tsc errors and add raw scores table
+db1c51da335b7109c0251f975d97807817cea0db,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-12T14:58:06Z,collapsible report sections
+1f875585be8fd66e5dec8bdd2ac193d7cda039ce,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-12T14:50:54Z,tweak ranged bar chat
+90dc7977614031a95031a141045ab4fd55540c7a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-12T14:17:09Z,ranged bar chart component
+435ff52d484e717d495ca2187279d6ecba29a737,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-12T11:10:27Z,benchmark and cookbook result typedefs and result components
+72b2a2691b1d8c64b9ba1d13e056e1faad7c3745,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-12T08:45:37Z,safety guidelines ratings
+aa7deccd1563395867d233562e97f1ebb3cbf427,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-12T00:10:56Z,safety guidelines report section
+3b778e350feed89a853606585e19dbc9c9e4966f,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-10T01:16:13Z,select endpoint hover visuals
+1b6fda19ea0b36699d37a9a23c1e62a7474bad05,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-10T01:05:33Z,selection visual feedbacks
+1593bddd555cc03370b1320cd029b9f2ad0b09c0,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-10T00:44:05Z,fix tsc errors
+9148a5305dd124c616a07a91152635e346aab063,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-09T23:52:31Z,hide selection ok button when no cookbooks is selected
+20f11d1add1541043c4c663cfe8c84d038feb0dc,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-09T23:13:37Z,update cookbook route and fix others tab
+0ebdbaf1d4b31da4d32ce452c571ae97b6c07207,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-09T11:22:37Z,Merge branch 'chore/update-look-and-feel' into dev-main
+890ec95706dea4c3802611955400d61d5438a9b3,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-09T11:17:13Z,"configurable category tab, baseline cookbooks and prompt duration"
+9b258942523aa85f95004a75e23aad55868b9e88,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-08T13:36:11Z,tweak small spacings in about cookbook recipes list
+f2d8d472de921f84373988c2bdc082e437499430,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-08T13:25:16Z,recipes list in about cookbook
+eb247e20cc818596a80fa348d3b4bbbb7448d73c,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-08T02:50:06Z,fix type check issues and update recipes endpoint
+54011e468a818714143c30485aa9e22f449e8346,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-07T04:49:22Z,"remove mockdata, add cancel endpoint and fix types"
+87ac71fb0a190717c8245ea574609b5c5fc239d5,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-07T03:02:19Z,add cancel run call
+479342c8176a5be870d29b1a6e2a5cfeec6a0bab,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-06T10:06:17Z,benchmarl status callback properties updated
+eb7fb9458a5a54543d80f0b47956372a32848595,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-06T06:39:06Z,benchmark progress status bar
+938b0caeb556ae34eefc3bbb1a219db83df10a8e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-06T02:57:56Z,benchmark run form
+869a489bdc2af8425e56d428eac725bca7bae185,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-06T01:12:32Z,extract calc prompts
+054097d74bdae5ec9c311666e0723a894d93ca8e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-06T00:43:55Z,cookbooks context provider and fetching of cookbooks
+6fd34948ca7d42db9dbddb7bbd8620a191ebd140,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-05T18:35:47Z,ssr home page component
+d6b7f921fb18cf969ce629b0c0b44c4962cdf500,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-05T09:24:08Z,app router pages
+12357b92e216ad2f72cd3745cbd5e234e6a322d4,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-02T02:46:48Z,fix endpoint checkbox prop
+101c0b75eaa31d853d12b889c91238484dd8ed45,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-02T00:52:13Z,new endpoint form and moonshot config
+52e9959b40572414755c7dbe766eafc59f46c71f,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-05-01T16:22:46Z,wire up cookbook api call in new session flow
+edcd0619e6c00d82009a6ecc16c856e267b91bb0,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-29T23:52:21Z,tweak more vertical styles for fluidity and move cbselection item to its own file
+db61e5bb4fe0feccedf8467088025cc852eb8866,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-29T07:01:24Z,steps indicator wired
+95b8bb1b5123b14de16fb1344f1265f30e7db889,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-29T06:56:53Z,tabsmenu
+210cc84f6886df3ff3da15e74cd5138a9acb7268,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-29T01:03:10Z,cookbook selection about placeholder
+0e34aba0ea519eeb20ec046a367c18d87002b11a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-29T00:12:39Z,quality tab placeholder
+e60fcc1986dfd52d97107f9c72cb112826431e8c,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-28T23:06:53Z,layout full height fluidity and tabsbar
+3f2339ddcb57af2146570a4653841c6b20fa4dd7,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-27T23:47:35Z,main layout fluid height adjustments
+22d2a8aed36eb2630e5fc1a251d3888468250257,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-25T01:29:10Z,recommended tests screen
+0a9e987b3acbe5f751d536034ba41c9a4efe781c,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-25T00:12:54Z,Merge branch 'main' into chore/update-look-and-feel
+88dec8481fb031c4c2182e7391efbe6dbc95f7d3,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-25T00:12:33Z,selected cookbooks estimates view
+3cddb7d52b4bba0826f044ddc1a842be61db3df0,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-24T23:12:21Z,benchmark topics selection
+0ffa4cfd8adeb0cdcc44d69b4168a92567b2002a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-24T02:03:17Z,enable transparent mode in tooltip component
+c38ac6d17e8e8747a20a8506b8eca952fdcd7d91,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-24T01:33:06Z,steps indicator component
+63602c8517121e8fb71fd44400b9151eb13feb7b,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-23T08:15:29Z,steps indicator in progress
+0b99757746732d2f66d002a4aa7929a26c22d45b,imda-normanchia,imda-normanchia,132418893+imda-normanchia@users.noreply.github.com,2024-04-23T06:54:39Z,Merge pull request #2 from moonshot-admin/create-recipe
+fc87c7241fc32284ae9df268b5943237a0cf5659,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-23T04:36:31Z,primary use case view
+64352bb6c8cb243216d8120a7bcb0267368566e3,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-23T03:58:44Z,submenu comps
+f4ab9ef6d952451e87b8a78ef60110bc2fd7e5d8,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-23T02:19:34Z,entry banner red teaming link
+070f27342ac7e891bd7307c7d6ff42510cc560ad,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-23T00:20:29Z,fix art panel loading position
+993014c927e6001d32ac3d264876595516a5e6ce,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-23T00:17:28Z,bookmark panel and button
+f7b0d26d6fe4b3572e122dbcb5075430a1feb9c2,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-22T23:48:36Z,auto red team panels and slide layout adjustments
+25f42dfe0c1970be947816e048d095cc402e9113,,Norman Chia,normanchia@192.168.1.14,2024-04-22T13:19:24Z,remove recipe type and rename attack modules
+4538624ae881fc5ffd8389d6736f04b6eeb99db0,imda-normanchia,imda-normanchia,132418893+imda-normanchia@users.noreply.github.com,2024-04-22T12:50:16Z,Update README.md
+a48e23f03ec757603568c10da60015aa98bb061e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-22T09:10:58Z,adjust slide layout for red team panel
+fc2daf4570c837349e5e0cd4f8905fb10fdc3bf3,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-22T02:50:03Z,"remove redteam route, add red team flow to new design"
+eda9d55c983b6b8a3af56821d1a670cbeb012834,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-22T01:00:03Z,models select view done
+34b5ca59d697a8a849dfe050f62c9e5f67ac0633,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-22T00:35:52Z,models select view
+cc7e6818ba8d56b3ce5511122d75a0d17229351c,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-21T20:00:40Z,temp desktop route. create redteam route
+0d712b31dfd2e7d097384220eb9415647be3797e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-21T19:25:56Z,landing page layout done
+30174446e1a6dc55050f97b131347660494e71da,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-21T12:53:17Z,textured background and nav icons
+3e4ac6d23dd263d82724431f0d1e8629860adc2a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-21T06:20:34Z,banner and button components
+fdcdc298a779d44ef6c8e01fa23dc4dacebf584e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-21T00:27:55Z,microlayout for new design
+1e0f6e67eabdd7fe208897f63e13224f65d5d46c,,Norman Chia,normanchia@192.168.1.10,2024-04-18T16:45:58Z,add in tag field
+fbd421e322cb5f4d72c1105d1e50e06fa0692a91,,Norman Chia,normanchia@192.168.1.10,2024-04-18T16:45:48Z,update host name
+b877c0cecf428b92afb4d70e9738a84f840408f4,,Norman Chia,normanchia@192.168.1.10,2024-04-18T15:50:12Z,Merge branch 'dev-main' of github.com:moonshot-admin/moonshot-ui into create-recipe
+31baf235721e404d34125b63ee7ae04ef96b67ff,,Norman Chia,normanchia@192.168.1.13,2024-04-17T13:02:25Z,add create recipe form
+af1750647698216f7bdbb3e917a7c31f593d94d7,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-17T10:16:06Z,Merge branch 'main' into dev-main
+6912e4ae7869f799f6491890296423f9eb7d055a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-17T09:21:49Z,fix hostname formation on client-side
+126fc4b797db8a851e86fad502230ee0c31988d4,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-16T21:35:47Z,fix window dark theme
+2d25a88b201053f26a9247b174fa7f71776a77e6,moonshot-admin,moonshot-admin,153267393+moonshot-admin@users.noreply.github.com,2024-04-09T05:56:23Z,Merge pull request #1 from moonshot-admin/form-validation
+08485549151ba041875e2e70512f15d19f8b33e3,,Norman Chia,normanchia@Normans-MacBook-Pro-2.local,2024-04-09T05:02:49Z,change type name
+5a3cb460b3b4e6619fa1feb63a341e7be6606627,,Norman Chia,normanchia@192.168.1.19,2024-04-06T08:59:25Z,add in yup validation
+8fe3d598df1e547b45194d252057cffa61632403,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-02T03:54:12Z,update typo in readme
+c7caff2a93bd98d342f99cbb08da6e5f1c78c2f8,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-02T03:13:11Z,fix rouge metric cell in report window
+02d04163cd3f48527e6578d251a12375079900cb,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-04-02T01:23:27Z,close all other windows when session opens
+fb4faa7875da5956c5fe6c78edc1c72d66d92818,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-19T06:57:53Z,remove unused images
+f34ebeeae4d1a75d3b7e784b2d746447f4cdfabf,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-19T06:54:07Z,remove unused deps
+a27a112df01531df250faf53dca4f85c4aaa1e8d,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-19T02:02:30Z,backticks in readme
+67d7b1e609b233034bf9500601386bc2806498f7,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-19T02:00:01Z,link moonshot repo
+48e856403ba72f34bfb9ba4595453106e7cba12d,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-19T01:55:51Z,update readme
+93f068ac62699860c0a1d52a1f0c9159439cc67c,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-18T10:05:28Z,update readme
+ea2948be2c971972151deea9f7cc3fc60844ee49,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-18T07:09:46Z,add error count in status panel
+7bfb7a84308e763e098e0e6041441ecc29583ab1,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-18T07:02:39Z,disable cache at rtk queries
+a89860ab8b6d7d546136fc68fe08b5dda0e76b72,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-18T06:37:12Z,force dynamic to routes
+444439393a5d2c26cbd041a6c5120b61c4f84aa3,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-18T06:04:59Z,remove unused file
+b7160ef925edcc3adeccfc6d4a3155a9612c9419,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-18T06:04:14Z,update readme
+99530055c6351179b94bde218070c14c175ec9e9,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-18T05:31:48Z,clear readme
+f230e1bff6b10456a2244e6d3f291a9852708e57,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-18T05:13:05Z,remove postman files
+74787a00254b2c970dc680f1fe3f17eb0f6bb0e7,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-18T05:10:04Z,force dynamic get endpoints
+696a86cd4299e1103ca779afda20afaf7f96c7b7,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-18T03:19:35Z,fix loading anim css size
+99c6b8b7fe374d22d8fb87ed3f27c261d2d3a482,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-18T03:06:39Z,fix lint errors
+0c983574da1d080cd1255a3c490111f021c4d696,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-18T03:00:01Z,view models picker by default
+0cd3f885b83dfcb03b968d5da95bb0748c67ad07,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-18T02:47:46Z,wire up updated set template apis
+44ef5b5509d3037de2609e41f0d9d2e3aac85410,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-18T02:36:25Z,update set prompt template in session proxy route
+0951655997c6290fd003de5aedf4a4dd86dce1ac,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-18T02:17:18Z,fix models not clear after starting red team
+3d9faa977b1a7e9b91612c5393c5e5e1f35d1973,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-18T02:09:40Z,fix redteam session id picking up session name
+191b1b120f4e68fb0ef01991643faaebeba290e0,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-18T01:32:29Z,populate ctx strats in session form
+26d78c7e496c60888e0d19ca187b099c0e0dfe39,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-18T00:53:27Z,populate models in session form when entered from models explorer
+2018bc4aa1ad59e11c2f599b389aa84fc28040ba,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-18T00:05:17Z,reset selected cookbooks in benchmark form
+df84240d7e9360043e63cb4cc0e0af0e0cae5f69,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-17T23:53:56Z,validate require inputs
+6fd8f04ea8f99f65d563b72d2729fb7ce4a237f0,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-17T23:18:01Z,disabled select cookbooks for testing
+639502d080cb82d5f9bcab448757aebe075bd88f,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-17T23:14:41Z,remove disabled property in top buttons cookbooks
+a76e49b19eb5a639fe74869221680dd1a1777f71,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-17T23:13:12Z,validate required inputs in new cookbook form
+fb7bcd1e14190b01805e460d4a2c20f25468714a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-17T22:38:42Z,connectors proxy endpoint and fix new model form
+538ae3861554cacf0c09da3c4791fcd46cb7a781,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-17T21:14:07Z,loading gif to prevent delayed popout
+9def20de2d704e901d76a88babf537f3ce1e57e4,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-17T16:26:17Z,close all other windows when session opens
+302ad3211280e07fa4e4dbf087ef7b0d66393df9,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-17T16:18:02Z,"top zindex when window is opened, undo disabled topbar buttons"
+fc2997ecf85a323ed00f132ea35c658e9eedb7f8,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-17T15:57:33Z,sticky result heading
+ceac9ed3bbdddb83d21b326cf28df6676e9bc029,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-17T14:56:11Z,enable horizontal scrolling on result table
+25edc9a38e7aa9fcd02c2771f2ae7941d1a42920,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-17T14:18:34Z,result table tweaks to align with scrollbar space
+66f3fbc8a69ec877ad0cabcd2b14bfc216162d2c,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-17T13:53:40Z,result table heading width fixes
+1ca40a14946c8f7067cf858c0ce0cd0c1f0d2d5b,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-17T05:50:46Z,fix flex grow table
+f4a176ed31c2cfef3d6a04ce36f435f023abe9c1,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-17T03:07:41Z,result table cells done
+37b5f17667c19ff3c1fc4fa545ad75e0bffdd7c5,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-17T01:30:00Z,fix prompt template cell height
+833872b0bf921d0822a0d4e311aa54509a2f6059,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-16T23:40:38Z,result table initial layout
+40f2a4f83eec8975fb6657e949d4e444bc6af984,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-16T11:02:25Z,"update routes, routes structure, new window for result in progress"
+78e2acff142412ced4f7169eda7b8061ce602f66,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-16T00:16:04Z,remove complete see write after connection closed
+271665783c77206cdb574d74ef56ec5fdcb46e28,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-16T00:03:29Z,pulse animation to progress bar
+5743b2c58de093d7d9a702bb9334259383b44da7,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-15T22:58:04Z,fix status panel filtering out status completed message
+a9cd9e8e86dd10e40614ae7b4cfe51f0c75a095e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-15T11:41:37Z,"table icon, position calc, specify event type in eventsource"
+dc47f2527b59fa507b7d88e1b7d83353cc753b35,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-15T08:43:26Z,css touch ups on all windows
+f8a56fd29e92170518ccce022f0bd0babae6f71a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-15T08:14:02Z,remove unused windowid
+ffda458cf411391b9dcd63aa55bc6f58ed41da01,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-15T08:03:08Z,templates explorer
+368f2297b981ff06efe483208333508973bbb0f7,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-15T07:15:41Z,status panel
+ba00f442873f25be16346fb93534451688069945,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-15T03:02:58Z,executor status proxy route added
+888e82fa0255331c55d91a820b392d36e62beadf,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-15T02:43:59Z,rename test status type and create initial status panel window
+dc053ad1bb6900d9ce2bd59543b2d7f800cd32c5,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-14T23:35:20Z,stream complete error handling
+bf14496e06b2c9fd8ec588d40034d50fa641c56f,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-14T15:59:54Z,fix stream reused
+38b5ae48df141890bd84d13138142771c5841f5a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-14T15:49:14Z,"fix ts type errors, add temporary ts-ignores, fix eventbus"
+86011776b0643da20f6c6d988eb2bb9044519845,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-14T12:53:08Z,sse heartbeat and eventsource cleanup on close
+ba999b1c31966198b9e2c538613bcd78d627fdae,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-14T09:45:18Z,client side eventsource hook
+3ed83e247f440a962f926dca2317826c302ad8a2,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-14T09:43:10Z,tweak recipes explorer
+7951012b70f56450fcdbcf001b7821f842d182af,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-14T05:35:54Z,server sent event type check done
+e82d0b56b48007a6bfa22f2b0285d059a57b3b86,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-14T03:06:10Z,server side events initial setup
+12a98a7b3790978be87e868f9501ef241580e0c0,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-13T10:27:13Z,minor changes in sizes
+5c0dcee0053b3c41ff331c37e26055fc15888316,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-13T06:59:27Z,"remove duplicate files, create execute proxy endpoint and benchmark form submit"
+fc1d75b7f93d13e75ac33fb688ca8706ff825cb7,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-13T06:08:14Z,wire up cookbook picker done
+4506ffb80602a6aaa5f280f6ff89130b4dbef469,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-13T05:59:15Z,benchmark cookbook slice and wire up cookbook picker one way
+5df8ea649e278faa210ad4432398b13d910024f1,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-13T04:53:23Z,wire up model picker to benchmark flow
+644d719205f21f0e86e874edd95ebde5fc3beca5,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-12T23:38:54Z,"tweeak sessionm explorre styles, update arrow icons and primarr buttons"
+87a505ed2e3ad8861548a98edec49e877f896707,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-12T22:37:20Z,tweeak models explorer topbutton and form style
+69c4c48180f3ceda295ec0485d2c594e8cebe2f8,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-12T22:15:21Z,"fix cb list item width with ellipsis issues, update mutation type"
+f95f844c6b762e2564b7b689c44a91cd6c15a401,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-12T18:13:08Z,save cookbook and tweak cookbook explorer
+c89c4b6c485f3745afe59997a07fcba4bc8c3e09,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-12T09:53:37Z,new cookbook flow with recipe selector
+82435609ea220a151cc20c888b65d3570b99c87d,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-11T16:56:31Z,"cookbook and recipe icons, list item ellipsis"
+d7761a29a81a9f2f99ee0d06764bd0044cca345c,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-11T03:26:26Z,recipes explorer
+02b53e072b33a93fcf4532a061df301309cc4e02,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-11T01:33:30Z,endpoints for recipes
+a5905db42fd1160d3f3bd34744b1bcf4c55c4ac7,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-10T22:14:42Z,cookbooks explorer components and service
+7f6737d5a85c3095502df38a69b6a71ce6f3b2a0,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-10T21:01:52Z,cookbooks routes
+fce654de30bd947291583b2447e823fbf88a62f5,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-10T20:00:16Z,remove set active session and update sesssion.chats to session.chat_ids
+daa79117bff28c9c726203d143b2b96898a815ed,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-06T20:44:25Z,remove previous create session window
+d3b43dcb5942b650781b5a7a460fb2d781cfb99d,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-06T20:41:27Z,list item class name prop
+2e96d892f727cb8ba977ba51da708276962e2c47,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-06T20:13:01Z,session create flow done
+d72b49de5c2256236ea3a2091d88790f357ec066,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-06T19:26:05Z,opened window ids state slice
+c82b0ccf8fb1a894a275fcbfa8235e3f13672451,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-06T18:31:12Z,3 columns RT session form
+86e36911f651280a323feae68c046fae2ea4c5d3,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-06T13:55:08Z,update selected models box ui
+ea25323748e854592c1e1a42a75a8211e9920ccb,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-06T13:25:59Z,change top buttons to button group
+6bf7eaebceb95890d13c71bdcddd1a34ebbbf597,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-05T10:30:14Z,new session flow with form submit to api
+f8fb8f50dc13b0d738958bf3b4e26f3e571cc0dc,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-05T08:48:30Z,add comments to zindex system in constants file
+83d63f9cc319e6015fa9ccc0c4e6bbfa51152d05,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-05T08:31:28Z,extract set default windows dimensions to custom hook
+b0d597590aa2e3786a5d5a2bccf1ad1e31eff377,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-05T07:41:12Z,llm endpoint picker
+4dd0d4b155ade870f1506ff9b6ed142704a0304e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-04T04:30:29Z,sessions explorer window
+a5261d216fe2a143e934c996327c702a604427b3,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-04T02:28:34Z,add 2 properties display in session display card
+6eb1477c145a7541d665932c356e9f63384b7e51,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-04T02:18:03Z,updated list sessions window
+fc4bb6563ffa6b476d653e55344e4798548bed04,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-03T22:36:00Z,initial create new model flow done
+804588ea933cdf632b62d811ddeb4e90aa1efeb5,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-03T15:06:58Z,create new model endpoint form submit
+03e7d3e311ff61b7da643f57577b4a8ebcff8bca,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-03T10:02:32Z,add hideMenuButtons and buttonAction props to endpoints explorer
+5e2ff3cdd5cb4f23fa3f929ef531ba98dbc29834,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-03T09:53:04Z,remove border from tags label container
+24cb3f168f60828cfb25c31101b0f625271a0ebc,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-03T07:24:30Z,selected model tags container
+e22e8f8645517ac4830aa568630643ebcf85f1df,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-03T00:37:38Z,tag label for models
+0017d70e0964fa08fccff19fc26f122db0f7e533,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-02T16:16:26Z,iconbutton component and models selection checkboxes
+3c5a28eace393cf3d31a35bd5f375a0f689ad6dd,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-02T11:16:00Z,square icons and window buttons layout
+ad8a220a871c2575c6da61bd7bb2e7a063b2ddc9,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-01T12:25:15Z,fine-tune chatbox paddings
+4c7690a01cf35c6cd18e2f088c37bbf3d2bc19c6,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-01T11:10:29Z,fine-tune window paddings
+8117d442343802391233bfa8f0cec5ef8368378e,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-03-01T06:34:07Z,created view file for the various windows
+380a32075362b623c92d876ca6b3417f47be03ae,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-29T22:53:01Z,endpoint explorer component updates
+73a02f8c59c66c3903d23e3c9d707355b35d2197,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-29T11:47:15Z,rename model explorer
+d3dbb4dc1cd75a3552db206be56cc03c281047bb,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-29T07:23:25Z,box icon and window customizable top bar
+514c550ffb0e10c97780ea1d14cab5e7d7e364fc,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-28T23:04:08Z,enabling child component in select list item
+481e44eee16049d89ba3cb7c7c1a8b76665cf6e5,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-28T09:05:32Z,tooltip delay
+f98da8eb093bebeb063eff19a880ada76f0908f4,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-28T08:36:59Z,fix create session null history prevent window launch
+aecb9172759209f903edfe0d29e348837af34106,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-27T22:29:16Z,min max animatio on free layout
+f376ea9957b6ca7e9fc42636b4c2eb19cdd1e6cb,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-27T21:48:58Z,lightmode color update
+8a63b1f3178831333fc151b19409d3f8180fd7d1,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-19T07:51:03Z,chat bubble interactions ui
+22c43a1059fd523f42d30b14c7c66cca03f7b280,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-18T22:21:13Z,postman collections
+f498a5f762485d32351597c66bc72bc3071c7d67,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-18T22:16:41Z,prompt template drill down and chat bubble tooltip
+ca447d928b54492d1424bb5099e9310fb817ec89,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-14T03:33:21Z,index btns outline color
+be82e6f588cc3674303a7d1c628b5b176d26ccb6,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-14T02:51:37Z,slider index buttons tweaks
+eb277345d4a42c5596247d70b7ea92a493478ee6,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-13T23:05:22Z,tweak prompt-box template description ui
+c8a44f61c761adfb6c4c08af84c4d524db612a6a,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-13T08:23:05Z,update command descriptions
+c9ee6c3d27fb86d8ba0483ef1db423834be513b1,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-13T08:19:19Z,slash commands for dark mode and close sesion
+8697804e34455ee627712a6d9e254d3e44e481a1,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-13T08:02:17Z,use default positioning hook
+937b2738f9222577b3706458617b8b0bd8005f68,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-13T07:43:04Z,tweak select list
+4f642acc0eb159241cefdb987b52295ae08dc1d7,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-13T00:28:40Z,enable slash commands
+1d66bde8fb443880894c171a093e2eb7b03763ae,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-12T15:39:58Z,color coded template string display
+210a1bbcc21bcf6eaf70b5f2007de3e54b57f7df,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-12T14:43:45Z,tooltip and tweaks to prompt template selection ux
+7371f5bee818d672d37c38beefcfcba8f2b801d9,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-12T13:12:05Z,add tooltips to layout icons
+f1ed1e8b0faa4ccfa728c429b1a293ab8af7e2ed,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-12T12:14:43Z,interim render null if list endpoints and saved sessions is loading
+2df09785007975fd55753bb46ed9d95a562a6410,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-12T11:33:36Z,fix initial xy no updated when reset
+e73d5cd6b639df5692ea9da45897530412a41b40,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-12T02:23:24Z,defaults calc not rendering properly
+543278b1c64d0bedb2206fd44c3c77cbe84dab41,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-12T00:33:56Z,centralize free layout chats if less that 4 chats
+bf9461f30a0371ee246eb8a9a29bd5dd7de4a0ad,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-12T00:18:02Z,even spread free chat layout
+45ee9545cb4d822c14bfd694d1f324dccb0b92cf,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-11T22:24:14Z,redteaming chatbox component
+d068aed61cb796564733d420c915f0ecfb9a594b,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-10T23:23:12Z,"move prompt template icon to svg components, move services folder up to /app"
+1aa51c353782f93f9351591e73a953c91cfdd62d,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-10T23:04:38Z,session layout icons
+5d0af6ecc10ba72aed030bd3d4a8d0bd24099d3e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-10T20:40:35Z,rename chat session component to manual readteaming and slices import alias
+4a22f21b0df3520f0aaa483cfe53d5b15ed5a1db,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-10T15:44:40Z,lower state down chat layout components and fix free layout defaults set all the time
+6dc029a18062060ef2a9788ec17664cceb53be1b,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-10T13:35:53Z,break down chatsession component into smaller components
+47748b8b803b639af3b76308d838f8eed5241735,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-08T08:58:19Z,fix window resize handler using closed windowsize state vars
+a9c341770da2b5a5292f48cdc9fe330a6f46f9ab,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-08T01:24:39Z,explorer windows initialXy and initial size
+7a0387d89a6aa5bfa2fe01e2ec4e544dccf3542e,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-07T09:06:17Z,box prompt position state
+def942cf87135ccf214855a52ec92395191c827d,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-07T07:02:44Z,boxprompt max min modes
+6122ebcf9652d8190e265cea298c3e2def2132ce,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-07T04:54:56Z,responsive chat window sizes in progress
+829c64e0a4d24f5f162e9152faff567ec8a9fb2b,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-07T00:00:23Z,layout mode redux slice
+0a73d74cba915fdf7c7d63bcb97f033c2046289a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-06T23:18:01Z,chat window scroll position to bottom of content on new dialog
+b2fb04c8c6c8e74f916965e42efd63c3fffe11e9,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-06T22:51:41Z,slider final
+c524494747c1b70d0cb1f0b214c80715e2fc413c,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-06T20:52:36Z,current index condition statement
+fa24cc2138868b78028b539043cf2f8c0bfdb0e4,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-06T06:12:02Z,side-by-side chatboxes
+eace1bb3abcb72980c487b02d71cb36a50c6ba6f,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-06T01:29:29Z,wip
+278d388ccc7b024d40672a273c78209e4b9adf40,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-06T04:36:29Z,mask api token
+acfa161eb96ca5f884cb07eb0578a0204ca74e25,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-06T00:27:28Z,chat slider
+5e9ea67ff0f3af0a26ff2387c803098886610e60,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-05T23:52:09Z,prompt template description popup
+15d4aa145a147af006e0211f2cb056d9770ae1c5,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-05T22:51:48Z,slash commands
+f37ea0f4bbe7cf9d9784bbb2363da813e3e3a18b,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-05T13:32:13Z,zindex system and fine tweak css
+d9979c79f6723329f29ce796708d518c32b6218a,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-05T09:50:21Z,hide desktop icons on chat session
+f7c017dde846145a88dce7dda73bf7363a8939ac,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-05T04:19:50Z,update session view to tailwind css
+6a15f0a50f65636e69fbd45eea872d6559beb0ea,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-05T03:30:07Z,tweak box prompt and textarea
+93067e6451b5a46db1ac1b1fd3176ccc5185a2d1,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-05T00:47:21Z,multi select input for endpoints
+730513c4a25fc4ebb0fd9a8c936f8d15a3241ec7,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-04T16:25:59Z,draggable window prop
+17fe31867beb9f0b8cd3710b75ba9024d0aebe7c,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-04T14:28:14Z,llm endpoints info panel
+fc5da06620c2e9018e63c6c97b5bf69e401103c6,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-04T01:15:09Z,use llmendpointlist and windowlist component touch ups
+518d2dcc4341f86b0ad60a0d24e64fd0a48231dd,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-03T15:24:10Z,fadein scaleup move from topleft transition to window
+847f57da89c97e1d3634bbb279ff2401a3720184,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-03T04:52:55Z,two panel saved sessions
+1d0bc606bc43dfb07ea5002984e4b2f55751c51a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-03T04:32:33Z,light theme completed. update window styles to tailwind. move close icon to wrapper
+d18f0e8c4a0fcf584d40646c0a68ea97cfc7738e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-02T09:01:46Z,toggle dark mode complete
+b346c04a697efbf85ef67cc82d262b0fa98b4b93,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-02T03:50:55Z,darkmode toggle in progress
+7761a47cc8228b26482af30c47a08b696a6139ee,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-02T00:03:45Z,move bubbles and run svg to iconsvg
+0c62d1912a85a4a9f9a398d3f499ceacbbc677c1,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-02-01T10:07:32Z,wrap desktop icons in react components
+caedc2374bfe9e4c3f1f76253aff5c942e3142ec,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-31T06:40:51Z,move window styles to tailwind
+425b01a1b0b83b60cef053c0c04f4a97dd395029,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-24T07:04:43Z,make box prompt position absolute
+e996f4e72eb63103235306ddbd7302768e7e6f76,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-24T02:27:40Z,.env temporary
+649046f669eabe92c9d3738179e6bf4a47340a32,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-24T01:55:59Z,unuse prompt template
+b3c6034a1926c5c566ee592e874f401309d770bc,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-23T23:58:20Z,screen overlay active session view
+364d5227a13e9bc78d8c22184298f7226200aa41,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-23T22:08:40Z,chatbox left calculations
+d86e74b327e5114c929ff294e6b45332105f112c,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-23T20:12:59Z,select prompt template
+393bd287d56f123c3630697c6fa3ebec67edb026,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-23T12:06:05Z,fix chat bubble loading animation behaviour
+d3798116e54d674a3844f93fd06bfb32142ff254,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-23T10:20:39Z,prompt templates proxy apis and prompt template ui
+959ca1e63582022e75e8d4ebc75e3f98b94ffc43,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-23T04:31:49Z,active session proxy endpoint
+ac6e46be01d50f290399ecfe46762808b04b83c0,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-23T03:25:33Z,update prettier and add focused window id handling
+a7396a9adac50349de1c773193d6d9bab1d64f3a,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-23T01:39:07Z,add scroll top to window state slice
+7b61b5b1eae48d9c31b3a875e7bcedb97b4ccc95,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-22T21:25:33Z,windows state slice
+b72bb5f167de0a8e4041e587cedbe193b779bb8b,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-22T09:47:50Z,windows slice
+2e42c048a72b102ecf9e87a128b47293f134bb71,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-22T03:39:01Z,window size state
+78bc6fafa69fbf15eddf3a8174ecde75b0b59f08,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-22T01:01:35Z,sync srolling
+4d1fce9eb56a76c60a51f615b95244f6e894f341,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-21T23:22:28Z,resizable window
+70c134879edc02d46692a87274d640804206ea83,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-11T06:16:28Z,apply z-index to windows
+09f417af69f6b579919a0398305b8bc9a61f4925,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-11T04:31:37Z,split drop down menu
+6b91d561c46adfb9b9b22c48e4e2bc11e5cd0064,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-11T03:55:25Z,change talk bubble color
+d42a957988cc473a1f508f1a4e0de959fb31a176,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-11T03:32:24Z,save chatbox position in state
+46938b992e57ebf3a1cb0e981443c7857a0648c2,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-11T03:02:25Z,change saved sessions icon
+d45d3b6d6349898ace20027cdf6acc0a46d92946,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-10T23:57:25Z,chat window components and service calls
+1e6594fbb132eb4e2328ea6a11ade5f3d874154d,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-10T02:02:57Z,chat history slice
+c0b01d68210d41207df5fd56716e39daeb4b868e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-09T10:35:02Z,redux and RTK query setup
+257e8637b7f88eef2a45e1a91ad5f6d4b1662e9e,imda-amdlahir,Amin,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-08T09:34:14Z,wip
+1e65631d87a454c6eacd168605f150960f4431e1,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-08T03:04:35Z,redux session slice
+f5aaed5f5b4e3f920246a262bc95c0e16bb172cf,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-07T21:58:27Z,redux config
+a7f2112722ffa1a9ebb799d9daf8f375295d19be,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-05T03:43:08Z,integrate create session
+708b58fec3aff191ba18bc4c515c3eb6e5ba7507,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-01-04T09:38:08Z,"restructure folder layout, add proxy routes"
+cb65a46a83273967c181cc0878658e4c2d153958,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2023-12-22T02:19:53Z,mock up done
+0a5e779528f91b212dabb68e35e271afb9a1b9a4,imda-amdlahir,Amin,Aminurrashid_MOHAMED_LAHIR@imda.gov.sg,2023-12-20T01:16:35Z,add json editor
+ffba8283ea1cf91a9ea84a5455b66c310ae4d414,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2023-12-19T02:36:50Z,initial commit
+8ecfaac3550b328cff800876cfb5714034a18bd3,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2023-12-18T12:32:05Z,Initial commit from Create Next App

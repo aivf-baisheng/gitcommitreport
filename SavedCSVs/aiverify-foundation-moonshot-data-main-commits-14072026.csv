@@ -1,0 +1,723 @@
+sha,login,author_name,author_email,author_date,message
+30fac12375476ac1eb9f47e5872ea5d379c1aa4c,aivf-kaydenyip,Kayden Yip,kayden@aiverify.sg,2026-02-05T05:44:51Z,Merge pull request #216 from aiverify-foundation/dev_main
+f806f5d427228fc8aa279bb3f04e5b4e04b4f972,aivf-kaydenyip,Kayden Yip,kayden@aiverify.sg,2026-02-05T05:44:19Z,Merge branch 'main' into dev_main
+1419bb3b4df3895497ab4a675267f95d4f66ea45,aivf-kaydenyip,Kayden Yip,kayden@aiverify.sg,2026-02-05T05:38:29Z,Merge pull request #215 from aiverify-foundation/release/0.7.6
+c23ab9d287106a61d2043e90d1e585cadd119526,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2026-02-05T05:04:51Z,[WS-303] Skip 0.7.5 to 0.7.6 version due to cmd2 versioning
+0da0fe9a8beee5fb30541f4058814d2ebcdba5e7,aivf-kaydenyip,Kayden Yip,kayden@aiverify.sg,2026-02-04T08:59:05Z,Merge pull request #214 from aiverify-foundation/dev_main
+ab2d5a3b4482b0eff3ff5c8dcd4934ad0f6677b4,aivf-kaydenyip,Kayden Yip,kayden@aiverify.sg,2026-02-03T08:22:09Z,Merge pull request #213 from aiverify-foundation/release/0.7.5
+ef37d26c3c3f0f6862f148af1037bd92979903ee,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2026-02-03T08:17:08Z,[WS-303] Upgrade product version from 0.7.4 to 0.7.5
+2527d3d8c890d56e586a7334170d024f96ce3322,aivf-kaydenyip,Kayden Yip,kayden@aiverify.sg,2026-01-07T05:40:58Z,Merge pull request #210 from aiverify-foundation/security-duck
+1fd536b88bec4b1a01f87066273ef166f3c074cc,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2026-01-07T03:34:11Z,[WS-297] Upgrade pytorch & aiohttp to resolve CVE-2025-55552 & CVE-2025-69223
+e6e4c81673da2959c728a37da7bb9add1534f11f,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2026-01-02T08:26:03Z,[WS-297] Poetry update to update dependencies to latest version in poetry.lock and requirements.txt
+97da4b575894352b9fc9eea774fb50ab6ac6df23,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2026-01-02T07:25:55Z,[WS-297] Specify tensorflow as TextAttack's sub-dependencies
+e49e9e6aa87439eeb829585d68548331751851a2,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-12-31T04:45:46Z,[WS-297] Upgrade transformers to lastest version to resolve vulnerabilities
+7966dab774c775c0e6c0b6bb1fdee64a7133e973,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-12-31T04:39:29Z,[WS-297] Upgrade transformers to lastest version to resolve vulnerabilities
+3e8b4f25521162406bfab3d848239614ca6084f6,aivf-kaydenyip,Kayden Yip,kayden@aiverify.sg,2025-12-22T04:03:40Z,Merge pull request #212 from aiverify-foundation/pipeline/smoke-test
+ffc1c3fb85dacc40ef968de68d74d2cc979c8464,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-12-22T03:16:56Z,[WS-299] Remove debugging steps
+74bf2251e7d29763e3400c9c01719d7f1c509715,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-12-19T08:36:35Z,[WS-299] Resolve out of storage by cleanup unuse tools and add debug logs
+524995082dd145707b53b641657c362c83ec8f02,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-12-19T08:35:37Z,[WS-299] Increase timeout for smoke-test-cli to same as smoke-test
+3abc4e9d6d18bc1716138d1479e0b3f8b5896f31,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-12-19T07:48:57Z,[WS-299] Add step to cleanup tools to save storage
+5bbaa5fe9f8b3493f587ed7348c16997a7e19177,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-12-19T07:45:19Z,[WS-299] Add step to cleanup tools to save storage
+63ebbdcb7026551cfb115f953e776c56a862671f,aivf-kaydenyip,aivf-kaydenyip,kayden_yip@imda.gov.sg,2025-12-19T07:11:17Z,[WS-299] debug smoke test job out of storage
+f0df6e39ed3f7d87665ac9826fbadb01327ab020,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-12-19T06:49:15Z,Merge pull request #211 from aiverify-foundation/ws-294
+bf59c5479e716f44a6bf3cf174c8f2f65f135e35,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-12-16T05:31:36Z,ws-294 updated the configuration by saving from editing the endpoint in the app
+87a0a92ab0bc40f8d5c5b4c0e4345077c449210b,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-12-16T04:40:32Z,ws-294 change temperature of connectors used in imda starterkit
+5c49537864035ec2163b768cfcebca9ccde2a67d,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-12-10T07:58:58Z,update urllib and werkzeug version requirements
+a2bdd8d27ab6c05c09418b9ae6a4868307244fea,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-12-10T06:44:56Z,Tensorflow and  fonttools update
+cb906ffb34db6952357222db0f991be6fc13adad,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-12-10T05:54:10Z,update langchain-community
+06ae80c68425147be756686f311b1c415a65d253,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-12-10T03:29:33Z,ws-297 update packages with known vulnerabilities
+ae42ac2a4a46fcbb96ad12b7ddd68ee11ca84869,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-12-02T08:55:28Z,Merge pull request #209 from aiverify-foundation/ws-296
+c15d6fd96342bd909cdcf2e6cc8805b8fa6ac154,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-12-02T07:27:27Z,ws-296 added additional comments on the seperators
+f28777743fb6ea3f5553a00b521ed01dc2573b31,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-12-02T07:04:18Z,ws-296 max tokens handling updated
+3b7f33a7d30b2c8400815571c704d005831d277b,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-12-02T06:47:49Z,ws-296 remove arbitrary max_tokens
+3ba7b18ecff15704e5c844180e224e8e4791ba73,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-12-02T06:21:47Z,fix formatting
+e9c8e5fd3ddaf26645e6129e7b3047fb091f6225,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-12-02T06:19:28Z,"ws-296 update the anthropic-connector, update the endpoint and removing unnecessary one"
+efd7140320f6a48cb316b6477aff2a758cd22de4,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-09-04T08:36:36Z,Merge pull request #206 from aiverify-foundation/dev_main
+29aae0a6694fec60d9a0f5b8c75228e6797db61f,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-09-04T06:01:18Z,Merge pull request #205 from aiverify-foundation/release/0.7.4
+515315b1b098164d3e0fd897a607dcf9742f157c,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-09-04T06:00:52Z,Merge branch 'dev_main' into release/0.7.4
+777bf077da4e69dcef8cf73457b0746f04cf3384,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-09-04T02:45:02Z,update versioning to 0.7.4
+6e3b24f5582a476bbbf5bbc7d9f0428d3c2923e4,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-09-03T10:22:33Z,Merge pull request #204 from aiverify-foundation/ws-182
+81e483d3a3018af6ae112d7205d02d504f49b016,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-08-14T09:05:21Z,token removal
+4bb36f193b93897e129f54bb6dc50ee598a6c82a,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-08-13T04:46:08Z,ws-182 Added comments to reference the mlcommons implementation
+b622c6df8025717aa5423bb46aeaa91afdbeb5a5,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-08-13T04:24:04Z,ws-182 change llamaguardannotator to more accurately mimic current mlccommons implementation
+3f9d0ec598561b3357b08987c41bb7dd2333a04f,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-08-05T06:31:18Z,Merge pull request #203 from aiverify-foundation/ws-182
+2fb567e175896421953b4a9574e132f2044af568,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-08-05T05:40:17Z,Merge branch 'dev_main' into ws-182
+5f171d4d29674c7beabc32d6e08dd06180f2db2c,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-08-05T05:38:31Z,"WS-182 normalized metrics, grading_scale and updated description for specialised advice"
+988eb5b91cbc2c525580347e90f0abd3582adc2f,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-08-05T01:13:51Z,Merge pull request #202 from aiverify-foundation/ws-182
+d8dc3c56253992980d3a1f2a0905d2af5b85def9,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-08-04T09:02:55Z,ws-182 Updated Recipe Names
+215e83bc0caa89a73eca002ac330a3d16f69a60c,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-08-01T06:18:26Z,Update cookbook and recipes as per ticket
+be48234452f87370e03e5e66928f7fa19f099587,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-31T09:20:12Z,Merge pull request #201 from aiverify-foundation/dev_main
+453a919f49c9055de293008bf7c6cc5378dd7a0e,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-31T05:27:43Z,Merge pull request #200 from aiverify-foundation/release/0.7.3
+599adca0dc1c39056b8fc015b8671874a223d47f,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-07-31T05:05:12Z,update versioning to 0.7.3
+05f2718a2518373a667935860634f3c59aebd61d,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-24T09:51:42Z,Merge pull request #198 from aiverify-foundation/bs/securitypackageupdate2107
+57b1415b6ec76df0456411663f6f4481cba18cef,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-07-24T01:48:54Z,ws-168 missed torch version
+9d5aab557c72ff0685c1f0adfee030500c967c58,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-07-24T01:46:44Z,ws-168 updated package to update the versioning of the packages requests and transformers
+c51be7b3f61ea077ab4701b7fae9663be52bd171,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-07-22T10:22:32Z,ws-168 updated packages to synchronize moonshot and moonshot-data
+6ed7ea3befded64e03a9b56f9fdd8b9cd9f16144,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-07-22T08:34:11Z,ws-168 updated lock to be inline with moonshot
+0ee59cd42382635990168502221ec96fcbc61bb4,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-07-22T05:47:01Z,ws-168 update flair to remove another security aler
+ec92f9ef9411a761897bd64300fe86ee87622a66,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-07-22T03:24:40Z,Merge branch 'dev_main' into bs/securitypackageupdate2107
+4a07137cb86e9330757125d22ebc693c11993735,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-07-22T03:22:10Z,ws-168 updated poetry and used poetry to generate requirements.txt
+2d3b4403c5bd53066235599813cb69b56d6f04ba,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-07-21T12:07:33Z,update packages to handle security update
+4476451d9ae4fbcd750fe1d10aecaab0138f80a6,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-03T05:28:00Z,Merge pull request #197 from aiverify-foundation/dev_main
+c48dfa0acd6aac8228a9b957f58887c98a398fae,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-03T04:53:50Z,Merge pull request #196 from aiverify-foundation/release/0.7.2
+18f1965ff05a2c53985e4343ea5234a1d728faa6,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-07-03T04:44:17Z,Update versioning to 0.7.2
+ae5bbfd109c21645cb02d7b71b703f8dc7d57598,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-07-02T07:06:11Z,Merge pull request #195 from aiverify-foundation/0.6.x_DatasetChanges
+6b46e32f8dcad5fcfa6eb207495314da2b72e5a5,imda-kelvinkok,kelvin,kelvin_kok@imda.gov.sg,2025-06-06T10:24:16Z,updated cache and dataset
+546cb8de8d6836b8edb4c015b36392a8a8975e08,imda-kelvinkok,kelvin,kelvin_kok@imda.gov.sg,2025-06-03T09:52:17Z,updated datasets json
+f061bfa673442433e80e9a5fb8eed9eba37c6c3a,imda-kelvinkok,kelvin,kelvin_kok@imda.gov.sg,2025-06-03T08:21:44Z,updated mlc v0.5 dataset references
+d551bcf2fa2095ce4ff83d829867d6105c57c8f1,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-07-01T09:34:57Z,Merge pull request #194 from aiverify-foundation/ws-118
+c13b93732f28018549bc6628eb3d125cdf69fee0,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-07-01T09:26:25Z,additional description changes to prompt templates
+ea42ad5ef6e184ef72e0de9273f0592f8ffebab6,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-07-01T09:19:56Z,update description and cookbook for singapore context recipes and existing cookbook
+b949065451c700da629559293742fb8685e95620,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-07-01T08:09:39Z,Merge pull request #193 from aiverify-foundation/ws-118
+8b8b73af575f0627a227ec8786cdf7cdf74298e0,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-07-01T06:00:09Z,moved from prefix to suffix
+430fc94d1bd2dfddf7e16c393e01e1717a2d2fcf,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-06-30T10:04:07Z,"Updated descriptions based on ticket, updated name to be better descriptive"
+5854acd4787595eb833cb199caaa8a2b86dad5c4,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-06-26T01:29:13Z,ws-118 create first version of the prompt template change
+0b9fb0699d2d11661fed0aec09c40e7cf2402e95,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-06-25T03:10:25Z,Merge pull request #192 from aiverify-foundation/ws-139
+93b2e74e9cf9168aca235ce4ca84e4fe81f11e39,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-06-20T10:47:49Z,Merge branch 'dev_main' into ws-139
+7be3f9c496f3b160edc49ebc345fbe6a22dd6893,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-06-20T10:45:44Z,removed AISI Cookbooks as requested in the ticket
+c8f6db1eada55c7732726f0f07029e6abdb1c816,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-05-26T09:16:48Z,Merge pull request #185 from aiverify-foundation/dev_main
+16899defe3c74ee171e642088ec3f561796a1283,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-05-26T08:13:32Z,Merge pull request #184 from aiverify-foundation/update071
+f2c7b89d9771bb49e82ed64d9e4c5b84ca629c9c,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-05-26T07:02:16Z,update 0.7.1 requirements
+d35fe1c65f81df1c5fef3a559cdbaaeba0572ae5,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-23T09:30:55Z,Merge pull request #183 from aiverify-foundation/dev_main
+3d7d6510b5f08d47f10c221a6252d63c3878fca1,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-23T09:25:50Z,Merge branch 'main' into dev_main
+5e8d26d813b5b25ad0d73f484e6c51fbb19fd57a,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-23T09:06:10Z,Merge pull request #182 from aiverify-foundation/update_config
+38725ca0016d5a30216954a099c81e913621be45,imda-kelvinkok,Kelvin,kelvin_kok@imda.gov.sg,2025-05-23T08:14:17Z,Merge branch 'dev_main' into update_config
+b0e1a446020b9370798f0988bebdfe160bb05203,imda-kelvinkok,Kelvin,kelvin_kok@imda.gov.sg,2025-05-23T08:10:46Z,updated AM and metrics cache files
+b3cc84d8b11ea338d84f6aab227927e0ff6a63db,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-05-23T08:09:42Z,Merge pull request #181 from aiverify-foundation/dev_main
+83622f5fc1499b6e89231211ccc7a09eb4c98645,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-23T04:49:17Z,Update pyproject.toml
+9ba0cc70bfbacb46dab6e10e16fc783def71f3f1,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-23T04:45:45Z,Merge branch 'main' into dev_main
+620126d49739af02e66915e7a1b8e320be557a0c,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-23T03:30:36Z,Merge pull request #180 from aiverify-foundation/WS-78_Release_0.7.0
+ff06994145a2826ad07cd632734258511b222d1c,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-05-23T03:22:11Z,[WS-78][Release] Upgrade version from 0.6.4 to 0.7.0
+457ba7c78c1f32d3dd3fce67bcdcaf180c3bb206,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-05-22T08:03:23Z,Merge pull request #177 from aiverify-foundation/ws-62
+ffb22f1130d44f287d64b2ea9a93b933fee30d4b,aivf-kaydenyip,Kayden Yip,kayden_yip@imda.gov.sg,2025-05-22T07:41:44Z,Merge branch 'dev_main' into ws-62
+ba66ff7c9cf3efecdd6ffd9c8229373b52032294,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-05-22T05:09:15Z,"ws-79 changed adversarial attacks to adversarial prompts, changed cybersecurity recipe name removed intellectual property from recipe and name"
+a03c721327abfa69e802565d816d8ea3664ae825,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-22T02:50:24Z,Update run-flake8.sh
+e2cf4611c4dd478a81e10e9134ba93fbc9ed8218,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-22T02:44:58Z,Update run-flake8.sh
+6cb514cac2b1993ed24bcaaf3107eb28a00e5089,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-22T02:37:31Z,Update run-flake8.sh
+b53d5a82f27cec443f15a0e726cb96e841d1370d,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-05-22T02:19:11Z,ws-83 updated recipes / ws-67 undesirable content cookbook handle duplicate recipe
+b437f8c2511d39a56dde3ce1b579e44e991ff757,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-05-21T09:14:23Z,ws-67 removal of truthfulqa
+a29a74af94be08857c291fc726d0a3d0bc14fcee,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-05-21T07:26:52Z,updated grading
+b254ed4c72a70250ba96e4d801f9fdca4d25871b,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-21T05:49:06Z,Update pyproject.toml
+1d97e3556df3f67c09b8bff6c8ad7bdf1541cf9a,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-21T05:46:41Z,Merge pull request #179 from aiverify-foundation/dev_main
+1b14984b5f38eb2fdbabaaad7f9b1c4cf83938d0,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-21T05:29:22Z,Merge pull request #178 from aiverify-foundation/imda-tzx-patch-3
+87d956e4fef6c4a0a27fbf8e53f0eb544faddc74,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-21T05:28:56Z,Merge branch 'dev_main' into imda-tzx-patch-3
+88a771b80ffb6aaca4db6e3b4a52d79700382a4b,imda-tzx,imda-tzx,tay_zhi_xiang@imda.gov.sg,2025-05-21T03:55:07Z,Update README.md
+2c0f4202c606aa456f60bda6912b5ab799c3fff7,imda-tzx,imda-tzx,tay_zhi_xiang@imda.gov.sg,2025-05-21T03:51:35Z,Update README.md
+e4d4d1d4b003fb2085e0d577834f738e911b2d13,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-05-21T02:48:45Z,ws-67 Create cookbooks for imda starter kit for now
+05da877e0a84e33b46131b035501dfea9dab2d1d,aivf-baisheng,aivf_baisheng,kok_bai_sheng@imda.gov.sg,2025-05-21T02:47:23Z,ws-82 Remove ragas due to not working with reports properly right now
+f0c73655ccdc1d0d4f06c45424167de086afd3b9,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-20T13:51:22Z,Merge pull request #176 from aiverify-foundation/update_dataset_cache
+9894f718b3612910b2eefb1565f597d731d74a5b,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2025-05-20T09:47:06Z,updated dataset cache
+7271a194eabc06ea819d96c5dedbdc015a870086,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-20T04:56:27Z,Update pyproject.toml
+c4357cdfa10abd01dc1cc4244f09a4274af75b94,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-20T04:54:08Z,Merge pull request #175 from aiverify-foundation/dev_main
+96d6e126a346af74947def48a8a530fce020d5ae,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-20T04:40:48Z,Merge pull request #174 from aiverify-foundation/MOON-492
+04835c2ea80790459cf5f9025ab14bf1ecff784a,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-20T03:12:45Z,Merge branch 'dev_main' into MOON-492
+d657e060cd397be01b4041c47c8f514a00888d1b,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-19T15:14:14Z,Merge pull request #167 from aiverify-foundation/description_update
+bb2ea5aad1ed8726d70addce8173d02b544a840e,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2025-05-19T14:31:01Z,Merge branch 'dev_main' into description_update
+3fbe32aae60cfd80570ae30a35f5b57a42855287,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2025-05-19T10:47:42Z,updated datasets
+83b4f3a1f77839331441006c69db986f95f9b829,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2025-05-16T08:03:58Z,updated license of some datasets
+6237b710d09e546b2520c420fd20c24fa2015fc5,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2025-05-15T10:41:51Z,added and tested starter kit datasets
+2bcbdce118738a98d0451cd618a7349bf2eabf39,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-07T10:37:19Z,Merge pull request #173 from aiverify-foundation/MOON-472
+edf44b3d9f0b16f39b4aef748848086360ffe0c8,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2025-05-07T07:38:35Z,updated huggingface connector and endpoint example for bug fix
+8d20b52b01eb0ff91e87cded01617417936d06c5,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-07T05:44:32Z,Merge pull request #172 from aiverify-foundation/MOON-473
+24ac75dbaaedc908b1d151b2c5076457388b2166,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2025-05-06T10:48:36Z,updated anthropic version to fix bug
+8cc3255fc65224f28bb2f94d96e81f7bdb6fb18e,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-05T06:43:12Z,Merge pull request #171 from aiverify-foundation/main
+4ef424b71c151f92991bbefb10abe338f827e6ce,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-05T06:37:37Z,Merge branch 'dev_main' into main
+b85eca9fb08dcab65a5d750eedef931b09963eb4,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-05T04:03:51Z,Merge pull request #157 from Genue-AI/pofma
+e0dee4984e150821357cff382c9a77229ae9a471,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-05T01:14:38Z,Merge pull request #169 from aiverify-foundation/MOON-469
+7e5136a05af8c7542840d9154c618016d944b76f,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2025-05-02T03:50:10Z,Merge branch 'dev_main' into MOON-469
+a0df858d8d31784e86ff8d65237398ede05a401e,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-05-02T02:55:24Z,Merge pull request #170 from aiverify-foundation/MOON-470
+633e2f31310ec0742c24b3197b388f3892e5b130,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2025-04-29T16:14:36Z,added h2ogpte into poetry and updated lock file
+70c9a0167e769b49882a32032602a2c72c3a70a5,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2025-04-29T02:16:12Z,Merge branch 'dev_main' into MOON-470
+5484a8ea81f15bc2b56869ba5d805d1abd42c8c0,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2025-04-29T02:02:51Z,Merge branch 'dev_main' into MOON-469
+9583fd726a834218a4adab14a801a5091f6d732e,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2025-04-28T03:32:41Z,updated requirements.txt with latest h2 lib
+96f27c4afc650049cf88cdb7d2c8fc81e7ff19a8,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2025-04-28T02:43:51Z,updated for multiple threads to use same sql connection
+ab3dcb0813273ae9cbc397f0fb83639dc2dabd74,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2025-04-25T10:02:19Z,updated lib versions
+32fcfdbaff3520a89844a2c1d6e30313045e77da,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-04-21T05:35:42Z,Merge branch 'dev_main' into description_update
+6df6eed8430a8d4963122de604bd31946523a524,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-04-21T05:35:24Z,Merge pull request #166 from aiverify-foundation/moon-455
+e6c513082b0d82fc4b7b5bff6de9eb86c6010919,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2025-04-17T08:36:52Z,updated aisi cookbook desc
+959258d4a460d2a284fab6b01311e14fdce37e55,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-04-17T07:34:06Z,Merge branch 'dev_main' into moon-455
+bb7eddfc5bcc66dbc60debd5c57f566d98144c92,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2025-04-17T06:28:29Z,Merge branch 'dev_main' into description_update
+88f574b67afcc1faa6c72eea689155eecd6ed73c,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2025-04-17T06:18:57Z,Merge pull request #168 from aiverify-foundation/main
+9d40ad5837c418451d6de540993a90627977466e,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2025-04-16T06:41:25Z,updated together llama 7b -> together llama 8b
+266b45b328cab2beb1303220f3f87491c39c7ac9,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2025-04-16T05:58:57Z,updated desc
+bf73ef067afa8600e3a54cf3217016556b69718d,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-02-27T01:54:28Z,Merge pull request #161 from gnishaanthini/connector/h2ogpte-connector
+b93a14eda56600501605f57e9e021cc6f7ce7f29,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-02-04T05:22:04Z,Merge pull request #163 from aiverify-foundation/ms-860
+ee28a0345c4ec219bc00ab54849a63162b0963ed,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-02-04T02:13:38Z,Merge pull request #159 from aiverify-foundation/notices
+96209d40a0077f59b505cc0ad69ebe9bc6414d7b,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2025-02-03T10:01:58Z,update requirements
+fac8e24c09998bd4e561ff039c131d4f722b9d10,gnishaanthini,gnishaanthini,nishaanthini.19@cse.mrt.ac.lk,2025-01-30T10:03:22Z,Updated README
+8f6c239d9b74258eb574459dc71c8be2076f23ee,gnishaanthini,gnishaanthini,nishaanthini.19@cse.mrt.ac.lk,2025-01-30T10:00:25Z,Added h2ogpte connector to README
+39fd0a8ce9b454ce0650d572230c7537ae5c27e4,gnishaanthini,gnishaanthini,nishaanthini.19@cse.mrt.ac.lk,2025-01-30T09:54:02Z,Name changes to h2ogpte endpoint
+e86e344fe5c8f29de92838db873481b415aaa641,gnishaanthini,gnishaanthini,nishaanthini.19@cse.mrt.ac.lk,2025-01-30T09:05:41Z,Adding a new connector - h2ogpte connector
+dd75808630342622be7a11ab6274295a7796551a,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-24T06:10:40Z,Merge pull request #160 from aiverify-foundation/dev_main
+e77b9da6b7cc0914f7bf64bcc6d15ebe9bc947e5,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-24T05:02:06Z,Merge branch 'main' into dev_main
+375bd1a0696533a851fbc8c3e221d53401ec6d96,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-24T04:58:42Z,Update pyproject.toml
+9482dbe20204d43231661230374aad71dcc9a766,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-24T04:50:47Z,Merge branch 'main' into dev_main
+09f947594b3b0afce571703bde8649e0194ae0d9,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-24T01:11:12Z,Merge pull request #155 from aiverify-foundation/feature/rag-cookbook
+17954542003905cd69aff75ca9f9076dadb9fca1,rwchan13,Raymond Chan,raymond.chan.wai.mun@gmail.com,2025-01-23T13:20:09Z,Merge branch 'aiverify-foundation:main' into pofma
+c8bb5bb0d185ea489d8ffbd3a0dbc285120d28e6,,176891791+imda-jacksonboey@users.noreply.github.com,imda-jacksonboey,2025-01-23T01:21:06Z,Update NOTICES.md
+7d9004f042c0cf4ec0701867da95c954e18f579a,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-23T01:09:46Z,Update sca-scan.yaml
+804204a249b4289adeb3252ad8033796c8431385,rwchan13,Raymond Chan,raymond.chan.wai.mun@gmail.com,2025-01-22T05:52:31Z,Seperated statements into 2024 and 2023. Add all statements for 2023.
+484320b4feec625a75738eab53fd67c167ed950d,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-22T05:28:39Z,Update sca-scan.yaml
+01a591e0536a85d621ec0d8fe397396529afd98a,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-22T01:09:29Z,Merge branch 'dev_main' into feature/rag-cookbook
+64dd665795ee6c80b53ef5675edb365b4c432b8d,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-22T01:03:05Z,Merge pull request #154 from aiverify-foundation/ms-621
+118d2e983286118b40325e241267b2621dbe79ea,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2025-01-21T15:44:00Z,push metrics cache
+1c5efb2a42de3c6dcc3cebd0085720d19f630049,rwchan13,Raymond Chan,raymond.chan.wai.mun@gmail.com,2025-01-17T09:44:49Z,Initial dataset used during my IMDA's Technical Sharing Sessions Talk 015/01/2025.
+57151f7f1871d7d4fa42c9b97b89fd25c496ff7b,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2025-01-16T09:49:55Z,Merge branch 'dev_main' into ms-621
+97e3acbed4bcd45f75b677a1f07de77d77542cea,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-16T08:24:24Z,Merge branch 'dev_main' into feature/rag-cookbook
+9a23bda7d4fd444c99ea8bae09342c158bf133e3,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-16T07:33:49Z,Merge pull request #156 from aiverify-foundation/dev_main
+f54ab25e74a5eddda18e90bec84fd448055c38d9,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-16T07:19:44Z,Merge branch 'main' into dev_main
+6ba9d8fe4b5b6d4680ede6502aec9858343b0ea5,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-16T07:14:48Z,Update pyproject.toml
+9bd2b27c4d3a3421e4e0a10dc4679b4ace94988b,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-16T07:09:48Z,Merge pull request #143 from aiverify-foundation/ms-510
+6c30fc7003724cfa7e157b882203a18186ba392f,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-16T06:37:36Z,Merge branch 'dev_main' into feature/rag-cookbook
+55fc747e493c010f7924517589d0725c0fba516f,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2025-01-15T16:21:24Z,update dtc changes for individual metrics and minor errors in datasets
+f38109ae693dda64ae75e73948b186cc7f80923b,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2025-01-15T16:16:25Z,"Revert ""Merge remote-tracking branch 'origin/ms-621' into ms-510"""
+c606de4a6668a386dce1133448d4d982b53bd4e1,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2025-01-15T08:59:21Z,added target into results
+4e5d32dc15bac04057b74121aa5720048d6189fe,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2025-01-15T08:22:00Z,updated entity processor output
+bbf4f53c2d3386aab5d840de88ff3367fe767ac4,imda-amdlahir,imda-amdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2025-01-15T05:23:13Z,rag cookbook and default sample dataset
+9704e99dd646d96b800a57d0808f345b70d59176,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2025-01-14T15:23:43Z,Merge remote-tracking branch 'origin/ms-621' into ms-510
+53eb0add683dbb3f2dfd2589c8d6034dd154f482,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2025-01-14T13:32:29Z,Merge branch 'dev_main' into ms-510
+ef74c0b173dffa31f6b9c53cfefdc2a022861283,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2025-01-13T03:18:58Z,added individual results for entity processor
+656a75571a3f4c5ff5f69a93814beddcc08f8a7c,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2025-01-10T03:03:12Z,Merge branch 'dev_main' into ms-621
+2fad11fe8e17339c28338eb6b7bfca38f1b324d0,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-08T11:32:39Z,Merge pull request #153 from aiverify-foundation/dev_main
+810d7c6d061b4b3bc67982df01a5ad3cfdd0e0d7,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-08T10:50:00Z,Merge branch 'main' into dev_main
+303bf7fce80691aa1bba6346dafa66e1e5e71716,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-08T10:46:31Z,Merge pull request #152 from naganikshith04/pr-150
+6fe4f5e049c41136aebb398ec90373278a763df1,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2025-01-08T10:31:54Z,push cache
+24073a6dd4b63fa559d1be24a73a3ac787620b27,naganikshith04,naganikshith04,naganikshith02@gmail.com,2025-01-08T10:11:44Z,updated
+3be6908944f7d1207c17da4666bb311a85cc6570,naganikshith04,naganikshith04,naganikshith02@gmail.com,2025-01-08T10:09:09Z,mlc-recipe changes
+1cba57b957823fe326715f85086dee912ad41935,naganikshith99,naganikshith99,naganikshith99@gmail.com,2025-01-08T09:10:28Z,updated.
+3cab565495f37620c3c254d96c513bfa7267ac29,naganikshith99,naganikshith99,naganikshith99@gmail.com,2025-01-08T09:08:06Z,updated.
+aa80d6cc9ad597e35330021fdeccdf5d57a614f1,naganikshith99,naganikshith99,naganikshith99@gmail.com,2025-01-08T09:00:59Z,cache file
+9471275f6fef8f11f2c9bacb24cdd9f33226eb34,naganikshith99,naganikshith99,naganikshith99@gmail.com,2025-01-08T08:52:49Z,added cookbooks and cyberseceval datasets
+7153b3a573d4d181621da00004af425b057b8528,imda-amdlahir,imda-amdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2025-01-08T05:21:41Z,fix categories in rag cookbook
+6a72c3c5ea72b1b646f4e003c5f00b8f76190e51,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-08T05:20:46Z,Update pyproject.toml
+83944d1e11e4d6b46fd428b160f5b0365e4f2302,imda-amdlahir,imda-amdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2025-01-08T05:19:53Z,Merge branch 'dev_main' into feature/rag-cookbook
+34160e2df0c9beaf95aacdb2fe91c9732eb8ea35,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-08T05:04:03Z,Merge pull request #151 from aiverify-foundation/dev_main
+123e7f0f7648332888c74943a0f85881e9d20f75,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-08T03:56:19Z,Merge pull request #149 from naganikshith04/pr-149
+ef6545ac4e2d82d53251c9e38ec0a9b22c6bb0fa,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2025-01-08T03:40:50Z,update
+17234f0dfcf99543c36bb3958f8683d056d80f94,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-07T14:59:20Z,Merge pull request #150 from aiverify-foundation/ms-659-owasp-jailbreak
+78466a2a21d6365a852a9c18184288c74183abea,naganikshith04,naganikshith04,naganikshith02@gmail.com,2025-01-07T13:10:34Z,Merge branch 'pr-149' of https://github.com/naganikshith04/moonshot-data into pr-149
+e7013226a0bf34ab7b81c7a499606216ccab8e2d,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-08T03:22:23Z,Merge branch 'dev_main' into pr-149
+79c3c1d1bec4e7c5185a8450773607f2dc428126,naganikshith99,naganikshith99,naganikshith99@gmail.com,2025-01-08T03:04:37Z,updated.
+c25d1f4d474c0c1c990a3b4a802ff702ebf518f5,naganikshith99,naganikshith99,naganikshith99@gmail.com,2025-01-08T03:03:10Z,updates.
+77622fdbe51f163bacee3dac63f69f86f0994e6f,naganikshith04,naganikshith04,naganikshith02@gmail.com,2025-01-08T00:51:57Z,Updated.
+6141f7e9e5c0e1960f95366a03edaba788a77044,naganikshith04,naganikshith04,naganikshith02@gmail.com,2025-01-07T13:09:15Z,updated
+b0cc270b0e3a733aa5d8f237a5bfbb9830a0996d,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-07T11:49:24Z,Merge branch 'dev_main' into ms-659-owasp-jailbreak
+0f489534c811838b57e370c98abf8f3aa9d8886c,naganikshith04,naganikshith04,naganikshith02@gmail.com,2025-01-07T10:49:01Z,updated
+c97d9f39e05bfdf48391a499b351284f74e467ef,naganikshith04,naganikshith04,naganikshith02@gmail.com,2025-01-07T10:39:38Z,updated
+66c9e1ada32424c521e4fc1fcadeeaab1a9752c8,imda-amdlahir,imda-amdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2025-01-07T09:36:35Z,default rag cookbook
+97cce273800f769e72cc86dd78bc5176f5cec432,naganikshith04,naganikshith04,naganikshith02@gmail.com,2025-01-07T09:23:45Z,cache datasets
+31d3a37dd3fb96cf3007c274312f2060937ed1ca,naganikshith04,naganikshith04,naganikshith02@gmail.com,2025-01-07T09:19:51Z,fixed the error- reverted back to the exisiting files.
+0ff03cd5c1f1ec004c67193aab0e59dec423b289,naganikshith04,naganikshith04,naganikshith02@gmail.com,2025-01-07T09:05:53Z,Updates.
+65743ebe839c13355b44742849508481439c1026,naganikshith04,naganikshith04,naganikshith02@gmail.com,2025-01-07T08:53:28Z,category updated.
+6c66e9264f08eaf1ebbccda6cbf91450684f64eb,naganikshith04,naganikshith04,naganikshith02@gmail.com,2025-01-07T08:50:31Z,updated.
+8002c13e66fa9d2141669fcb96fbf573d1f48227,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2025-01-07T08:48:31Z,tested and added seok min's jailbreak prompts files
+2dc21af3f146ff8c542bf0fc8a478a4001460da3,naganikshith04,naganikshith04,naganikshith02@gmail.com,2025-01-07T08:14:58Z,cookbooks updated
+02041cd3b30cabce09a627d511bd958e9334dba7,naganikshith04,naganikshith04,naganikshith02@gmail.com,2025-01-07T07:58:57Z,Merge branch 'pr-149' of https://github.com/naganikshith04/moonshot-data into pr-149
+aa3fb83443067d5d78de6aab13ce074740dd5020,naganikshith04,naganikshith04,naganikshith02@gmail.com,2025-01-07T07:58:25Z,changes updated
+57f8462d811a1b8f30225c02b7a2b06a37ec7701,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-07T07:52:50Z,Merge branch 'dev_main' into pr-149
+63dca02ed5f194b8f83a61c907dd22fef46ed13c,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-07T07:51:50Z,Merge pull request #146 from naganikshith04/pr-143
+f1cc0a81457f8cb5b08cf3fbead6705b7b4b459a,naganikshith04,naganikshith04,naganikshith02@gmail.com,2025-01-07T07:06:13Z,cookbook and recipes adjusted according to the datasets.
+e3c9002a3d601762f1ea3d03d6940164d98baa43,naganikshith04,naganikshith04,naganikshith02@gmail.com,2025-01-07T06:58:53Z,class name changed
+0e89dbcad19fe6b3ab59f06971913b73c60d19e8,naganikshith04,naganikshith04,naganikshith02@gmail.com,2025-01-07T06:16:11Z,"Added datasets and metrics for MLC, Answercarefully and Cybersec eval"
+0b42f0b89668012ba8139c7483d9081a04251dec,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2025-01-07T05:26:43Z,delete
+8bf6dc25596f52713d6916a8d5194b58d609aa6e,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2025-01-07T05:16:38Z,update
+571e1de7b910fe21b1c66cf4e32a157f22ca369d,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2025-01-07T05:14:04Z,delete
+97b5ecb5e1beeaa0cd89266ff0154fc6a5c3c75d,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2025-01-07T04:59:21Z,update
+388f6b034796bddd6c7fbd6907bc432c3c6d9d0d,naganikshith04,naganikshith04,naganikshith02@gmail.com,2025-01-07T04:33:31Z,class name changed
+f7a41152b246eddd77db6a7e837196216d7b60fa,naganikshith04,naganikshith04,naganikshith02@gmail.com,2025-01-07T04:25:18Z,"mlc recieps, metrics"
+380c45e9f80e31643222a0284f52620a03f1a8c7,naganikshith04,naganikshith04,naganikshith02@gmail.com,2025-01-07T04:08:27Z,cyberseceval
+3d846996f234de65b2767af91f1552f06c0ee214,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2025-01-07T03:35:55Z,update
+7626d543c95982bca76550309c30adaa7de5b5da,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2025-01-07T02:07:16Z,Merge branch 'dev_main' into pr-143
+13fa22537ffc44bff57600dc747fdca30c6cd336,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-06T09:38:51Z,Merge pull request #147 from aiverify-foundation/ms-739-fix-vd-bug
+a53a16d27c4607366c1720749da06bb5e178664f,naganikshith04,naganikshith04,naganikshith02@gmail.com,2025-01-06T09:09:49Z,added .gitignore file.
+6a0bb3a1ea22b634a0d7fe2012b0095021620c8a,naganikshith04,naganikshith04,naganikshith02@gmail.com,2025-01-06T08:44:29Z,Names in recipes are changed.
+ca05f3d4f99f905dd2ea7299fba770e9ec918491,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-06T06:21:30Z,Merge branch 'dev_main' into ms-739-fix-vd-bug
+a29e9bde22a6bad29846100abd29997084e9e94c,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-06T06:15:06Z,Merge pull request #140 from ccchobits/dev_main
+61651f9909c211161cbd85c2bcd1919a0ecd9ce6,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-06T03:35:43Z,Merge branch 'dev_main' into ms-739-fix-vd-bug
+693b74dfc0e7f5bce030e87baea2e34ffe4fd587,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2025-01-05T17:24:23Z,Merge remote-tracking branch 'upstream/dev_main' into dev_main
+afcdbe7f593a3a3b88f1edd750e093c1973a7320,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2025-01-05T17:20:41Z,update
+3df5f2eca4de9a9406881d077ad4259120f10375,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2025-01-05T17:14:02Z,push fixes
+631fa7ef1ec7118f6144c67494c722c0e1291176,naganikshith04,naganikshith04,naganikshith02@gmail.com,2025-01-04T13:40:32Z,Minor changes in recipes(descriptions added) and connectors_endpoints.
+ab7f546d99cb983b4e01ab2c6043ad88653f392e,ccchobits,Chen's Desktop,ccchobitsandvieta@gmail.com,2025-01-04T11:43:50Z,update the names and add docstrings
+0e0f04c68725c39bc6207309891a47e304ca7c8b,naganikshith04,naganikshith04,naganikshith02@gmail.com,2025-01-03T09:48:00Z,"Added description and licenses, standaridized naming conventions across 3 datasets acccording to the languages for datasets, recipes."
+153730db1fbef7bbd1be6ddb6b3887b6aeed9ef8,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-03T08:31:48Z,Merge pull request #145 from aiverify-foundation/ms-620
+f99faa5bdd6a1b241a2817eb035df11ef993c4cc,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-03T06:44:08Z,Merge pull request #110 from aiverify-foundation/ms-543
+66a49b72d6a85b82bed10bf3d2e820eed8240260,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2025-01-03T04:41:43Z,fixed pydantic bug for violent durian
+79533b0a4f09acfdf6177dfa5fc5f3d3e62459fb,ccchobits,Chen's Desktop,ccchobitsandvieta@gmail.com,2025-01-02T14:23:42Z,Merge branch 'dev_main' of github.com:ccchobits/moonshot-data into dev_main
+21d6e2edc9ffa75726610a0226cd0613e1a589ea,ccchobits,Chen's Desktop,ccchobitsandvieta@gmail.com,2025-01-02T14:23:10Z,update the names and add docstrings
+10ff21eb23fde05485f145f57938a520247aec8a,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2025-01-02T02:50:01Z,Merge branch 'dev_main' into ms-510
+ce372ccecf01ed9fce0387fcbd2000632e46afb6,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-31T05:52:58Z,Merge branch 'dev_main' into ms-620
+0b51d3a60247d74d124a2a7cc5b4435fb257f04e,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-31T05:42:50Z,Merge branch 'dev_main' into pr-143
+4237aa1950573dca0420de13022ec0ba963e56b7,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-31T05:38:04Z,Merge branch 'dev_main' into dev_main
+5f3bec43b1afb0b7e68c11024f83f45b4b3cb1f0,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-31T05:29:09Z,Merge pull request #135 from aiverify-foundation/ms-712
+349bd2990198f9348ddc7450a72f4947b66afb39,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-31T03:25:57Z,Merge branch 'dev_main' into ms-712
+66a79edf5b0344ec9aa73274cb89d831d9f1cd35,naganikshith04,naganikshith04,naganikshith02@gmail.com,2024-12-30T12:11:49Z,"Adding testing files for cyberseceval,mlcommons and updated answercarefully"
+9abce341c053383bf64309a40330290fb9f39417,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-12-30T10:00:05Z,push changes to support export env vars for tokens and uris
+aaed0d57b6ed0b43d0def5189c3929f3b541df4f,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-12-28T17:37:57Z,add changes to display individual results
+d7f668224cedb41e92a8c44b4a401485b78ef3f6,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-12-26T09:22:29Z,Merge branch 'dev_main' into ms-621
+78ccaaa5aab9d8c8542ea41aa12720a4d21fe7d5,ccchobits,Chen's Desktop,ccchobitsandvieta@gmail.com,2024-12-24T09:19:50Z,Merge branch 'dev_main' of github.com:ccchobits/moonshot-data into dev_main
+5a1f657cc44bdcd1eb9b71495dc2f6a3541d598a,ccchobits,Chen's Desktop,ccchobitsandvieta@gmail.com,2024-12-24T09:19:39Z,update the names and add docstrings
+766619d312f122bc41d3afbd247b2553397062d4,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-24T02:03:41Z,Merge branch 'dev_main' into dev_main
+19fc79d2f4953840db3468184660c5276e382cb4,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-23T05:12:19Z,Merge pull request #124 from aiverify-foundation/ms-584
+1938d8e0308c32df64463eca64ce2d5b8bfe5410,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-23T01:53:06Z,Merge branch 'dev_main' into ms-584
+d5b3685a16aa65f912f6a1cfd754a04976d9366e,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-20T08:13:57Z,Merge pull request #142 from aiverify-foundation/dev_main
+c93ac22494f31fe2cbc337115bbda96df64e4171,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-20T07:26:31Z,Merge branch 'dev_main' into ms-543
+f22cc73c90a88be8f2e5a3f8a7d31c0985e6a6e1,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-20T02:47:58Z,Merge branch 'main' into dev_main
+b2700020b8401ffddffd32429b5b145fe93c0fae,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-20T02:43:14Z,Merge branch 'dev_main' into dev_main
+9dda4ce601f596ad5c9f79543d130dc5fea56225,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-20T01:49:20Z,Update pyproject.toml
+5602af8418af070e58abac7e858a03a0a53a3309,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-20T01:26:03Z,Merge branch 'dev_main' into ms-543
+e3fad5a988495f8629a662dd785bf65a3a85b061,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-20T01:25:12Z,Merge pull request #133 from aiverify-foundation/ms-665
+51eca38a2deb691a4fa9ac6c88a40aedb290430d,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-12-19T16:41:27Z,Merge branch 'dev_main' into ms-665
+9e175dd1d2f6bc767e9cd8ce7a5c9a69f9528b19,ccchobits,Chen's Desktop,ccchobitsandvieta@gmail.com,2024-12-16T13:13:02Z,fixing bugs
+a491dd05a5ebd1400f515c43a032ab44eac55dad,ccchobits,Chen's Desktop,ccchobitsandvieta@gmail.com,2024-12-16T08:51:54Z,add testing files for gsm8k and squad2.0
+ab374b69f2bb7c2e3c297323c2b88790743bf570,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-12-11T04:28:08Z,updated clcc recipe and cookbook tags and categories
+5120c8d99b45fa8111e09bb54f0e8a1b29e06056,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-10T06:51:41Z,Merge branch 'dev_main' into ms-584
+30e346ae4abc47bb1658fe4f03bc1b3ab69283ec,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-10T06:25:05Z,Merge pull request #132 from aiverify-foundation/ms-703
+495e188a639f2723d06cfb8ebe4c57d36d85bbad,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-10T06:18:15Z,Merge branch 'dev_main' into ms-703
+3607cb8ff6f209bacf94a549556dfa92345a5549,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-10T06:04:07Z,Merge branch 'dev_main' into ms-584
+84fc297d6d5e03f1e2bd56cd8efd9c9f055da389,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-10T05:38:59Z,Merge pull request #134 from aiverify-foundation/ms-664
+fa448d339b6c4e6373ba1a75710ab64a9a484613,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-10T05:36:12Z,Merge branch 'dev_main' into ms-664
+ec6f31fe288780e1cf30924b06d591cea15155e4,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-10T04:13:23Z,Merge branch 'dev_main' into ms-712
+06f8322c217e3b06bf73cae0030dd6fc25d0e54e,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-10T03:05:40Z,Merge pull request #137 from aiverify-foundation/dev_main
+1e0f68fa500b91c53d193827bd0272fb5613c74d,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-09T06:56:25Z,Merge branch 'main' into dev_main
+8d66153e4cf4b121c257f8b105ee28d62878c191,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-09T06:44:47Z,Update pyproject.toml
+9bc4eb894974cf8be43497072d50d7c6eabaee8a,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-12-06T08:39:36Z,Merge pull request #136 from aiverify-foundation/ms-818
+5a8525386eb06bdf239d85aa2746fb524c28ed60,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-11-28T16:16:06Z,update
+e24d965a3bbfe7012780a2f16ce1670a2edf9fd9,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-11-28T16:08:51Z,Merge branch 'dev_main' into ms-703
+825b74e53719d14aad46a89f3f81145914c0ce89,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-11-27T09:08:27Z,fix bug on model rebuilding
+d07409376a74c2660d077792340fe11cea0ba21e,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-19T00:06:23Z,update common risk cb tags
+2889e203019653511ee096066599c975c8b73b62,imda-amdlahir,aminmdlahir,aminurrashid_mohamed_lahir@imda.gov.sg,2024-11-18T23:46:24Z,update cookbook tags
+acfa30e519be9750caa8266e8dc443a160c238dd,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-11-13T02:57:39Z,push fix for MS-753
+084b243243a87eb308f505c49868ed9f6ea46dde,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-11-07T03:20:19Z,Merge branch 'dev_main' into ms-543
+d4b8b46f64c73adb557ac9c2add7212e658e259f,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-11-06T09:20:20Z,updated mal qns gen with temporary fix
+fa9d7877626cdad48aa8fe7e156c3f649076015d,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-11-06T08:04:12Z,Merge branch 'dev_main' into ms-712
+b43624ad36e49253e91883b2cc3ea07c942ad692,,Norman Chia,normanchia@Normans-MacBook-Pro-2.local,2024-11-04T02:48:36Z,remove unuse code
+606376c6a9ddff746c50669fd8329379437f9912,,Norman Chia,normanchia@Normans-MacBook-Pro-2.local,2024-11-04T02:20:23Z,fix benchmarking py
+37247040a6e4d10bdc11086ba0810c094fad12fd,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-11-02T15:40:43Z,update benchmarking and benchmarking results to handle prompt selection percentage
+05443e6139cbe4cad07b1c5789ce7f2139d156c3,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-11-01T08:51:09Z,Merge pull request #125 from aiverify-foundation/ms-657
+6f3c7c1508dd968556e5247865a178261bd7ea3c,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-10-30T09:38:37Z,Merge branch 'dev_main' into ms-657
+5587150c1c63fec90e89ec90bde8926c7ce2504e,,Norman Chia,normanchia@192.168.1.4,2024-10-29T06:08:06Z,update config
+d148a1b42c9ad0f3be2bb388a7bc1b41ecb0c4cb,,Norman Chia,normanchia@192.168.1.4,2024-10-29T03:57:31Z,merge with new dev main
+1bb8cd986e45bbe0b8020949842df6e317b75270,,Norman Chia,normanchia@192.168.1.4,2024-10-29T03:57:01Z,merge with new dev main
+49f0a138cc5d45bc713f5dcfe4f95981974f0a58,,Norman Chia,normanchia@192.168.1.4,2024-10-29T03:55:23Z,merge with new dev main
+1178afddebe36cdd2283227b927b8a0d5b504e5b,,Norman Chia,normanchia@192.168.1.4,2024-10-29T03:53:02Z,Merge branch 'dev_main' of github.com:aiverify-foundation/moonshot-data into ms-665
+92b129f266f302a3fc333774a63bbf6bdab155cd,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-29T03:36:23Z,Merge pull request #122 from aiverify-foundation/ms-632
+787f924acebfa313896247dfeec4c75c400311ac,imda-normanchia,imda-normanchia,132418893+imda-normanchia@users.noreply.github.com,2024-10-28T04:13:17Z,Merge branch 'dev_main' into ms-632
+cc3e363c89b0c4a75f65ee4fbd4e956abe7820bf,,Norman Chia,normanchia@Normans-MacBook-Pro-2.local,2024-10-28T01:38:12Z,rename ollama 31 name
+2674c3987ebea9e76a25a0d80ae860134b48a502,,Norman Chia,normanchia@Normans-MacBook-Pro-2.local,2024-10-28T01:34:12Z,rename claude2 connector to anthropic
+ce8c5aacb586513caa999379f6e1ea27ed708c51,,Norman Chia,normanchia@Normans-MacBook-Pro-2.local,2024-10-28T01:33:05Z,rename claude2 connector to anthropic
+fbe043d8ea7b24f6b28b3fa0f275c82df8dc761d,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-25T08:31:47Z,Merge pull request #130 from aiverify-foundation/dev_main
+3efc2db8f848eb8e71f9129953328bf2b3b22447,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-24T15:09:00Z,Merge branch 'main' into dev_main
+336eeb55dc879edb933fe4652c39194d5bf15328,imda-normanchia,imda-normanchia,132418893+imda-normanchia@users.noreply.github.com,2024-10-24T08:00:45Z,Update truthfulqa-open-ended.json
+96859fa35cc92ffa16950c7ba49c016d0a934858,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-24T07:37:57Z,Merge pull request #131 from aiverify-foundation/ms-708
+d90cc5e98db0d08a6507c30d3500171e610da147,,Norman Chia,normanchia@Normans-MacBook-Pro-2.local,2024-10-24T06:43:55Z,update pypoetry to use compatibility
+0cc1c52650ad9c808e3da8da525648d4cab39380,,Norman Chia,normanchia@Normans-MacBook-Pro-2.local,2024-10-24T06:42:32Z,update pypoetry to use compatibility
+8b53b4380dc9b9ff691eac79179a1a2006a3e644,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-10-24T05:47:37Z,update requirements and pypoetry
+3838756b4b99b8cea0b49c872110f9580f9f2dbb,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-22T08:57:55Z,Merge pull request #127 from aiverify-foundation/ms-669
+9f5810cd2f398c2032cf09505f33a50437131710,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-10-21T08:21:43Z,Merge branch 'dev_main' into ms-632
+f1c2f6089cbfeb6a3f9e2e3fde7049ae7f07faab,,Norman Chia,normanchia@192.168.1.4,2024-10-21T03:56:44Z,update requirement.txt compatibility
+720e1c4a5b0d5f4a71f7ed5e2bc3ad0c8bd0fa39,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-17T05:00:35Z,Merge pull request #101 from aiverify-foundation/ms-493
+b3842aa265bd1dbd674900f9f0f2ddad1a36ec58,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-10-17T02:26:31Z,update redteaming
+9d68ccca082131a88aa3b62a6395bf97a78aadd4,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-10-15T15:01:21Z,update metrics and connectors
+b26a2e48d0187c87b1c28c31a5a400c17fd167fe,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-10-15T14:12:51Z,update cache items
+462d05eb64e9ad9519d0363e25b5bd6a48a01da1,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-10-15T13:28:44Z,Merge remote-tracking branch 'origin/dev_main' into ms-493
+d0edcd2070c15ea563fac63affb6448051d91b35,,Norman Chia,normanchia@Normans-MacBook-Pro-2.local,2024-10-15T03:46:06Z,update requirement.txt version
+c4298daf3cdbddb43273b59c32191242c6f98701,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-10-11T02:53:00Z,updated to return final score
+c27795f0fd83108cd208c797e325c32421b83002,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-10T08:04:17Z,Merge pull request #126 from aiverify-foundation/dev_main
+3a43e15fd579ed92acfc9990e64fa1faa20998f2,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-10-10T05:34:37Z,added entity processor metric. pyproject to be updated later
+6c3b1aaa0a3ce495356ebcec0ebab6104b488710,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-10-10T04:28:53Z,update cache
+1e054ca4280a3c96d03d6733e6ad52754a072e5e,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-10-10T04:00:25Z,update
+83670a5c7f5c264c06d60f26f7138c74ca08149a,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-10-10T03:56:07Z,update
+1d7870c407cf9322b435b3c30958d358f70b1f5f,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-10-10T03:52:42Z,update logger and misc changes
+1d495ec0196b09a7c62fdca89fea0fa0738568d6,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-10-10T02:43:25Z,Merge branch 'dev_main' into ms-543
+d8a250f4a80b0f839587a7a61f20174c483a3645,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-09T05:48:44Z,Merge pull request #107 from aiverify-foundation/ms-507
+83ae0d26e9334e5f60d66bae5a3032f3185094f9,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-10-08T18:17:17Z,update new connectors and connector-endpoints
+aca4a044eeb7411e46becf88bac64fc46bb42c07,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-10-08T15:21:31Z,Merge branch 'dev_main' into ms-632
+a2c1afd86a6e2977a01c9b3d421ba8e2f11a3274,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-10-08T14:23:01Z,Merge pull request #123 from aiverify-foundation/main
+5723791e0f6c2c4eb2ce24e0f23e6b3de374a16a,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-08T10:01:08Z,Update smoke-test.yaml
+f5553100a8e906613b0b2a05b747116d9e18cda6,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-08T08:51:00Z,Merge pull request #111 from aiverify-foundation/ms-583
+beb5aad8ad948311addb92397315d83e18e75994,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-08T06:45:29Z,Update pyproject.toml
+1cf726b340fa8731c297793220a8a14bb4c138ad,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-08T06:36:29Z,Merge pull request #121 from aiverify-foundation/dev_main
+53083ced221f5d54e41646243842f9e9c380e107,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-08T02:28:55Z,Merge pull request #119 from aiverify-foundation/ms-641
+da55b6ffe3010bae89594629f619750a987872be,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-10-08T02:19:45Z,Merge pull request #120 from aiverify-foundation/ms-646
+ade8734e851a876fb9a848831ced398b80cbde34,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-10-08T02:00:49Z,updated cyberseceval with default eval endpoint
+0f7675ab09be31f786d0d02a2da319725493be4c,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-07T15:36:14Z,Update smoke-test-cli.yaml
+c0ff8367c7f2e52d03eb8d317579495ee3c1aca3,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-07T15:12:32Z,Update smoke-test-cli.yaml
+d2486b07aa532c08041595d1b98d5a1ba9f011f0,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-07T15:11:28Z,Update smoke-test.yaml
+c61e4567c4268935f76a4b47528761be81195508,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-10-07T03:12:18Z,updated jsonio module to read and write utf-8
+6b34f87bdd2affb54f5cc68774e5d73168a51bea,,Norman Chia,normanchia@192.168.1.18,2024-10-07T01:13:59Z,add categories and tag to recipe
+98d802d9bddcdd4004bd6519551b770c469dae2d,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-10-06T10:32:32Z,update requirements
+077994ca37e40b1ec8de9626e96cdf39c2afb4c1,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-10-06T09:59:35Z,Merge branch 'dev_main' into ms-632
+2d3a83ad797c0c6163c6cf1b290bd62fd98b7fb6,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-10-03T13:17:59Z,"updated attack modules and metrics description, as well as metadata of new contributions"
+36f7c46ff88d4e8fb224bc09235a5b7786124ec3,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-10-03T09:01:47Z,Merge pull request #118 from aiverify-foundation/update_requirements
+5d4bbea4bd5b4c03a992acf48f6610f153661fd8,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-10-03T08:59:46Z,added back cybersec metrics req
+0f724d869d01b9b40319b230a22afebd56767a10,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-10-03T08:55:54Z,updated requirements and pyproject
+a703de3c90f8c150b3631b51bd3b88340b0017b8,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-10-03T08:41:01Z,Merge pull request #113 from aiverify-foundation/main
+54eeab1bdc02ae6a0be2c44c65c0b64c217a8b4e,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-10-03T08:39:29Z,Merge pull request #117 from aiverify-foundation/sync_dev_main
+9e52a27367dc467830c8e073011546e63b751a0d,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-10-03T08:36:19Z,fix error
+8ec0d45261778f70fcc2fa8ba52e22c25c94573f,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-03T08:26:13Z,Merge pull request #116 from aiverify-foundation/sync_dev_main
+4e46c5de18cdd1f48b7bd48e87dd9f1a6fd8d8d5,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-10-03T08:24:08Z,push
+da3523df9c4a0093e06115b906bb2c029d15501b,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-10-03T03:13:45Z,Merge pull request #100 from aiverify-foundation/ms-477-return-metric-config
+a1c0386750a52ab86d8aea7623959a3c16329740,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-03T01:46:42Z,Update smoke-test-cli.yaml
+161d4c42110a7fc38b85457392b79a14c9969e75,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-03T01:22:41Z,Update smoke-test-cli.yaml
+7757e84ab7c3e9815b39d544002456077e30a8da,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-02T12:58:58Z,Update smoke-test-cli.yaml
+6389f5001dcc29bacd83c47d0ef9dec584d89d29,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-02T12:49:17Z,Update smoke-test-cli.yaml
+4821c44bf064e40af7aeb2c885adf4ef60e5f3be,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-02T12:22:05Z,Update smoke-test-cli.yaml
+8cfc82e77cdf69dad7129ffa767087ba0e783d45,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-02T12:13:02Z,Update smoke-test-cli.yaml
+e12a39d15253517ddfd9c7ff937e191d9953e30e,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-02T10:49:46Z,Update smoke-test-cli.yaml
+4ea648cf7189a1b4da4644269ba00ca6b4e0b01f,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-02T08:59:42Z,Merge pull request #99 from aiverify-foundation/ms-503
+b277d9b6677f3aa8d06686a097b129009d7f193c,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-02T08:42:22Z,Update smoke-test-cli.yaml
+472f1f9a25874ee3c2b8c9a66821aeff6a99707d,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-02T08:31:03Z,Update smoke-test-cli.yaml
+5a6f739a39e0f36e4383812b4ad94cd9f8e5ceae,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-02T08:18:02Z,Create smoke-test-cli.yaml
+cc4497216b39742c9a8ed38c51afa20ebfae7b59,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-10-02T04:36:51Z,Update LICENSE.md
+a8f418b66e875864b7063ec5f7fcde67101a01b5,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-10-02T03:06:49Z,update pyproject and requirements
+685710b1489845a639630e465165a685046d0b48,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-02T03:05:16Z,Update smoke-test.yaml
+54c0445dd7ec8e13c58cc7b66df10ca46a4efb3d,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-10-02T02:41:07Z,Merge branch 'dev_main' into ms-503
+2888b5f53dd1a7d416c43150457bfde725d8aeca,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-10-02T01:59:36Z,update connector and endpoints
+d1b740aa2834a46392d3d12dac6119553e5c5305,imda-jacksonboey,imda-jacksonboey,jackson_boey@imda.gov.sg,2024-10-02T01:26:20Z,Merge pull request #94 from Mungusbean/attack-modules/mask_and_homoglyphs
+9cc20ead46d351aebead47f233c84b546f2df8cd,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-09-28T04:30:07Z,Merge branch 'dev_main' into ms-632
+75d10c482102075dbae537e65177671a9f59244c,Mungusbean,Mungusbean,mengteck.tmt@gmail.com,2024-09-26T06:04:31Z,removing percentages from homoglyph attack v2 and adding place holder for API key
+114c0c6b13a67bd0a515a3bb7ef98da6b3f76658,imda-jacksonboey,jacksonboey,jackson_boey@imda.gov.sg,2024-09-26T03:05:22Z,Merge pull request #98 from Reality-Detector/main
+74287fe5fe4020395361d000ed4b8286f45a67f7,imda-jacksonboey,jacksonboey,jackson_boey@imda.gov.sg,2024-09-26T03:03:57Z,Merge pull request #92 from waynekoo/recipe/cyberseceval
+4ca9e290851b8f905507f4aa8cadc591e9344925,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-09-26T02:53:03Z,added clcc cookbook
+83cc6d05608355715d0af3110957d260cc6b53f8,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-09-25T08:36:20Z,updated with fix for json issue when llm does not give desired responses
+15df2baea507ddaa14bc603f267e8cdd72a57535,waynekoo,Wayne Koo,chinchyekoo@hotmail.com,2024-09-24T07:25:59Z,update endpoint gpt4 to use model gpt-4 instead of gpt4
+a44c494e3827e3c1e2cbbf3162c6d63403218e17,imda-jacksonboey,jacksonboey,jackson_boey@imda.gov.sg,2024-09-23T05:14:44Z,Merge pull request #91 from athewsey/feat/aws-connectors
+e8d018d2396d0002679892fa9ef2e418560e8737,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-09-23T03:37:52Z,Update sca-scan.yaml
+dacb0bdb5aee3825dc0ee4ce44bc2b6d572e572a,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-09-23T03:21:10Z,Delete venv directory
+92ddac4676b0195e8da3fca03313144f4a69a682,github-actions[bot],github-actions[bot],41898282+github-actions[bot]@users.noreply.github.com,2024-09-23T03:20:20Z,Merge pull request #109 from aiverify-foundation/notices
+299310201158141722e44cb347e6f839c257eac9,,118954493+imda-benedictlee@users.noreply.github.com,imda-benedictlee,2024-09-23T03:20:16Z,Update NOTICES.md
+86fb86fd245335b1237aa4b14e831676e70c97d6,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-09-23T03:07:23Z,Update sca-scan.yaml
+f2cdeb79c71c7a11dc45a76f501d6fed91db255f,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-09-23T03:04:06Z,Create LICENSE.md
+f6dbaddfa488d84e31e84e3a7ff2503f05f0c6aa,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-09-23T02:53:02Z,Delete LICENSE.md
+0003baab107ee8719192da0f40ab0a8f4e49d72c,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-09-23T02:29:14Z,Delete venv directory
+4b6df7f4935551a584ed5ee276b82cd5ca751f6d,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-09-20T07:31:48Z,Update sca-scan.yaml
+23ed908b424cfda94ba313791f744bba5c626bc1,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-09-20T07:30:31Z,Merge pull request #108 from aiverify-foundation/notices
+4fafc5694b95aa77709bfe195f812305a8d2958a,,118954493+imda-benedictlee@users.noreply.github.com,imda-benedictlee,2024-09-20T07:29:38Z,Update LICENSE.md
+9e4536e7af607c0f60519e021cccbb55c63810c2,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-09-20T07:20:40Z,Update sca-scan.yaml
+97eb48e0241b8359822cee0d24fa9b9dea56032e,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-09-20T07:08:36Z,Update sca-scan.yaml
+2b3271872e8c73a1298bc9d3f778d0e1b4be1992,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-09-20T06:57:21Z,Update sca-scan.yaml
+1daaeca385c28d973d77b58dc4260dff2ebd008a,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-09-20T06:51:09Z,Update sca-scan.yaml
+579917486bdc13bbe99b61f5c2e2e1dbab1254d3,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-09-20T06:39:33Z,Update sca-scan.yaml
+481e37439576ed1f12040f84234b7d306ba1f123,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-09-19T05:50:02Z,updated sg safety qns dataset
+9f4d53275e60e6aee9a75c4d52d8b1306778f646,imda-normanchia,imda-normanchia,132418893+imda-normanchia@users.noreply.github.com,2024-09-19T01:44:07Z,Merge branch 'main' into feat/aws-connectors
+41df7f9d1018cc8777971eabe0e0bc00c4555156,imda-jacksonboey,jacksonboey,jackson_boey@imda.gov.sg,2024-09-18T14:59:40Z,Update pyproject.toml
+7083d9d0838d15b16399c2bc101e8f766e0c5be5,imda-jacksonboey,jacksonboey,jackson_boey@imda.gov.sg,2024-09-18T09:56:48Z,Merge pull request #104 from aiverify-foundation/temp_dev_main
+1483661c6fe40f1245fabf0f17b3577c1381bace,imda-jacksonboey,jacksonboey,jackson_boey@imda.gov.sg,2024-09-17T06:59:49Z,Merge pull request #103 from aiverify-foundation/ms-524
+b75ba9c4f6b0cbce4ded85a4d4226f3c1bd8b3b6,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-09-13T10:52:49Z,Merge remote-tracking branch 'origin/dev_main' into dev_main
+23fe9304f38ce287255b502af93f5d7ade14aa16,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-09-13T10:52:40Z,disable GH event notification workflow
+6e41ab456444377c4966e411ab161b240a419a0b,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-09-13T10:52:06Z,disable GH event notification workflow
+1bfb05baf973b2582c131ee41ba17c31f115fdc0,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-09-13T08:22:33Z,update
+4aaed9d9bc2941ddeb7bb41243bbfd722ff50ca8,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-09-13T08:21:47Z,Merge branch 'ms-477-return-metric-config' into ms-493
+11725f07d14803e23fa40fd47dc9fcb8e86c80fb,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-09-13T08:14:21Z,update code
+0cef1b2f0e0ae1c9bbd1055db89fc61d3b2b7621,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-09-13T08:07:41Z,"update connectors and metrics, runner-modules to handle connectorresponse"
+4cfe735d77ac0c838f61af5ddec0ba887ca163a3,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-09-12T17:47:41Z,updated metrics with default config values
+0a0151dae06e975686c0b20f1ff94ea14d24f12a,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-09-12T08:48:10Z,updated lionguard req in metrics_config
+9b00ae9b0670314539e73898995e522e09de6a20,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-09-12T06:02:44Z,added flagjudge into metrics config
+80b7f3b973fc68f786d64916d3b70a9331d02554,,Norman Chia,normanchia@192.168.1.4,2024-09-12T05:59:34Z,update requirement
+6982917858b6576cccbcffd0188f76d9ee2119b8,,Norman Chia,normanchia@192.168.1.4,2024-09-12T05:53:23Z,update file name
+aa356114052feb592a7ce995e77dfa6377ce92a6,,Norman Chia,normanchia@192.168.1.4,2024-09-12T05:46:56Z,add google gemini connector
+058fdccf40f4260bd6eea258e8ef9a711fca17ec,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-09-12T04:53:19Z,Merge branch 'dev_main' into ms-493
+280a368d0fb71dfc24b7e88523f884667764800c,shahruj,shahruj,57801700+shahruj@users.noreply.github.com,2024-09-12T03:47:06Z,Added Facticity APAC Multi lingual benchmark dataset (sample subset)
+a5e3bccbc058b86dcdaf844e7291888c2b5ef16f,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-09-11T12:33:05Z,Merge pull request #96 from aiverify-foundation/ms-477-return-metric-config
+637a4e6a852a25f15f1604d96e51d242616eed2e,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-09-11T12:27:24Z,Merge branch 'dev_main' into ms-477-return-metric-config
+22fd2ff1b1b2d9f77e0d49669c2cb9caac938a4c,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-09-11T12:24:06Z,Merge pull request #97 from aiverify-foundation/ms-475-extract-am-req
+722e75adcae87181526619002860543888b1c0a6,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-09-11T12:08:10Z,Merge branch 'dev_main' into ms-475-extract-am-req
+08f9cd2f2db1a3ceaef491e7805639b36b4fe85d,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-09-11T12:05:19Z,removed space in attack_modules_config
+271118038284086d43aa18424740fe82d66ff9d6,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-09-11T11:11:45Z,Merge pull request #84 from aiverify-foundation/ms-394
+6760b8e5f0da2fed9761f6f3c38f06f519f18aea,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-09-11T11:11:07Z,Merge pull request #88 from aiverify-foundation/ms-459
+38235ce4e6a6088aa936e8be5a94354f5cb351b6,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-09-11T10:12:14Z,Merge branch 'dev_main' into ms-394
+7172da122f494f367069fb8dbee85eddb0c15477,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-09-11T09:58:46Z,Merge pull request #93 from aiverify-foundation/ms-524
+2d7c853378e2af058d2546768d8a58c6e2709594,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-09-11T09:45:27Z,update
+740208e03a8e1f2756da36296780560de640e310,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-09-11T02:16:40Z,updated metric config json and cache file
+40cf2a1a6f4e86be6d2b9467ab51f13df8a84645,athewsey,Alex Thewsey,thewsey@amazon.com,2024-08-30T07:14:28Z,feat: Connectors for Amazon Bedrock
+0dea051f7afac3d73cf6b19e6f29ade6e26a25c3,Mungusbean,Mungusbean,mengteck.tmt@gmail.com,2024-09-09T03:08:05Z,Changes to be committed:
+145eebfc19c2bcb9e3e130d10d9486a08c30ee53,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-09-07T14:35:09Z,Merge branch 'dev_main' into ms-493
+edb401f4f5910d475b9ba698233913cb1450f046,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-09-07T14:14:21Z,update requirements
+51eeb04d4d4f362c2b6e9eee07d96701b3b37ce2,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-09-06T07:37:01Z,Update sca-scan.yaml
+52f0ca0f97c66b7105aeb7e1362eac4315ff64af,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-09-05T01:56:14Z,update requirements
+2087a5d8dbfb4e16251d710dd72d4dfbda23e7cd,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-09-04T08:46:06Z,updated metrics to return configurations and endpoints as part of metadata
+70ae69bd5eec317b2a5a45d4d7abcdab6b4982a4,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-09-04T06:43:56Z,Merge branch 'dev_main' into ms-475-extract-am-req
+cbdb60254ea0433b407908c475c4b08cc89c0f11,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-09-04T06:30:10Z,updated attack modules metadata with endpoints and configurations
+7cbdd50c4c1100a51a971ac1280553c423dde046,waynekoo,Wayne Koo,chinchyekoo@hotmail.com,2024-09-04T05:13:10Z,upload other files required for the recipe to work
+7f12851e193c27adf7fd29d632075d309aae938d,waynekoo,Wayne Koo,chinchyekoo@hotmail.com,2024-09-04T04:45:12Z,initial recipe upload
+d659de3b446d87cd33a2058b0cfb782eccf0b1c2,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-09-03T07:05:23Z,updated all affected attack modules to read req and config from attack_modules_config.json
+38f99d5ec6d243afcd9ab7dff48299735a62b97f,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-09-03T03:11:59Z,Merge branch 'dev_main'
+cc2e3e20cf3efd36ffd6012d24eb9b9c4a11b5e7,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-09-03T03:11:33Z,fix GH event notification workflow
+362d45cfc00dc11ad2ae554b718ba407e7511a34,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-09-03T02:43:20Z,Merge remote-tracking branch 'origin/main'
+923e92150e682f79f63a1da461ce9074b481355b,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-09-03T02:43:00Z,add SAST (codeql) workflow
+36f4a75e7f2d40ccfe582f858cf68f98b486d5ec,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-09-03T02:42:12Z,add SAST (codeql) workflow
+2292aca7206509905079d9867c5805faf6829d42,imda-kwokwk,imda-kwokwk,129362214+imda-kwokwk@users.noreply.github.com,2024-09-03T02:41:11Z,Delete .github/workflows/codeql.yml
+d61f2eafda7014a972fb997649db07a40a0f23aa,imda-kwokwk,imda-kwokwk,129362214+imda-kwokwk@users.noreply.github.com,2024-09-03T02:38:08Z,Create codeql.yml
+18632db7ced7b2f27bd428188b0d939b63d17a2f,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-09-02T16:23:44Z,add SAST (codeql) workflow and GH event notificaiton workflow
+104e11ccd75bbd340012a00f7fa8e22cc42c28d4,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-09-02T15:42:35Z,"update requirements, add connector, endpoints and answercorrectness"
+2b1c2e6bb4e3e19ee9257454c5af9f41ec59270c,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-30T11:10:13Z,Update smoke-test.yaml
+6e1eed777049c865a03747154cbc7bc2c4ba26ce,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-30T09:46:05Z,Update smoke-test.yaml
+d82869eca4e2b5409f22585f54e82f6889c63ab2,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-30T04:36:53Z,Merge pull request #90 from aiverify-foundation/dev_main
+89d0901ebfa339c78f85f2014d0403ecbf760b46,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-08-29T15:58:12Z,add pre-build-checks workflow
+b94514159a90c462f8a7404676fa3b2f5c8f3ae6,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-08-29T15:55:51Z,Merge remote-tracking branch 'origin/dev_main' into dev_main
+49f683bef3a590cbdb988c71e415291a8d29bdaf,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-08-29T15:55:04Z,add pre-build-checks workflow
+0ec649bff0f54851c55237dfe17a2b6a6c5315ad,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-08-29T15:50:10Z,add pre-build-checks workflow
+87846ebe9628298f2598111715452c5540eb8b69,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-29T12:34:58Z,Merge branch 'main' into dev_main
+ee98c06a2cc416636ecc72255bef337ee7fec143,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-29T02:14:45Z,Update sca-scan.yaml
+600f29c537ae49677f89ab21e90c85780a9f387e,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-08-28T15:06:50Z,push azure openai-t2ii and ollama-llama31
+ad93bbc1c72c18577e41ae52f3a92d598177142d,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-26T05:28:42Z,Merge branch 'dev_main' into ms-394
+c228393903ab863732a54fcb30ec6207364b097d,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-26T05:27:17Z,Update smoke-test.yaml
+ec7c789eede68855efc14fe498f70c86c595c1ea,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-26T05:16:59Z,Update smoke-test.yaml
+c6aa6b288522b2e7014be70e96fbf84cc3a32d4d,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-26T05:12:41Z,Update smoke-test.yaml
+4bd722b9523264afb7639c59427c57ee354a57a6,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-26T05:09:58Z,Update smoke-test.yaml
+e2a18fdb902716545a567c452f27b7d8647a838f,,Norman Chia,normanchia@192.168.1.14,2024-08-23T07:20:52Z,sync with main
+5901a7d8ef22a43d9cfc5ecedfcd4d6da68deb18,,Norman Chia,normanchia@192.168.1.14,2024-08-23T07:16:16Z,Merge branch 'main' of github.com:aiverify-foundation/moonshot-data into ms-394
+cfa0f00998f5b5aeb4d6ffd16a1320041abba7f6,,Norman Chia,normanchia@192.168.1.14,2024-08-23T07:14:55Z,remove unuse file
+8f52b595db5b1b99261f825b7e19737e8ac8021f,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-23T04:07:14Z,Update smoke-test.yaml
+4d5844807a10efa2c7d35ea1c18123ac81757f38,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-23T04:05:26Z,Update smoke-test.yaml
+389a7c308c47672388ebdcb64b12f8bf54990b75,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-08-22T05:52:00Z,Merge pull request #86 from aiverify-foundation/ms-431
+7ff1808f24d431cbfa2b32fdae6b17fd7ad3ab02,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-08-22T01:56:16Z,Merge pull request #81 from aiverify-foundation/ms-399
+2e3ae8cb7bf9dbbc6178c4ac3023a0ca050b9e5f,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-08-21T10:28:34Z,Merge pull request #80 from aiverify-foundation/ms-378
+f608a410702063bef904e54e032cb072c8eeccbc,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-08-20T08:52:24Z,fix when value is 19/20 and 199/384
+73b2009e03b854d1b320e0d48176150e3c5c3a5c,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-19T10:16:39Z,Merge pull request #82 from aiverify-foundation/dev_main
+36ca4932f21fcfe9914e9a8ffe2a4d98a3e88be5,,Norman Chia,normanchia@192.168.1.3,2024-08-14T09:52:41Z,fix linting
+ffe387babdf79125b7d865ecdde5c9d0a682554b,,Norman Chia,normanchia@192.168.1.3,2024-08-14T09:51:53Z,ensure no trailing commas
+b26964218850affc5f3d74c43dc6439d169cd8aa,,Norman Chia,normanchia@192.168.1.3,2024-08-14T09:43:47Z,add create json with iterator function
+9fee2aa5487262112bec01105bd02df1dc8e5227,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-14T03:45:37Z,Merge pull request #58 from aiverify-foundation/blackduck-sca
+8778dc2c982541655a3b49610f759ebf07c49fea,imda-benedictlee,Benedict Lee,benedict_lee@imda.gov.sg,2024-08-14T03:34:17Z,Change Pull Request Review Event to Pull Request Event
+1d3f87b0f510490319b02aa8f0db890a6586c271,imda-benedictlee,Benedict Lee,benedict_lee@imda.gov.sg,2024-08-14T03:23:24Z,Add Back Conditional Statements for PR Event
+93b3517a5e8763e045aeaa2027221784a20cb676,imda-benedictlee,Benedict Lee,benedict_lee@imda.gov.sg,2024-08-14T03:11:49Z,Merge branch 'main' of https://github.com/aiverify-foundation/moonshot-data into blackduck-sca
+1b5abf2292a0a688fc1f6d87c6e2dbe8cd23b17e,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-12T17:41:31Z,Merge pull request #83 from aiverify-foundation/smoke-test
+64a09edf3c7a07f1007cfb5cab42316e54829a6a,imda-benedictlee,Benedict Lee,benedict_lee@imda.gov.sg,2024-08-12T17:25:43Z,Added Smoke Test
+4bf5ad6f1688ec1475aac6f22e860855fa84f357,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-08-08T13:39:11Z,"update requirements, cache and others"
+a7962723e0ae816f6086c704217e3a72203e7d5e,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-08-08T12:49:11Z,Merge remote-tracking branch 'origin/gender' into ms-399
+6a2f63206924782fcf1e152355012e111965faad,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-08-08T12:37:31Z,add i2p and update requirements and cache
+a4e1a15a3298917ccc07481745510c42c71a8408,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-08-08T00:29:13Z,Merge remote-tracking branch 'origin/i2p' into ms-378
+c2e69620b9d4bb0fbe29a4d2c1b298c882e207b9,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-08-07T14:22:28Z,add pre-build-checks workflow
+c945cf3dca9ebc1b7d1c3a35ce3d3c0be62f7bfe,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-08-07T11:37:46Z,add pre-build-checks workflow
+1698d16f7de9b8d9387f135cf1ca6ea363eaf756,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-08-07T11:28:51Z,add pre-build-checks workflow
+288d04ba9c349cc2526544cdcd13a5fab4c052a0,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-08-07T11:12:44Z,add pre-build-checks workflow
+de2a9c534511ac1813128d8ed7edf03d51a1f55f,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-08-07T10:42:59Z,add pre-build-checks workflow
+1af1e0f52c0987b83f2661cd5c9c92c269416293,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-08-07T10:23:54Z,add pre-build-checks workflow
+73675a21e2ce1d5545eae970ed8f46387cdd66e6,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-08-07T10:14:01Z,add pre-build-checks workflow
+8d08195d27bff68d5ae882e51563da78b9e78f2e,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-08-07T10:01:53Z,add pre-build-checks workflow
+baa58da8e922a14438570de7e705b34f0c2c9c3c,imda-kwokwk,imda-kwokwk,kwok_weng_kong@imda.gov.sg,2024-08-07T09:55:00Z,add pre-build-checks workflow
+7341f6fedacee7d36e22ca5e131bacdc7450cf19,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-08-06T11:02:55Z,Merge pull request #78 from aiverify-foundation/ms-356
+3085befa71ade24b589023e66d72494973a37dc8,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-08-06T08:32:53Z,fix wrong dataset
+90c8090c82475afac59faff3a55f5552e1cee83b,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-03T07:08:02Z,Merge pull request #77 from aiverify-foundation/dev_main
+861fcc413cae098a1e34b51457a2e99de4a20eb0,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-08-03T06:15:59Z,update requirements
+950c893cd23bf7bc26392489627ff02fcfa6c1ab,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-03T04:01:54Z,Merge pull request #76 from aiverify-foundation/dev_main
+12918db5a514a06f721dd61100b1fc1f0908ec3a,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-08-02T11:36:58Z,update_requirements
+0362e5741dc1e44625f4045079ce1930753432f2,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-08-02T07:49:45Z,Merge pull request #73 from aiverify-foundation/dev_main
+8121f521dbeea1e4de0a7e33d0f752ad09f4b8c4,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-07-31T06:43:57Z,Merge pull request #75 from aiverify-foundation/ms-379
+c4237e3855ba05243e6637d37575252d1ad6c9a4,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-07-31T06:20:35Z,update not implmeneted error exception
+863d35c8765f517932c143a8361a871fa8a2bd87,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-07-30T17:02:32Z,Merge pull request #74 from aiverify-foundation/ms-379
+33e2c93d448ceed8d8025b5a74388a7f2d8f0cbf,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-07-30T14:29:03Z,"update clcc, update prints to logs, cache"
+714688b27a5955d2b0edae3c936adff513979c85,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-07-30T13:51:02Z,Merge branch 'main' into dev_main
+929ed321a4d3840f98cc865bd59a6d7fa8514feb,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-07-30T12:53:21Z,Merge pull request #65 from eyuansu62/flageval
+3e975aca689dfa1970082d8f5fcbd032a29d9aef,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-07-30T10:55:09Z,Merge pull request #72 from aiverify-foundation/ms-348
+757bd18b692c98bb208471085429df1ba9fe5c32,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-07-30T10:21:51Z,updated comments for lionguardclassifier
+cef3a7a5b49f8d46d2bcab84e380c70543aa2ed8,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-07-29T13:51:14Z,Merge pull request #71 from aiverify-foundation/ms-292
+7bc6f62e310e9c84eb5c483166b204035ba94e25,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-07-27T08:49:08Z,"update lionguard, with cache, onnxruntime, and metrics config"
+f8eb876c82c8aa5c35126d19e6946a79d4aa8cca,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-07-26T02:18:58Z,Merge branch 'dev_main' into ms-292
+80f013e444ca4315797ee5116027d79eb0d4065f,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-07-25T09:56:39Z,remove generate attack module prompts
+63fc1166b6379293719f31a08c4175c6c9e112f4,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-07-25T03:58:29Z,Update sca-scan.yaml
+af222143fa0fd592c635f8cabd86057005824463,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-07-25T03:42:46Z,Update sca-scan.yaml
+a7f9a0de525706b9f43ee7bd07ab784d3f80b503,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-07-25T01:22:54Z,Merge pull request #69 from aiverify-foundation/ms-294
+5d0b6ecc5f97a1b63549232a109a11eb9a400999,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-07-25T01:02:12Z,Merge branch 'dev_main' into ms-294
+87eeaaec0fe43091cfad097cc426f6b6dc34d674,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-07-25T01:01:42Z,Merge branch 'dev_main' into ms-292
+8b9064e2d74ff66e39a9469f63fdd05d8a8fbe40,chiraag-imda,Chiraag Anand,chiraag_anand_from.tp@imda.gov.sg,2024-07-24T07:34:19Z,[fix] remove check for results == bad request
+d4f5bcd37271659694f558683b5255a55d4dddd0,chiraag-imda,Chiraag Anand,chiraag_anand_from.tp@imda.gov.sg,2024-07-24T07:28:23Z,init gender occupational bias
+f2adabd9374b41025e026247b6bb7c5633aad852,chiraag-imda,Chiraag Anand,chiraag_anand_from.tp@imda.gov.sg,2024-07-24T03:47:25Z,dataset for gender occupational bias
+22de9d440aa0c2da342ce98b1699b5583ed71be9,Snail664,Chiraag Anand,chiraagsinghanand@gmail.com,2024-07-23T15:14:22Z,"openai t2i connector, directly get base64 image"
+9ee16dba64cc36fc0448ffc60d5ee0920528069e,Snail664,Chiraag Anand,chiraagsinghanand@gmail.com,2024-07-23T15:00:52Z,t2i connector handle multiple images per prompt
+14857517ea095b6e8ff3535f5ff2e23c72f621c4,Snail664,Chiraag Anand,chiraagsinghanand@gmail.com,2024-07-23T14:08:27Z,handle BadRequestError separately from rest
+8f44703384e44f86638bbd823a91a1cb015c3ab1,Snail664,Chiraag Anand,chiraagsinghanand@gmail.com,2024-07-23T12:38:08Z,added q16 inappropriateness metric
+a9a2f18ed8ad82d44a3b267fc9906d4f8376442e,Snail664,Chiraag Anand,chiraagsinghanand@gmail.com,2024-07-23T12:36:18Z,fix import errors causing always blackout image
+ea5dc0da6152e0cc0b03695fa4a3ffc16ea1a8ed,Snail664,Chiraag Anand,chiraagsinghanand@gmail.com,2024-07-23T11:59:37Z,handle multiple detection of same class
+49290138db08c6914cb992e705c58c992f29efff,Snail664,Chiraag Anand,chiraagsinghanand@gmail.com,2024-07-23T11:43:31Z,fix typo FEMALE_... to MALE_...
+3c0e43b16484c1633abbd2ee4a584a834bb90c8f,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-07-23T07:09:21Z,Merge pull request #66 from aiverify-foundation/dev_main
+1be76b41bb92bb32a6d41bc1ad0ddee1c425e234,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-07-23T02:44:48Z,Merge pull request #70 from aiverify-foundation/ms-331
+465df9ec99fa262cf26096dd84c6b6ee61bf8c01,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-07-23T00:44:41Z,update iomodules and gitignore
+e7b7a416f92bfa9d4b24881ac1d82a364ac11e66,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-07-19T04:07:19Z,Removal of attack modules field in all recipes
+bb2c61768bf96ffe155b1603b95edc3877789c64,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-07-17T02:18:40Z,Merge pull request #67 from aiverify-foundation/bookmark
+87782549830bd33cee915a6c316ea476683476a9,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-07-17T02:12:15Z,Merge pull request #63 from aiverify-foundation/ms-256
+95c9c2cd1dad323127d08073cd9cc166adb2670d,imda-sitaraja,Sita Rajagopal,sita_rajagopal@imda.gov.sg,2024-07-16T08:41:47Z,Updated to make NudeNet Classifier agnostic
+eca2c2b107da76a5f00ceacf4af9a131f02f13f1,,eyuansu62,772468951@qq.com,2024-07-16T02:20:26Z,add flagjudge
+aa9c8c9133d848aca3f4063ada0129d0ff12edd9,,Norman Chia,normanchia@192.168.1.18,2024-07-14T06:35:27Z,update bookmark dir
+d6705dba5dcbd3f221dec740ec58b52008b51d54,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-07-11T15:28:03Z,update cache and benchmarking
+7bedfcb10d5c23570cb5507fa0b9c9bc88a5e1fc,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-07-10T06:46:13Z,update changes to logging
+d662b284be9494c4a318e878014eabd362ba4afb,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-07-05T12:04:42Z,Merge branch 'main' into dev_main
+953e37b25ca13c07bcfdc3a5d16b451027600aac,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-07-05T03:01:20Z,Merge pull request #62 from aiverify-foundation/ms-261
+a044ece41a671c89635d8ae71b9df386f1e87d46,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-07-05T03:01:06Z,Merge pull request #61 from aiverify-foundation/ms-202
+e7321b9345c68b926f614e55ab10a9c61eae8a50,imda-sitaraja,Sita Rajagopal,sita_rajagopal@imda.gov.sg,2024-07-04T00:43:15Z,Handle 401 errors
+968106d83af2955cf6b845ce749200a8382f18e1,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-07-03T05:04:21Z,add pre-commit config and flake8 configuration for commits
+9869b2c56045003778ffd4bdb9f9919cc2a52dcb,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-07-03T04:36:47Z,Merge pull request #60 from aiverify-foundation/add-pr-template
+09cf1e243acd7a8566108d1de043834e98fa0bde,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-07-03T02:40:02Z,update cache hash and wrong imports
+a7281ecf35c77f3f8ad996e54b93db518f67fd72,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-07-02T14:57:05Z,remove id from json files and metrics
+2b93acb95138af2dddcebaf8465ad03b225ed67d,imda-benedictlee,Benedict Lee,benedict_lee@imda.gov.sg,2024-07-02T05:43:49Z,Add PR Template
+c21d55d3e66afc72f2575c96605ecda45adc5882,imda-benedictlee,Benedict Lee,benedict_lee@imda.gov.sg,2024-07-01T11:37:14Z,Remove POETRY Detector
+c8b276865b4191f63f633b0aac5035ba5d802dc2,imda-benedictlee,Benedict Lee,benedict_lee@imda.gov.sg,2024-07-01T11:16:39Z,Increase Timeout Minutes to 20
+c3b1e8b1b104739e434b963ecc033931ae386948,imda-benedictlee,Benedict Lee,benedict_lee@imda.gov.sg,2024-07-01T11:02:53Z,Remove Venv Folder from Scan
+d88457579630146d917fee2dbeb31b501b18e575,imda-benedictlee,Benedict Lee,benedict_lee@imda.gov.sg,2024-07-01T08:52:15Z,Change GitHub Event Trigger
+cf01f41648a20fb0ce7e45e763bfa10302f5a263,imda-benedictlee,Benedict Lee,benedict_lee@imda.gov.sg,2024-07-01T08:37:52Z,Refactored SCA Workflow
+a641596315b1839b0631c664d8443a13d4783742,imda-sitaraja,Sita Rajagopal,sita_rajagopal@imda.gov.sg,2024-07-01T07:45:19Z,Update I2P
+6640eed3963a0a0bf02d9b1080b1b93df91be062,imda-sitaraja,Sita Rajagopal,sita_rajagopal@imda.gov.sg,2024-06-30T15:19:05Z,Initial Commit for I2P Recipe
+c11a415f209de0ccfb07dbf3c516b0b567376506,imda-benedictlee,Benedict Lee,benedict_lee@imda.gov.sg,2024-06-30T12:35:28Z,Add SCA
+a56e199a2df481bb8c4bb9631f332f0ca23832ef,,Norman Chia,normanchia@192.168.1.15,2024-06-27T02:42:47Z,add delete function to sqlite module
+e28618071cb0b8ac31c01bd40d12b1774aced14e,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-06-24T03:13:29Z,Merge pull request #56 from aiverify-foundation/enable_unicode_json
+6acfd45df0b977540351ea156a4871c30b34be7e,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-06-19T03:02:34Z,changed ensure_ascii to false to enable unicode
+52749b742bfe7d792815f2401bea2b3bf4b798db,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-06-14T03:04:57Z,Merge pull request #25 from eyuansu62/flageval
+0740867d26c0264d041c91c890c71ee154575cb4,,root,772468951@qq.com,2024-06-12T09:06:20Z,delete clcc metric
+3ca39cd9203ec6d3d0584acf5e3724694fac26f7,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-06-10T09:49:53Z,Merge pull request #54 from aiverify-foundation/attack_module_param
+182abd699dce48f76493dea7ce2cd547c4a69b5a,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-06-06T06:09:44Z,added optional param for run_attack_module in cli
+4917e808a3ab66c624be8cba0cad95e292d813c4,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-06-05T05:46:08Z,Merge pull request #53 from digital-brewery/feature/azure-openai-connector
+933371ee0c7e6e27bd535ed08b0ee92acffb4385,cotdp,Michael Cutler,michael@cutler.io,2024-06-04T08:16:01Z,Minor corrections
+88af8e36180ecdde68fcd17e9e92a7e2def6e6ac,cotdp,Michael Cutler,michael@cutler.io,2024-06-04T07:43:21Z,Updated with feedback from @imda-lionelteo
+73f128ee73a3cffb71dc8c1e52e7e13c2d60a839,cotdp,Michael Cutler,michael@cutler.io,2024-06-03T03:53:19Z,Minor amendment to support OpenAI-compatible endpoints
+cd07549ea1f1ba39e2cdaad3655dc4c652138d01,kimeetok,imda-kimeetok,129362897+kimeetok@users.noreply.github.com,2024-06-02T16:07:12Z,Update README.md
+5cabe741294118a78fcd47049596f85f403e5ac4,cotdp,Michael Cutler,michael@cutler.io,2024-05-31T09:23:00Z,Added support for Azure OpenAI Endpoints and custom handling for model-rejections from Azure's Content Policy.
+5df0298d54a244598c0ff28b6587adcecf42e541,imda-lseokmin,Seok Min,92433521+imda-lseokmin@users.noreply.github.com,2024-05-30T10:54:59Z,Merge pull request #52 from aiverify-foundation/update-readme
+76381a52e7bd1463c4479994702456f1c085e375,imda-lseokmin,Seok Min,92433521+imda-lseokmin@users.noreply.github.com,2024-05-30T10:54:35Z,Update README.md
+bbe580e951fd25ab50d4631c7b23c60ccbbe8046,,Norman Chia,normanchia@Normans-MacBook-Pro-2.local,2024-05-30T03:30:47Z,update readme
+9d58a471f6f7255b8010980c0d81cbd0efd81c35,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-05-29T11:00:33Z,Update LICENSE.md
+743d6d6c028d94d376b47099296eb7a45a828060,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-05-29T10:51:13Z,Update LICENSE.md
+9aef645e360cc206dfe0acaaed71fa05ddb5f8bc,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-05-29T10:36:56Z,Merge pull request #51 from aiverify-foundation/update_cache
+879e0a1e9d8a9201d83f3301b516d4157fa0c7d4,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-29T10:36:15Z,update cache
+501962f837f5d3ed008cc508f5bbc47657594826,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-29T10:29:52Z,Merge pull request #50 from aiverify-foundation/sg_sentence_generator
+62521884d5c10eb64843384f04df786c0ea45c11,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-29T10:28:47Z,Updated code quality
+1f983fed8048464886e7248fefce79e360b10a47,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-29T10:12:34Z,Adding SG generator
+c714cde4b151c2643e7742cda571515d5b3985a0,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-29T10:06:28Z,Merge pull request #42 from aiverify-foundation/sg-toxicity-classifier
+388327d7b3b0706718d30f50be1379f0815bd7ea,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-29T10:05:56Z,removed unused imports
+82ca720f578142ea5d2572f9d2347258d0af597d,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-05-29T09:34:26Z,Merge pull request #49 from aiverify-foundation/apache-2.0-license
+7426096f52cebeeb5c78e7af8d6e162a1c26e2ef,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-29T09:31:43Z,updatge requirements
+fac97f2a4edd810383cfc54409e6c2cde49b8b0a,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-29T09:19:49Z,Merge pull request #45 from aiverify-foundation/update-recipes
+4a7615d7b2ab41d807b3f760fd9eeeb2e17d61ea,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-05-29T08:50:08Z,Merge pull request #48 from aiverify-foundation/apache-2.0-license
+10b7c9219b0bbeb7458ffb30b6fc9c86f93a675b,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-29T08:48:19Z,delete duplicate file
+35482897a01c1d5212fb6ef1206b1895d572c3f9,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-05-29T08:44:26Z,Merge pull request #47 from aiverify-foundation/apache-2.0-license
+cc8cb6b62fb58334ac8c4e5a91287b44359e56d5,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-29T08:26:18Z,update licenses and notices
+b76788a75e4b394e6fdf4b71e78fb9a1534241e9,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-05-29T05:52:01Z,Merge pull request #46 from aiverify-foundation/apache-2.0-license
+936f072e362e0a45c840790963a3d9562bd4667a,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-29T05:49:23Z,update authors
+e691ab9c6bc22e80f0f8e620368f1a4e9dd73e26,imda-benedictlee,Benedict Lee,118954493+imda-benedictlee@users.noreply.github.com,2024-05-29T05:05:08Z,Create LICENSE
+64eeae98306fcd1a6758981bc0d23319d24de9b8,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-05-29T04:42:44Z,Merge pull request #43 from aiverify-foundation/singapore-safety
+c9d3f2044b51491041ced87a2b2359e0cc46f6df,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-05-29T04:42:26Z,Merge pull request #44 from aiverify-foundation/update_realtime_qa
+046aebca5a7d09d1761a8ea1606174d6f34b9936,imda-sitaraja,Sita Rajagopal,sita_rajagopal@imda.gov.sg,2024-05-29T02:38:28Z,Update real-toxicity-prompts-completion.json
+c9e8dab44f05a6aa49d8fe33f2470f95be48f272,imda-sitaraja,Sita Rajagopal,sita_rajagopal@imda.gov.sg,2024-05-28T15:12:44Z,Update singapore-toxicity-classifier.py
+f1970297110bb16d60fdbeba07b9376a93c7151c,imda-sitaraja,Sita Rajagopal,sita_rajagopal@imda.gov.sg,2024-05-28T14:52:35Z,Simplifying batching
+67493a341a5b8ceecb1c45279cf8ee1d29a657c1,imda-lseokmin,Seok Min,92433521+imda-lseokmin@users.noreply.github.com,2024-05-28T12:52:05Z,Merge pull request #38 from aiverify-foundation/update-readme
+ba7cd8ca4e16071b6172688cb0c19f0a8d097b28,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-28T12:49:36Z,Removed singapore safety
+3339b4117b1a9760380257f4dc7dcf9fd42abf36,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-28T12:42:32Z,Added contributing section
+bc507a7a1708cd4ab0ffce01fad8a58f8a432e64,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-28T12:38:51Z,removed those links that are not working for now.
+23c72b7bdc6a077692d9dee9d04b5874355c12ed,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-28T12:32:12Z,amended some terms to make it consistent.
+f6f8e721a1734099e38a16bf3c85015dc0b322ee,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-28T11:10:52Z,Merge pull request #35 from IsakZhang/add-m3exam
+e99cf6e60d1d59a568a840893fbc398b029614a3,imda-sitaraja,Sita Rajagopal,sita_rajagopal@imda.gov.sg,2024-05-28T06:45:32Z,Merge branch 'main' into sg-toxicity-classifier
+c807212eb92d625cab507439d5c6b3ef0f402e8c,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-05-28T06:12:16Z,Merge pull request #41 from aiverify-foundation/update_requirements
+50fdbd2ad08cc6b570f7739ac00de30e3b44aa42,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-28T04:24:07Z,update requirements
+e2ef2b4db81faf333f24408b8046e134b068aeb1,imda-sitaraja,Sita Rajagopal,sita_rajagopal@imda.gov.sg,2024-05-28T02:06:21Z,Create singapore-toxicity-classifier.py
+61cefcda579a0ba53aa5002987113cb874ee4cb8,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-27T12:07:51Z,Added grading criteria for realtime-qa
+c94a40d9ae34edb189962e53bc20adc2bb08241e,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-05-27T08:59:04Z,Merge pull request #40 from moonshot-admin/update-metrics-timeit
+f06f1bc20d4f084b1163de6d99964435404df0b5,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-27T08:54:41Z,update cache
+906ede803ca106ec21d02d4a814f7cff07952c3a,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-27T08:47:14Z,Merge branch 'main' into update-metrics-timeit
+4bd0fd2aabc77e7ac960d427f0e34a400058a7e4,kimeetok,imda-kimeetok,129362897+kimeetok@users.noreply.github.com,2024-05-27T07:39:20Z,Update README.md
+8152bed6a83cc55a369064f40f4aa7c1c98cf6cf,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-05-27T06:46:33Z,Merge pull request #39 from moonshot-admin/fix-descriptions
+a25b7648846ea991b66bab197ff60d044f7edd14,imda-normanchia,imda-normanchia,132418893+imda-normanchia@users.noreply.github.com,2024-05-27T06:44:23Z,Update Logo
+ec5180fc5f67cdde244bfdd22bd98ea8c82e8b53,imda-sitaraja,Sita Rajagopal,sita_rajagopal@imda.gov.sg,2024-05-27T05:50:26Z,Update add_previous_prompt.py
+dcd8d804cf1b5a32e567a14b9358616729fc9862,imda-sitaraja,Sita Rajagopal,sita_rajagopal@imda.gov.sg,2024-05-27T05:37:49Z,Rename Attack Module Files
+c1482d6593cc852ddee1d715c6c087aaf8cbd719,imda-sitaraja,Sita Rajagopal,sita_rajagopal@imda.gov.sg,2024-05-27T05:32:19Z,Merge branch 'main' into fix-descriptions
+7867f977fdb38c3dd45cf72947512c3145eca0e8,imda-sitaraja,Sita Rajagopal,sita_rajagopal@imda.gov.sg,2024-05-27T05:31:54Z,Rename files and fix descriptions
+013f2eff8a1a831b834d76d2b1c325f11f321939,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-27T05:18:47Z,remove timeit and fix toxicity id
+ac1909b3e1f585024de6b359b14149b295f39288,kimeetok,imda-kimeetok,129362897+kimeetok@users.noreply.github.com,2024-05-27T03:36:30Z,Update README.md
+cd454e7294a06772884c543c6b678efc43cdb7a5,kimeetok,imda-kimeetok,129362897+kimeetok@users.noreply.github.com,2024-05-27T03:19:05Z,Update README.md
+3d5ffd74268a916e74972c099af2baf97f2a6240,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-26T07:34:23Z,fix spelling
+5485a985f7e856b728804160cc07c4ffd8c1b8e9,imda-lseokmin,Seok Min,92433521+imda-lseokmin@users.noreply.github.com,2024-05-24T10:24:12Z,Merge pull request #36 from moonshot-admin/multiturn-agent
+8d87437cc2db26a82b75e5d761b62e99286724be,imda-lseokmin,Seok Min,92433521+imda-lseokmin@users.noreply.github.com,2024-05-24T10:23:24Z,Merge pull request #37 from moonshot-admin/singapore-context-capability-test
+8888359314a125078968dd58c9e33d2bd3b70761,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-24T10:21:34Z,Added Singapore context datasets and recipe
+d61e4234d272db5f6dc2f549bd007470b2f359b8,,saike.zwx,saike.zwx@alibaba-inc.com,2024-05-24T09:53:52Z,update m3exam
+67d951f997407d273c5720a56a94788014795fa9,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-24T09:49:52Z,"Fixed the formula. It should take success and not unsuccessful. Unsuccessful means attack fails, hence it's a good thing"
+5f2fe02fe1ef8bdd2b3dea1e81db3c7b4d56e70e,imda-sitaraja,imda-sitaraja,155534102+imda-sitaraja@users.noreply.github.com,2024-05-24T09:16:35Z,Merge pull request #34 from moonshot-admin/multiturn-agent
+1d3bf8835f4830de40efa0b7b4a29132a41a0b31,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-24T09:13:35Z,update attack modules
+a7ae7f2459481d7abb2f814b8f8cf9228e532e42,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-24T08:58:57Z,update cache file
+da2bc19ca47e19c4d152d86af642149e9291f29b,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-24T08:55:57Z,Changed the iteration
+9ae1145b35bda296875a4b66a669752c88ebc619,imda-sitaraja,imda-sitaraja,155534102+imda-sitaraja@users.noreply.github.com,2024-05-24T08:55:17Z,Merge pull request #33 from moonshot-admin/multiturn-agent
+9c0700a1f1a614c544cebff51a7fd0c4eb28607a,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-24T08:51:53Z,updated with the connector instance so it can be used in red teaming interface
+535c30d7d21494c17a8107c42b0b2d893f27c214,imda-normanchia,imda-normanchia,132418893+imda-normanchia@users.noreply.github.com,2024-05-24T08:25:39Z,Merge pull request #32 from moonshot-admin/fix-descriptions
+1f12e7c592afe95b1541359703ef71e57a6a8cc6,imda-sitaraja,Sita Rajagopal,sita_rajagopal@imda.gov.sg,2024-05-24T08:22:20Z,Update colloquial_wordswap_attack_module.py
+89cf28b8009c564bed7f934b90efd06d4df49fa8,,root,772468951@qq.com,2024-05-24T08:21:27Z,add flageval clcc dataset (with flagjudge)
+17609772f4f99fbbdc4ba5d976c5816db7acf0eb,imda-sitaraja,Sita Rajagopal,sita_rajagopal@imda.gov.sg,2024-05-24T08:12:12Z,Update job-role-bias.json
+e761bb8f28233473c0ead4d509b6ee59e73f3818,imda-sitaraja,Sita Rajagopal,sita_rajagopal@imda.gov.sg,2024-05-24T08:11:01Z,Update job-role-bias.json
+8473db8d7e9b2bb447e4aa75374ae8bbc9d28f00,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-05-24T07:33:30Z,Merge pull request #28 from moonshot-admin/fix-descriptions
+26bd0efb64c689cf1c5da1e2a48f8a4c49a47bd2,imda-sitaraja,Sita Rajagopal,sita_rajagopal@imda.gov.sg,2024-05-24T07:29:56Z,Pushing fix for colloquial word swap
+f2ff791f264fa078cb5d0ff0ebd65d7be2e2fd43,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-24T07:25:44Z,Merge pull request #31 from moonshot-admin/housekeeping
+0decc9dad198c5969dd9016891a676b3246a2269,,Norman Chia,normanchia@Normans-MacBook-Pro-2.local,2024-05-24T07:24:00Z,remove unuse file
+81e4754474b7c3d19db14dd298fa18754b956453,imda-sitaraja,Sita Rajagopal,sita_rajagopal@imda.gov.sg,2024-05-24T06:58:57Z,Refining descriptions.
+c2130682fbc5cf611948f70fc537932485c37f60,imda-sitaraja,Sita Rajagopal,sita_rajagopal@imda.gov.sg,2024-05-24T06:02:36Z,Update template for Job Role Bias
+f6ff2408b2e115eb08cadbadbd54da1f83b019ba,imda-normanchia,imda-normanchia,132418893+imda-normanchia@users.noreply.github.com,2024-05-24T05:53:13Z,Merge pull request #29 from moonshot-admin/update-requirements
+e24c53a109d23a0f0c0a61e05d27a5b4d2da4b58,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-24T05:51:30Z,update with english pickle
+8f6b2682b766f9d629a62c0991517a22841edc7d,imda-normanchia,imda-normanchia,132418893+imda-normanchia@users.noreply.github.com,2024-05-24T05:42:38Z,Merge pull request #27 from moonshot-admin/update-requirements
+b22e05a71586fcfb34644fd63e56d7ab5412242e,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-24T05:29:09Z,try update again
+ce3a2e068067b3b12cd11443145b918d21af838c,imda-sitaraja,Sita Rajagopal,sita_rajagopal@imda.gov.sg,2024-05-24T05:19:14Z,Update Descriptions for Violent Durian
+7218e86da2d666f8686696be54348c5b8f5bb491,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-24T05:01:26Z,update requirements
+e9ad62236c0365a391812c3f103ac128e3047540,imda-sitaraja,Sita Rajagopal,sita_rajagopal@imda.gov.sg,2024-05-24T04:31:10Z,Update mlc-ai-safety.json
+2338981104dd00a096ec84164d8c2c55c3bd8d8a,imda-sitaraja,Sita Rajagopal,sita_rajagopal@imda.gov.sg,2024-05-23T07:34:38Z,Update violent_durian.py
+e65dd48c6a3eb10e3e6a4b15d8abbced3e5066c4,,saike.zwx,saike.zwx@alibaba-inc.com,2024-05-23T02:53:57Z,add sea languages from m3exam benchmark
+c7924874c061c943daaea12d967009c1753170b1,,root,772468951@qq.com,2024-05-22T09:08:51Z,add flageval clcc dataset
+f604cfe66c0f6df5b5670908b573cb0d92bd9a5d,imda-lseokmin,Seok Min,92433521+imda-lseokmin@users.noreply.github.com,2024-05-21T03:23:28Z,Merge pull request #24 from moonshot-admin/multiturn-agent
+4283b77cbc578a4f04a4f5235c90b623370c0ef8,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-21T03:21:56Z,Removed evaluation catalogue
+38e1026fa2fd9b1fc800c108c2f9903f938e5f74,imda-lseokmin,Seok Min,92433521+imda-lseokmin@users.noreply.github.com,2024-05-21T03:20:28Z,Merge pull request #23 from moonshot-admin/multiturn-agent
+09e3bd3759741dec55032242682dd06457b71499,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-21T03:18:07Z,Flipping the grade as it is wrong
+d35e4e23ca2e878a646c46602113f730466ef59d,imda-lseokmin,Seok Min,92433521+imda-lseokmin@users.noreply.github.com,2024-05-20T14:47:13Z,Merge pull request #21 from moonshot-admin/fix_attack_module_description
+55ca930d11950d86868f01bb98bdeab0c7979b2d,imda-lseokmin,Seok Min,92433521+imda-lseokmin@users.noreply.github.com,2024-05-20T14:47:01Z,Merge pull request #22 from moonshot-admin/multiturn-agent
+980c38827e867f4f3031d9843def7dfb33b74a04,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-20T14:41:31Z,Updated the prmopt + name
+25d2ef48a2dae6ff9bd6ebe490d1ac6251df2d03,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-05-20T08:55:21Z,updated description
+7b3e418d391e344423f4968298591357a077afd7,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-20T07:57:08Z,Updated the grading in mlc dataset. Updated multi-turn agent.
+11c4fef81f54331547c2dd8e6360d9d929b66c2b,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-17T15:47:45Z,Merge branch 'main' into multiturn-agent
+f9485e30c551844d5856b0a6a7b624355341ec09,imda-lseokmin,Seok Min,92433521+imda-lseokmin@users.noreply.github.com,2024-05-17T15:42:03Z,Merge pull request #20 from moonshot-admin/singapore-safety
+99de9546d83bf92608846648696025c4941a2c46,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-17T15:30:48Z,Updated with additional recipe and cookbook
+734c9cdd57271c09cf2183822675caa8063f7247,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-17T14:03:28Z,Added multiturn agent - beta
+f5838f25e2042510350a6cb937f613dd89dd5113,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-17T09:38:41Z,Merge pull request #19 from moonshot-admin/update_rt_response_format
+cf0ac5b525d70e8c380a14fb03dad66288495dea,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-05-17T08:07:43Z,Merge pull request #17 from moonshot-admin/job_role_bias_module
+5e9861aca7e89dcb7ef71e43b4e4a5af2c7a891d,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-05-17T08:04:41Z,Merge pull request #16 from moonshot-admin/malicious-question-generator
+a5d5663f1653d2139fa2c6acb7891e18b0902901,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-05-17T08:04:13Z,Merge pull request #13 from moonshot-admin/singapore-context-capability-test
+2b640855ec8a16e08ff9d71ed57c7af5974f79ab,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-05-17T08:01:02Z,Merge pull request #18 from moonshot-admin/test-dynamic-benchmark
+4b6e2ce269a2d7212566c49815181bc49788e5b9,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-05-17T06:31:54Z,updated rt with new return format
+afb28e96cabd5fe6f3be54d4e7495b913c627ce2,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-05-17T05:26:49Z,fixed issue with duplicate records in manual rt
+6bb0651be161ca1a3a601ff68e27522e713f483a,imda-sitaraja,Sita Rajagopal,sita_rajagopal@imda.gov.sg,2024-05-16T13:34:54Z,Update colloquial_wordswap_attack_module.py
+7feb77c482db107a0878d1de8f3d7992e465b8be,imda-sitaraja,Sita Rajagopal,sita_rajagopal@imda.gov.sg,2024-05-16T13:30:11Z,Remove Recipes
+f0527f060f43128b544d08ed1c8615dd9eadda2e,imda-sitaraja,Sita Rajagopal,sita_rajagopal@imda.gov.sg,2024-05-16T13:28:00Z,Update Colloquial Word Swap module
+768bc74c18171893100f6479fba0bc28837b0481,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-15T13:56:30Z,Added attack module to dynamically generate job role with demographic group.
+4c6a402cf8d7ac5d09243efdfa4acdf2926fe1e7,imda-sitaraja,Sita Rajagopal,sita_rajagopal@imda.gov.sg,2024-05-15T13:23:15Z,Merge branch 'main' into test-dynamic-benchmark
+180e3a3b2fdce6ba751a1daf20d21361dd985aa9,imda-sitaraja,Sita Rajagopal,sita_rajagopal@imda.gov.sg,2024-05-15T13:21:51Z,Testing Colloquial Benchmark Augmentation
+bb5e77e40e5056082bbbd2f6a29bb56150096bd4,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-15T10:52:27Z,Added new attack module that can generate malicious questions using GPT4.
+d9f4d986a77c1bcef11e3b530a82e3ff9ed847c4,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-05-15T09:29:05Z,Merge pull request #15 from moonshot-admin/fix-connector-id
+6effc85154cb3e03b3a22a8dc2964908f3ca298c,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-15T09:25:43Z,Merge pull request #14 from moonshot-admin/update_red_teaming
+9f295492011bbf964c44d7557965d01e881c45c7,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-15T09:12:18Z,fix together llama guard id and name
+83ab12f2495098d4dcc85fe6f8f7c0f3058ada99,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-05-15T05:35:33Z,updated benchmarking for dynamic benchmarking
+70d904e965a7901b87df1a47016d6f80b532a963,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-15T05:18:16Z,"Updated with datasets, recipe and cookbook related to Singapore's facts and key events."
+5b2defef609dfeceb3afc1beb4c9b5d8253c7343,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-14T22:33:45Z,Merge pull request #11 from moonshot-admin/add_cache
+0c730e2d3e7376e3a2fa53c50ccae324c6ad9fc5,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-14T14:45:41Z,Merge pull request #12 from moonshot-admin/update_red_teaming
+1cb168300ced2e56b796b8d1581d481b7dab4987,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-14T14:24:50Z,update cache items
+0c1d749b81090e1e045b5ded895b007360dc0978,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-05-14T14:23:51Z,updated red teaming with cancellation
+290f01d995de2c084dfede446e2b85bec576fd67,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-14T06:44:58Z,Merge pull request #10 from moonshot-admin/update_red_teaming
+57070e0dcdb6956b7e0bcef42d63e55f6eb1f8a6,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-05-14T06:29:50Z,updated redteaming with return type
+11fe65b02522b4fd855a478410d88e0b63213417,imda-lseokmin,Seok Min,92433521+imda-lseokmin@users.noreply.github.com,2024-05-14T04:36:40Z,Merge pull request #9 from moonshot-admin/fix-recipe-name
+f2f2ccac6ec500a06fa698a253c191e2ce024a45,imda-normanchia,imda-normanchia,132418893+imda-normanchia@users.noreply.github.com,2024-05-14T04:34:54Z,Update mlc-ai-safety.json
+149e2175e966e783f2e6fa60a9c877bddc079f44,imda-lseokmin,Seok Min,92433521+imda-lseokmin@users.noreply.github.com,2024-05-14T03:49:43Z,Merge pull request #7 from moonshot-admin/mlc-update
+ec5eabb0d264d3f99d841fe8c6297b901f32dcff,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-14T03:37:07Z,Merge pull request #5 from moonshot-admin/placeholder-files
+f0c1b43a9894e61aeac3df6da9fbde8e104ca5c1,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-14T03:36:35Z,Merge pull request #6 from moonshot-admin/relaxstrmatch-bug-fix
+b2d62219f6282037d63aff91b5d17bf478e7006b,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-14T03:36:08Z,Merge pull request #8 from moonshot-admin/update_red_teaming
+29b791719534c44462fc852c21bb63b872911944,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-05-14T03:30:11Z,updated red teaming modules
+2a187f2824612aa61861f7814fb2110a50ee6bf8,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-14T02:01:53Z,Updated the score to reflect in 100% instead of fraction.
+5963bd7acfb1cb074bf83bb97bd59c067fb822b1,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-14T01:53:35Z,Updated with hard-coded grading
+9643424ee0d1758ab0f9cad2f217467d2783f1e7,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-14T01:51:07Z,"Updated with MLC recipes, cookbooks and LlamaGuard pre and post prompt"
+1d91e8fa8734f83b8a5d636fd3135b30a8dd87dc,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-13T14:26:38Z,Adde str conversion for all rstrip
+b56bf48836885187f0df9554230fc99f3c78b089,,Norman Chia,normanchia@192.168.1.17,2024-05-13T13:53:23Z,add gitignore
+3cadad84da413736c62ea14291b07c2e045a6d76,,Norman Chia,normanchia@192.168.1.17,2024-05-13T13:48:08Z,add placeholder file in generated output folders
+3aeed77fc892ce5461ed9931c2115845b711d3b9,imda-lseokmin,Seok Min,92433521+imda-lseokmin@users.noreply.github.com,2024-05-13T11:20:01Z,Merge pull request #4 from moonshot-admin/refactor-cookbook
+ec57389fa16345d2f9a14fd5950afe6501c6113e,,Norman Chia,normanchia@Normans-MacBook-Pro-2.local,2024-05-13T10:23:33Z,fix recipe name
+980467277a7cd1ea96b81ba9949fb86f8ec6e787,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-05-12T16:49:25Z,Merge pull request #3 from moonshot-admin/update_modules
+9f2eb49d0df998b10d2268cdfb7a176dc62a3857,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-05-12T16:49:15Z,Merge pull request #2 from moonshot-admin/toxic_sentence_generator
+8e763841c9667eab98bc7a3df77b7b89c749d917,imda-kelvinkok,Kelvin Kok,129382289+imda-kelvinkok@users.noreply.github.com,2024-05-12T16:49:06Z,Merge pull request #1 from moonshot-admin/medical-llm-leaderboard-dataset
+f9aef57a75d61566128aa5106bf5a463b3ac6fe4,imda-lionelteo,Lionel Teo,93119265+imda-lionelteo@users.noreply.github.com,2024-05-12T15:39:11Z,update requirements and modules
+969cafa75b19f68321c29ea5eddd715fac744eef,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-05-10T08:41:56Z,updated with first version of requirements.txt and pyproject
+62e88712de5035e13526dec6a05a7ba731591ba9,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-09T18:31:48Z,added the missing recipes and dataset for the leaderboard
+09c6baea9f11860e5b536826e087f6bb1c09f4ac,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-09T18:21:42Z,Added toxic sentence generator
+ce4152d28d50ba42fc4e0eff37f7cb4f05d66956,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-09T17:47:55Z,Added back th emissing cookbooks
+1a7ede5408a6609ae51ce10f56147ca543befb34,imda-lseokmin,Seok Min,lim_seok_min@imda.gov.sg,2024-05-09T17:46:08Z,Added medical llm leaderboard based on the one hosted on huggingface
+64c8e8c368f9ce3f28e5399c3bdc02512c4bd94b,imda-kelvinkok,kelvin kok,kelvin_kok@imda.gov.sg,2024-05-09T10:19:35Z,init commit
+70b652657c4ba53f9e398e03bbf123e013139b13,moonshot-admin,moonshot-admin,153267393+moonshot-admin@users.noreply.github.com,2024-05-09T10:08:22Z,Initial commit
